@@ -1,0 +1,801 @@
+id,fecha,monto,g,j,i,o,hora,puntaje,razones,fraude
+59171,2020-04-17 01:04:02,1063.23,BR,cat_43b9c10,"iPhone 11 Pro Cinza Espac 5,8  4g 64gb Câm 12 Mp - Mwc22bz/a",N,1,0.6696169097329264,log_monto=6.97 (p=0.10%); log_c=15.7 (p=0.18%); hora=1 (p=1.91%),0
+101490,2020-04-19 01:46:55,214.84,US,cat_23212a0,Smart Tv Hd 32'' Noblex Dj32x5000 3583,N,1,0.6471765638465803,g=US (p=1.37%); log_c=15.1 (p=1.68%); hora=1 (p=1.91%),0
+91415,2020-04-18 01:00:56,88.4,BR,cat_2ffee1f,Par Farol Renault Sandero 2012 2013 14 Cromado Foco Simples,N,1,0.6468225571972762,h=57 (p=0.02%); q_neg=1 (p=0.29%); q=-0.02 (p=0.29%),0
+30515,2020-04-18 04:23:26,886.19,BR,cat_ecc5e25,Icom Ic746 Pro + Fonte Pyramide 30a,N,4,0.6431151587180587,log_monto=6.79 (p=0.17%); hora=4 (p=2.91%); es_madrugada=1 (p=3.71%),0
+87688,2020-04-18 02:59:18,358.22,BR,cat_43b9c10,Celular Samsung Galaxy A51 A515 Dual 128gb 4gb Ram Preto,N,2,0.6413334636952754,log_l=0 (p=1.35%); log_monto=5.88 (p=1.45%); log_c=15.1 (p=1.65%),1
+35991,2020-04-18 00:09:07,447.02,BR,cat_43b9c10,Motorola One Hyper Dual Sim 128 Gb Deepsea Blue 4 Gb Ram,N,0,0.6390314315152618,log_monto=6.1 (p=0.91%); hora=0 (p=1.27%); log_l=0.693 (p=1.56%),1
+95250,2020-04-20 04:10:14,196.93,BR,cat_f79d120,Vendo Juliet 24k Original,,4,0.638550506004928,log_c=2.18 (p=0.21%); q_neg=1 (p=0.29%); q=-0.02 (p=0.29%),1
+131039,2020-04-20 01:31:26,540.97,BR,cat_6c2e951,Jogo De Roda Aro 18 Concept Volcano 4x100 Frete Gratis,N,1,0.6357803094410689,log_monto=6.3 (p=0.61%); log_l=0 (p=1.35%); hora=1 (p=1.91%),1
+94626,2020-04-19 02:30:29,310.84,AR,cat_64a0a1a,Guitarra EpiPhone Aj-100 Ce Natural,,2,0.6356733239688233,log_monto=5.74 (p=1.92%); hora=2 (p=2.30%); h=50 (p=2.62%),0
+138118,2020-04-20 00:45:23,727.39,AR,cat_546fe2e,Batidora Planetaria Kitchenaid Heavy Duty Ksm7591x White  220v - 240v,N,0,0.6350990389936908,log_monto=6.59 (p=0.28%); hora=0 (p=1.27%); len_titulo=69 (p=2.06%),0
+40763,2020-04-18 00:14:20,337.63,AR,cat_43b9c10,Lg G7 Thinq,,0,0.6331427572041624,pct_mayusculas=0.273 (p=0.02%); len_titulo=11 (p=0.28%); log_c=2.59 (p=0.32%),1
+47110,2020-04-17 01:34:53,364.75,BR,cat_1516766,"Ar Condicionado Split Samsung Inverter, 9000 Btus, Branco - Ar09mvs",N,1,0.6314602114488186,log_l=0 (p=1.35%); log_monto=5.9 (p=1.39%); hora=1 (p=1.91%),1
+94149,2020-04-21 01:10:53,526.48,AR,cat_f17b656,Colchón Simmons Deepsleep 2 Plazas 190x150,N,1,0.6299219983526231,log_monto=6.27 (p=0.66%); hora=1 (p=1.91%); b=0.964 (p=1.92%),0
+111195,2020-04-17 23:11:14,531.52,BR,cat_43b9c10,Xiaomi Mi 9t Pro Dual Sim 64 Gb Branco-pérola 6 Gb Ram,N,23,0.6285574694651259,log_monto=6.28 (p=0.64%); log_l=0 (p=1.35%); hora=23 (p=2.21%),1
+90328,2020-04-16 06:05:47,1841.6,US,cat_23212a0,Smart Tv Oled Lg 55 55b8s 4k Uhd Ips Hdr Webos 4.0,N,6,0.6284350309847547,log_monto=7.52 (p=0.02%); g=US (p=1.37%); log_c=15.1 (p=1.66%),1
+143489,2020-04-20 00:50:30,331.83,BR,cat_bba902e,Caixa De Som Jbl Partybox 100 Portátil Sem Fio Preto 100v/240v,N,0,0.6272412228722587,hora=0 (p=1.27%); log_l=0 (p=1.35%); log_monto=5.81 (p=1.67%),1
+131084,2020-04-17 02:49:23,245.77,BR,cat_1516766,Ar Condicionado Electrolux Ecoturbo Split Frio 12000btu/h Branco 220v Vi12f/ve12f,N,2,0.622129644355386,len_titulo=81 (p=1.35%); hora=2 (p=2.30%); a=1 (p=2.71%),1
+127649,2020-04-17 22:31:39,447.02,BR,cat_43b9c10,Motorola One Hyper Dual Sim 128 Gb Fresh Orchid 4 Gb Ram,N,22,0.6219783684992045,log_monto=6.1 (p=0.91%); log_l=0 (p=1.35%); log_c=15.1 (p=1.65%),1
+145808,2020-04-20 18:38:47,1650.0,UY,cat_43b9c10,iPhone 11 Pro Max 256gb - Oferta Limitada!,Y,18,0.6214525616222347,log_monto=7.41 (p=0.03%); g=UY (p=1.86%); log_f=5.57 (p=2.75%),0
+12189,2020-04-21 00:20:26,628.86,BR,cat_43b9c10,Apple iPhone 8 Plus 64 Gb Cinza-espacial 3 Gb Ram,,0,0.6214188910657767,log_monto=6.45 (p=0.42%); hora=0 (p=1.27%); log_l=0.693 (p=1.56%),1
+91181,2020-04-15 01:35:09,38.42,US,cat_3203c7c,Danielle Steel Lote De 25 Libros Oferta,N,1,0.6213259869933262,log_c=2.9 (p=0.45%); g=US (p=1.37%); hora=1 (p=1.91%),0
+107273,2020-04-21 12:42:10,393.85,US,cat_7875fc6,"Barra Redonda Laminada De Ø 1/2 (12,70 Mm) X 6 Mt. Gramabi Hierro Macizo Herrero Rejas Construcción Herrería Acindar",N,12,0.6213164003628867,len_titulo=116 (p=0.33%); n_palabras=19 (p=0.34%); log_monto=5.98 (p=1.18%),0
+50038,2020-04-19 00:46:50,6.14,US,cat_58076b9,Dije Collar Corazon Rompecabeza Acero +cadenas 55cm +estuche,,0,0.6212082243771782,hora=0 (p=1.27%); g=US (p=1.37%); pct_mayusculas=0.0833 (p=2.05%),0
+121918,2020-04-21 07:32:02,657.68,US,cat_43b9c10,Samsung Galaxy A70 128 Gb Blanco 6 Gb Ram,N,7,0.6206202253823664,log_monto=6.49 (p=0.37%); g=US (p=1.37%); log_m=7.11 (p=1.46%),0
+113285,2020-04-18 23:38:56,2.3,US,cat_6b689ff,Solo Para Djs Edicion 04,N,23,0.6199663215940528,b=0 (p=0.38%); log_c=2.9 (p=0.46%); g=US (p=1.37%),0
+107169,2020-04-19 00:35:09,105.89,AR,cat_4861b83,Extractor De Aire Industrial 30 Cm Rulemanes Envio Gratis,N,0,0.619750661084579,f_neg=1 (p=0.81%); hora=0 (p=1.27%); es_madrugada=1 (p=3.71%),1
+112858,2020-04-20 23:38:17,373.97,BR,cat_e5ca240,Notebook Acer Aspire 3 A315-53-p884 Pentium Gold 4gb 500gb,N,23,0.6182231988559399,log_c=15.6 (p=0.32%); log_monto=5.93 (p=1.32%); log_l=0 (p=1.35%),1
+93914,2020-04-18 05:06:23,118.16,BR,cat_4249bd8,Tenis Mizuno Wave Profhecy 3 Liquidação,N,5,0.6170907535740024,log_c=5.4 (p=3.03%); es_madrugada=1 (p=3.71%); hora=5 (p=3.71%),1
+25326,2020-04-20 05:11:52,374.45,US,cat_23212a0,Smart Tv Noblex 43 Dj43x5100 Cuotas,,5,0.6160833604562012,log_monto=5.93 (p=1.31%); g=US (p=1.37%); log_c=14.4 (p=3.34%),0
+19552,2020-04-21 08:56:07,376.27,BR,cat_ebe1be6,Polia Viscosa Helice Dodge Ram 2500 3500 - 5.9 / 6.7 - 03/08,N,8,0.6159077602946647,cant_simbolos=6 (p=0.61%); log_monto=5.93 (p=1.30%); log_l=0 (p=1.35%),0
+79014,2020-04-15 01:35:02,8.44,US,cat_d1cacf8,Llave Francesa Ajustable 6 Pulgadas Irimo 5-150 By Bahco,N,1,0.6156949011873872,g=US (p=1.37%); hora=1 (p=1.91%); log_l=2.4 (p=2.12%),1
+71641,2020-04-21 01:39:55,266.29,BR,cat_a34d8ac,Barra De Ouro 750 18k Em Gramas Venda A Partir De 1 Grama,,1,0.6153624850117407,log_l=0 (p=1.35%); hora=1 (p=1.91%); log_monto=5.59 (p=2.47%),1
+19838,2020-04-19 19:15:22,153.47,AR,cat_43b9c10,"Samsung Galaxy J4 32gb, 2gb Ram 2018",N,19,0.6153351418160468,b=0 (p=0.38%); log_c=4.16 (p=1.31%); log_l=0 (p=1.35%),1
+51697,2020-04-20 01:20:06,289.29,BR,cat_43b9c10,Xiaomi Redmi Note 8 Dual Sim 64 Gb Branco-lua 4 Gb Ram,N,1,0.6150247283791062,log_l=0 (p=1.35%); hora=1 (p=1.91%); log_monto=5.67 (p=2.18%),1
+46444,2020-04-21 05:42:41,7.6,US,cat_803df0e,Espaldeira Corretor Postural Magnético Unissex,N,5,0.6124426392945044,log_l=0 (p=1.35%); g=US (p=1.37%); es_madrugada=1 (p=3.71%),0
+40367,2020-04-18 01:28:36,3.53,AR,cat_d5975ae,Assassins Creed 4 Black Flag Ps3 + Season Pass,,1,0.6122527682020172,log_l=0 (p=1.35%); hora=1 (p=1.91%); b=0.375 (p=2.29%),0
+43741,2020-04-20 20:31:17,644.57,AR,cat_e9110c5,Bicicleta Gt Avalanche,,20,0.6118387104053128,b=0 (p=0.38%); log_monto=6.47 (p=0.40%); log_c=4.03 (p=1.19%),1
+100420,2020-04-19 05:56:00,167.2,BR,cat_896a7e9,Ofurô Vitoriano Individual 110x70x60!! Imersão Promoção,N,5,0.6117971759365882,es_madrugada=1 (p=3.71%); hora=5 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+89250,2020-04-18 00:41:39,10.74,AR,cat_d5975ae,Fifa 20 100k 100.000 Últimate Team Oferta,Y,0,0.6109526777478914,b=0.0441 (p=0.44%); hora=0 (p=1.27%); es_madrugada=1 (p=3.71%),0
+42603,2020-04-17 23:12:41,1270.99,AR,cat_fd1336f,Prs Se Mark Tremonti Custom,,23,0.6103180666268587,log_monto=7.15 (p=0.07%); hora=23 (p=2.21%); len_titulo=27 (p=3.08%),0
+29333,2020-04-19 00:33:46,5.02,UY,cat_a55afff,Globos Colores Pasteles. Extra Calidad Premium.,N,0,0.6102846375949126,hora=0 (p=1.27%); g=UY (p=1.86%); log_c=5.25 (p=2.76%),0
+126467,2020-04-17 23:22:46,1023.85,BR,cat_e5ca240,Notebook Gamer Acer An515-54-56sa I5 16gb Gtx 1650 1tb 256gb,N,23,0.6090991479997943,log_monto=6.93 (p=0.11%); log_c=15.6 (p=0.31%); cant_digitos=18 (p=1.53%),1
+922,2020-04-21 02:42:25,455.19,BR,cat_228843f,Apple Watch S4 44mm Gps Bluetooth Lançamento C Garantia,N,2,0.6086311275324117,log_monto=6.12 (p=0.88%); hora=2 (p=2.30%); es_madrugada=1 (p=3.71%),1
+146455,2020-04-18 02:55:26,32.23,AR,cat_49989a2,"Disipador Aluminio Grande Alta Potencia - 10cm X 40cm X 3,7cm - 400w",,2,0.6081526812133027,log_l=0 (p=1.35%); len_titulo=68 (p=2.15%); hora=2 (p=2.30%),0
+51805,2020-04-17 01:36:18,491.1,AR,cat_a330f18,T800 Hot Toys Dx10 Terminator Arnold,,1,0.6081257059688833,log_monto=6.2 (p=0.76%); hora=1 (p=1.91%); es_madrugada=1 (p=3.71%),0
+147089,2020-04-18 00:30:52,116.94,AR,cat_e7c6ab6,Lampara De Pie Arco Medium Cobre Moderna Apto Led Luz Desing,Y,0,0.6079570150590038,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+60347,2020-04-20 23:19:56,70.86,US,cat_9fa36d4,Cinco Pares Sapatilha Feminina Bico Fino Atacado D Qualidade,N,23,0.6078611375611609,g=US (p=1.37%); hora=23 (p=2.21%); log_l=4.33 (p=4.07%),1
+144935,2020-04-15 00:24:38,43.95,US,cat_f2dee25,Calefactor Convector 3 Niveles Potencia 2000 Watts Chavay,,0,0.6076681694335734,hora=0 (p=1.27%); g=US (p=1.37%); log_l=3.14 (p=2.57%),1
+138058,2020-04-18 23:35:56,5.12,RU,cat_41658ff,Free Fire 610 Diamantes +61 Bônus (671) Recarga P/ Conta,N,23,0.6070179479362976,g=RU (p=0.05%); hora=23 (p=2.21%); cant_simbolos=4 (p=4.01%),1
+40197,2020-04-16 00:17:21,2.11,US,cat_6c4cfdc,Sonic Mania Xbox One Mídia Digital + Jogo Brinde,Y,0,0.6068476601325989,log_monto=1.13 (p=1.21%); hora=0 (p=1.27%); g=US (p=1.37%),0
+10608,2020-04-18 23:07:59,5.78,AR,cat_99495e4,Esmalte Semi-permanente,N,23,0.6065734842184909,n_palabras=2 (p=0.64%); len_titulo=23 (p=1.96%); hora=23 (p=2.21%),0
+75011,2020-04-16 22:00:19,61.39,AR,cat_d5975ae,3djuegosmortal Kombat 11 Para Nintendo Switch,N,22,0.604893169470535,log_c=4.8 (p=2.05%); pct_mayusculas=0.0889 (p=3.18%); log_l=8.61 (p=5.57%),1
+44319,2020-04-18 00:16:58,122.77,AR,cat_488a981,Tarjeta Amazon 10 U$ Digital - Entrega Inmediata,N,0,0.6048171753925926,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),1
+102935,2020-04-16 02:02:46,0.77,AR,cat_5e3b870,Lapiz Corrector Filgo 7 Ml Punta Metalica Tipo Liquid,Y,2,0.6044389196657006,log_monto=0.571 (p=0.26%); hora=2 (p=2.30%); es_madrugada=1 (p=3.71%),1
+136768,2020-04-14 23:23:42,285.87,BR,cat_f0ec611,Jesus Is King T-shirts,,23,0.6042898749852865,log_l=0 (p=1.35%); len_titulo=22 (p=1.76%); hora=23 (p=2.21%),0
+44955,2020-04-19 01:48:43,29.05,BR,cat_02222ba,"Kit Super Led Jac T5 T6 T8 2016 Farol Alto,baixo E Milha",N,1,0.6031442619502712,q_neg=1 (p=0.29%); q=-0.02 (p=0.29%); pct_mayusculas=0.196 (p=1.42%),1
+132463,2020-04-20 15:34:54,433.69,UY,cat_43b9c10,iPhone 8 256 Gigas,Y,15,0.6030228094774385,log_monto=6.07 (p=0.97%); len_titulo=18 (p=1.01%); b=1 (p=1.42%),0
+49467,2020-04-15 05:21:03,22.43,UY,cat_71f63b5,Keller 22kg+ 5 Latas De Pate+ +envios,Y,5,0.6029855553100973,g=UY (p=1.86%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+69720,2020-04-21 17:13:46,582.29,UY,cat_3becde0,Playstation 4 Ps4 1tb + Fifa 20 + 2 Controles Original- Otec,Y,17,0.6027168830784162,log_monto=6.37 (p=0.50%); g=UY (p=1.86%); log_m=6.8 (p=6.37%),0
+77715,2020-04-18 00:50:48,23.94,UY,cat_7696402,Chromecast Anycast Dongle Wifi Converti Tv En Smart Tv!!!!!!,,0,0.6026623976485601,cant_simbolos=6 (p=0.61%); hora=0 (p=1.27%); g=UY (p=1.86%),0
+115952,2020-04-21 21:16:53,833.57,US,cat_40c7a43,Cocina Longvie 21601x Multigas 4 Hornallas Ac. Inox 60cm 12c,Y,21,0.6026462872283177,log_c=16.3 (p=0.00%); log_monto=6.73 (p=0.20%); g=US (p=1.37%),0
+2214,2020-04-21 00:31:20,262.01,AR,cat_9bd30a6,Silla Gamer Linea Pro Reclinable 180º Ideal Pc Play Station Xbox Soporte Lumbar Y Cervical Ergonómica Anatómica Calidad,N,0,0.6024909639746252,len_titulo=119 (p=0.19%); n_palabras=18 (p=0.47%); hora=0 (p=1.27%),0
+66590,2020-04-18 07:57:20,610.29,BR,cat_a954a3a,Fliperama 32 Smart - 41374jogos +subwoolf +led Subgames,,7,0.6019698913602158,pct_mayusculas=0.0545 (p=0.19%); log_monto=6.42 (p=0.45%); b=0.971 (p=1.79%),0
+84635,2020-04-19 00:24:56,157.54,BR,cat_e790de8,Cordão Corrente 70cm + Pingente Cruz Crucifixo Ouro 18k,N,0,0.6019238588946251,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),1
+38823,2020-04-19 23:44:37,153.47,AR,cat_488a981,Tarjeta Amazon 10 U$ Digital - Entrega Inmediata,Y,23,0.6017159952462269,b=1 (p=1.42%); hora=23 (p=2.21%); log_l=4.61 (p=4.62%),1
+96973,2020-04-19 01:44:12,14.43,AR,cat_a349b79,Zapatilla Prowess 9100 Azul Francia T 28 29 30 31 32 33  Niños,N,1,0.6005773866100161,hora=1 (p=1.91%); cant_digitos=16 (p=2.31%); len_titulo=62 (p=2.66%),0
+46746,2020-04-20 01:23:07,331.83,BR,cat_bba902e,Caixa De Som Bluetooth Jbl Party Box 100 Bateria 160w Rms,,1,0.6000891147288585,log_l=0 (p=1.35%); log_monto=5.81 (p=1.67%); hora=1 (p=1.91%),1
+5787,2020-04-19 00:28:38,82.59,BR,cat_acb7f4c,Ballantine's Finest Whisky Escocês - 1l,,0,0.5999653353805162,hora=0 (p=1.27%); log_l=0 (p=1.35%); a=1 (p=2.71%),1
+61825,2020-04-17 22:28:14,76.73,AR,cat_23212a0,"Tv Lcd 32 , Marca Audinac",N,22,0.5999301690032692,log_l=0.693 (p=1.56%); len_titulo=25 (p=2.43%); hora_bin=noche (p=5.87%),1
+45992,2020-04-18 01:15:01,53.7,AR,cat_ea962fb,Auricular Deportivo Inalámbrico Bluetooth 5.0 In Ear Tactil,N,1,0.5997401746540441,hora=1 (p=1.91%); log_l=3.43 (p=2.83%); es_madrugada=1 (p=3.71%),0
+42337,2020-04-18 20:03:48,2.22,AR,cat_d9753d4,**spoti**fy 1 Mes Pr**miüm***personal Oficial!,N,20,0.5992841192356254,cant_simbolos=10 (p=0.03%); pct_mayusculas=0.0652 (p=0.28%); b=0.0778 (p=0.50%),1
+99747,2020-04-20 00:40:12,11.18,UY,cat_d846dda,Conjuntos Deportivos,,0,0.5992507151811732,n_palabras=2 (p=0.64%); hora=0 (p=1.27%); len_titulo=20 (p=1.35%),0
+82084,2020-04-18 00:35:23,174.94,US,cat_bfe5d9b,Soldadora Mig Dogo 100 Solo Alambre No Gas / Flux,,0,0.5992425357263743,f_neg=1 (p=0.81%); hora=0 (p=1.27%); g=US (p=1.37%),0
+87751,2020-04-16 01:00:04,13.55,US,cat_37826b4,Fideos Terrabusi Tirabuzon Bulto De 15 Paquetes X 500 Gr,,1,0.599205754154031,log_l=0 (p=1.35%); g=US (p=1.37%); hora=1 (p=1.91%),1
+94617,2020-04-20 00:23:06,2.99,US,cat_b9ae8ef,Cuadros Decorativos Frases Flores Tropical,,0,0.5991545721379559,hora=0 (p=1.27%); g=US (p=1.37%); log_monto=1.38 (p=2.62%),0
+66054,2020-04-17 09:48:48,192.88,UY,cat_0a15c1f,Puerta Placard,Y,9,0.5991215202951669,len_titulo=14 (p=0.54%); n_palabras=2 (p=0.64%); g=UY (p=1.86%),0
+141868,2020-04-21 00:19:52,6.04,AR,cat_eb027de,Armónica Blusera Goldencup Custom En Do 20 Voces Estuche,N,0,0.5989824028268274,hora=0 (p=1.27%); log_l=3.18 (p=2.61%); h=50 (p=2.62%),0
+30780,2020-04-19 00:13:55,2.32,BR,cat_d018e12,Samsung Controle Remoto Tv Led Smart Aa59-00588a C01276,N,0,0.5988011272149926,log_c=15.5 (p=0.74%); hora=0 (p=1.27%); log_monto=1.2 (p=1.47%),0
+32083,2020-04-16 06:15:21,2877.62,BR,cat_dfc5fb1,Filmadora Jvc Gy-sl300 4k,Y,6,0.5987528125519549,log_monto=7.97 (p=0.00%); len_titulo=25 (p=2.43%); n_palabras=4 (p=3.50%),0
+41129,2020-04-21 00:28:43,279.6,BR,cat_43b9c10,Xiaomi Mi A3 Dual Sim 64 Gb Azulón 4 Gb Ram,N,0,0.598632650608855,pct_mayusculas=0.209 (p=0.50%); hora=0 (p=1.27%); log_monto=5.64 (p=2.28%),1
+66861,2020-04-18 00:35:35,14.58,AR,cat_b4938d4,Colchoneta Funda C/ Cierre Gimnasia Alta Densidad 2cm,,0,0.5980634931896457,hora=0 (p=1.27%); log_l=0 (p=1.35%); h=50 (p=2.62%),0
+143279,2020-04-15 00:29:53,279.9,UY,cat_02711c1,Torre Pc Computadora Nueva Amd A6 Dual Core 8gb Ram 1tb Wifi,,0,0.5977888077888399,hora=0 (p=1.27%); g=UY (p=1.86%); log_monto=5.64 (p=2.28%),0
+35704,2020-04-19 01:41:06,176.47,US,cat_612334e,Ebook Reader Kobo Aura 2 Luz 4gb Wifi Epub Mobi Paperwhite,,1,0.5973399078336551,g=US (p=1.37%); hora=1 (p=1.91%); es_madrugada=1 (p=3.71%),0
+148560,2020-04-20 02:40:22,29.14,AR,cat_3871068,Mochila Maternal Bolso Bebe Impermeable Bolsillos Termica,N,2,0.5970956862446103,log_c=14.9 (p=2.17%); hora=2 (p=2.30%); log_l=3.33 (p=2.74%),1
+108783,2020-04-18 13:04:08,1165.09,AR,cat_dd47b78,Sommier 2 Plazas 160x200 Resortes Linea Dofuan La Cardeuse,N,13,0.5965583800231787,log_monto=7.06 (p=0.08%); log_l=8.71 (p=2.72%); b=0.915 (p=3.39%),1
+77629,2020-04-20 03:27:33,168.81,AR,cat_21ac14d,Cartuchos Originales Brother Lc505 Y Lc509bk Pack 4 Colores,Y,3,0.5963484974081805,hora=3 (p=2.56%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),1
+25301,2020-04-15 09:54:06,608.54,AR,cat_43b9c10,Samsung Galaxy A10 32 Gb Negro 2 Gb Ram,Y,9,0.5958735675343898,log_monto=6.41 (p=0.45%); b=0.944 (p=2.47%); log_c=14.6 (p=2.53%),0
+128926,2020-04-15 00:17:27,4.61,AR,cat_273468c,Curso Muebles De Melamina + Contruccion Casa De Madera,N,0,0.5956791513056672,b=0.0088 (p=0.38%); hora=0 (p=1.27%); es_madrugada=1 (p=3.71%),0
+113060,2020-04-17 02:47:49,5.2,AR,cat_26b3981,Adaptador Placa De Red Usb Ethernet 10/100 Rj45 Tecnopedido,N,2,0.5949439195377746,hora=2 (p=2.30%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+65199,2020-04-21 23:07:22,109.97,US,cat_01a1725,Maleta Maquiagem Rodinhas Com Chave Porta Cosmético + Brinde,,23,0.5948350500557992,log_l=0 (p=1.35%); g=US (p=1.37%); hora=23 (p=2.21%),1
+98523,2020-04-19 08:23:22,183.72,US,cat_825f6a3,Freezer Marca Gafa 277lt,Y,8,0.5947471861974125,log_c=4.15 (p=1.30%); g=US (p=1.37%); len_titulo=24 (p=2.19%),0
+86837,2020-04-20 23:43:40,14.58,AR,cat_b7aad39,Memoria Ram Notebook So-dimm 2g Ddr2 800,,23,0.594382920861596,b=0 (p=0.38%); log_c=3.83 (p=1.02%); log_l=0 (p=1.35%),0
+66633,2020-04-21 07:56:53,535.32,AR,cat_6e82c60,Controlador Dj Consola Pioneer Ddj 400 2 Canales Incluye Licencia Oficial Rekordbox - Nuevas - Garantia - Factura,,7,0.5942398678869766,len_titulo=113 (p=0.41%); n_palabras=18 (p=0.47%); log_monto=6.28 (p=0.63%),0
+52025,2020-04-20 23:32:43,145.79,AR,cat_3203c7c,Libro De Cuentos League Of Legends Diamon Iv 250skins Y +,N,23,0.5941052811006627,hora=23 (p=2.21%); log_monto=4.99 (p=5.79%); hora_bin=noche (p=5.87%),1
+132088,2020-04-15 19:20:02,194.02,UY,cat_dec148b,Motor Portón Corredizo Rossi Nano 36,Y,19,0.5937436678218844,log_m=7.38 (p=0.19%); g=UY (p=1.86%); log_f=5.47 (p=3.14%),0
+119539,2020-04-16 00:51:49,324.04,BR,cat_b7aad39,Memória G.skill 32gb 2x16 Ddr4 3600mhz Trident Z Rgb Neo Amd,N,0,0.593167635472744,hora=0 (p=1.27%); log_monto=5.78 (p=1.73%); es_madrugada=1 (p=3.71%),1
+54219,2020-04-17 10:15:06,0.23,UY,cat_e519179,Rejas Coloniales En Hierro Forjado A Fragua,N,10,0.5929037548464647,log_monto=0.207 (p=0.04%); b=0.999 (p=1.48%); g=UY (p=1.86%),0
+65096,2020-04-19 23:14:01,18.4,AR,cat_4ff2cdf,Soporte Led Movil Brazo Doble Articulado 32  39  40  42  43,N,23,0.5928193089620853,hora=23 (p=2.21%); h=47 (p=4.80%); hora_bin=noche (p=5.87%),0
+69394,2020-04-17 11:52:52,470.37,UY,cat_43b9c10,iPhone 11,,11,0.5921407360996824,len_titulo=9 (p=0.18%); n_palabras=2 (p=0.64%); log_monto=6.16 (p=0.84%),0
+28326,2020-04-17 16:31:09,181.16,US,cat_43b9c10,Celular Samsung Galaxy A10s Dual 6.2  4g 32gb A107 Azul,N,16,0.5918542352087469,log_l=0 (p=1.35%); g=US (p=1.37%); log_c=15.1 (p=1.66%),1
+91420,2020-04-19 00:01:40,78.75,BR,cat_b988757,Churrasqueira Elétrica Cadence Automatic Grill,,0,0.591792718568583,hora=0 (p=1.27%); a=1 (p=2.71%); es_madrugada=1 (p=3.71%),0
+125970,2020-04-17 23:54:21,53.56,US,cat_ce6b8ab,"Kit Tijeras Barberia Micro + Pulir + Navaja Pointcut 6,5",N,23,0.591786036139654,g=US (p=1.37%); hora=23 (p=2.21%); log_l=4.58 (p=4.56%),1
+21247,2020-04-15 05:02:19,9.13,UY,cat_2b24e6e,Aceite Mazza Extra Virgen 1 Lt Jarra,,5,0.5916807164429823,g=UY (p=1.86%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+83109,2020-04-15 11:17:02,1321.36,BR,cat_4aab650,Gimbal Eletronico  Zhiyun Crane 3 Lab,N,11,0.59133187901746,log_monto=7.19 (p=0.06%); f_neg=1 (p=0.81%); b=0.901 (p=4.04%),1
+44782,2020-04-19 23:55:58,153.19,BR,cat_43b9c10,Motorola Moto E E6 Plus Dual Sim 64 Gb Caribbean Blue 4 Gb Ram,Y,23,0.5911032338571083,pct_mayusculas=0.194 (p=1.64%); n_palabras=14 (p=1.91%); hora=23 (p=2.21%),0
+97624,2020-04-20 19:48:49,1193.01,AR,cat_3d3ae76,Mono Cuero Pista Moto Alpinestars Motegi  Rider Pro,Y,19,0.5910440405324603,log_monto=7.09 (p=0.08%); h=46 (p=5.52%); o=Y (p=16.26%),1
+145839,2020-04-20 03:51:33,368.02,AR,cat_f8b3160,Camara Ip 1080p Wifi Vision 360° Nocturna Sd 32gb + Google,,3,0.5907944499889741,log_monto=5.91 (p=1.37%); hora=3 (p=2.56%); es_madrugada=1 (p=3.71%),0
+123216,2020-04-21 02:08:48,74.04,AR,cat_ab3a6ec,Kit Monoplato Wkns Shifter + Cambio + Piñon 11/42 1x10,Y,2,0.5906621345365797,hora=2 (p=2.30%); b=0.446 (p=3.64%); es_madrugada=1 (p=3.71%),0
+80363,2020-04-15 04:09:10,10.3,UY,cat_fb38a21,Nutrientes Para Hidroponia Kit 500 Ltos De Riego,Y,4,0.5905977352029904,b=0.157 (p=0.70%); log_c=4.17 (p=1.32%); g=UY (p=1.86%),0
+20095,2020-04-15 00:05:43,15.08,UY,cat_d9753d4,Armador Cig Arrillo .envio Todo El Pais,,0,0.5905677988686178,b=0 (p=0.38%); log_c=3.32 (p=0.66%); hora=0 (p=1.27%),0
+98033,2020-04-15 01:54:53,5.7,UY,cat_52d93e7,Gorro De Visera Y Cubre Nuca Verde O Beige Explorer Pro Shop,,1,0.5905325151586078,log_f=6.12 (p=1.19%); pct_mayusculas=0.2 (p=1.34%); g=UY (p=1.86%),0
+4999,2020-04-15 22:00:51,1444.6,AR,cat_4f8fd1f,Cinta Para Correr-caminar Arg-783 Randers,,22,0.5904940905838681,log_monto=7.28 (p=0.05%); hora_bin=noche (p=5.87%); hora=22 (p=5.87%),0
+127959,2020-04-16 17:23:52,600.0,UY,cat_462ec1f,Pastor Belga Malinois,Y,17,0.590252709066498,log_monto=6.4 (p=0.47%); b=1 (p=1.42%); len_titulo=21 (p=1.52%),0
+95364,2020-04-15 01:13:48,10.07,UY,cat_2b24e6e,"Aceite De Coco Orgánico,prensado En Frío,natural,100%puro",,1,0.5901440985419778,log_c=3.47 (p=0.75%); g=UY (p=1.86%); hora=1 (p=1.91%),0
+107215,2020-04-19 09:28:28,12.51,AR,cat_d5975ae,1000 Diamantes Free Fire Solo Con Tu Id,N,9,0.5900517885528909,log_l=2.3 (p=2.08%); b=0.378 (p=2.33%); log_c=5.46 (p=3.15%),0
+104700,2020-04-21 00:51:14,17.17,US,cat_9254e3a,"Silencioso Esportivo Peugeot 206 1.0/1.6 16v 1,4/1.6 8v",Y,0,0.5899922375258008,pct_mayusculas=0.0545 (p=0.19%); cant_simbolos=6 (p=0.61%); hora=0 (p=1.27%),0
+115767,2020-04-15 03:09:19,17.16,UY,cat_2ca92d9,Pañales De Entrenamiento Para Perros 50 Unidades + Snacks,Y,3,0.5899508220438813,g=UY (p=1.86%); hora=3 (p=2.56%); es_madrugada=1 (p=3.71%),0
+6386,2020-04-21 22:24:23,22.96,BR,cat_0663b8c,Forno Elétrico Fast 8 Litros 650w 220v Preto Lenoxx,N,22,0.5897252117655809,log_c=15.4 (p=0.82%); log_l=0 (p=1.35%); a=1 (p=2.71%),0
+20154,2020-04-14 22:02:45,209.64,BR,cat_bba902e,Caixa De Som Jbl Xtreme Portátil Sem Fio Blue,N,22,0.5895051905423963,pct_mayusculas=0.2 (p=1.34%); log_l=0 (p=1.35%); log_monto=5.35 (p=3.70%),1
+42639,2020-04-20 22:02:01,411.19,BR,cat_43b9c10,Xiaomi Mi 9 Lite Dual Sim 128 Gb Azul-aurora 6 Gb Ram,N,22,0.5892612294788366,log_monto=6.02 (p=1.08%); b=0.939 (p=2.58%); hora_bin=noche (p=5.87%),1
+145821,2020-04-15 00:39:35,1.69,AR,cat_4e525c8,Florero Retro Vintage,,0,0.5890551438526366,log_f=6.97 (p=0.35%); log_monto=0.99 (p=0.83%); log_l=8.78 (p=1.16%),0
+78816,2020-04-15 04:08:10,153.09,UY,cat_16335fe,Hongo A Gas - Estufa Calefaccion Calor - Color Blanco,,4,0.589020915739865,g=UY (p=1.86%); hora=4 (p=2.91%); es_madrugada=1 (p=3.71%),0
+122071,2020-04-16 02:22:30,222.51,AR,cat_a4921b8,Printer Mf/ Hp Ink Tank Aio 415 Wireless,Y,2,0.5889445724811675,hora=2 (p=2.30%); log_monto=5.41 (p=3.42%); es_madrugada=1 (p=3.71%),0
+70329,2020-04-19 11:20:22,613.86,AR,cat_43b9c10,Samsung Galaxy A9 (2018) 128 Gb Azul Limonada 6 Gb Ram,Y,11,0.5887999494604393,log_monto=6.42 (p=0.44%); log_c=14.2 (p=4.13%); b=0.9 (p=4.14%),0
+5050,2020-04-19 22:38:31,78.58,SE,cat_534ea1e,Microondas Philco Pme25 Prata 25l 220v,,22,0.5887739668689759,g=SE (p=0.23%); a=1 (p=2.71%); log_c=13.9 (p=4.64%),0
+98361,2020-04-18 01:32:56,7.66,AR,cat_d4ac53b,Gorra Conair Pro Para Reflejos X4u. Claritos Mechas Plastica,,1,0.5886132635724217,log_l=1.79 (p=1.86%); hora=1 (p=1.91%); es_madrugada=1 (p=3.71%),0
+6541,2020-04-19 23:31:25,236.32,BR,cat_462ec1f,Filhote Macho De Bulldog Francês,,23,0.5885165422674279,log_l=0 (p=1.35%); b=1 (p=1.42%); hora=23 (p=2.21%),0
+12583,2020-04-20 15:39:05,479.0,UY,cat_3becde0,Playstation 4 Slim 1024 Gb + De 100 Free Games De Regalo,Y,15,0.5884673595903166,log_monto=6.17 (p=0.80%); g=UY (p=1.86%); b=0.938 (p=2.62%),0
+14980,2020-04-17 04:33:15,82.55,AR,cat_a4921b8,Impresora All-in-one Hp Deskjet Ink 3787 - Interhard,N,4,0.5883720602812118,b=0 (p=0.38%); log_c=5.25 (p=2.77%); hora=4 (p=2.91%),0
+99414,2020-04-15 16:35:09,767.32,AR,cat_09e3852,Monitor Pc Gamer Curvo 32'' Samsung 144hz Qled Widescreen Serie Jg50 Hdmi Display Port Garantia 3 Años,Y,16,0.5882757573711357,log_monto=6.64 (p=0.24%); len_titulo=102 (p=0.62%); n_palabras=17 (p=0.65%),0
+13482,2020-04-15 15:47:22,1029.66,AR,cat_43b9c10,Xiaomi Mi Note 10 Dual Sim 128 Gb Verde Aurora 6 Gb Ram,N,15,0.5881997606215154,log_monto=6.94 (p=0.11%); n_palabras=13 (p=3.71%); pct_mayusculas=0.182 (p=4.60%),0
+17462,2020-04-17 05:29:08,141.19,AR,cat_e88583a,Aparejo Electrico 500kg 12mt Malacate Monta Carga Guinche,,5,0.5880848213883483,log_l=0 (p=1.35%); log_c=14.5 (p=2.95%); es_madrugada=1 (p=3.71%),0
+139075,2020-04-19 03:12:40,21.49,AR,cat_a8bd824,Sistema P/ Hp 3545 4645 2545 1515 C/ Valvula + 400ml + Negro,Y,3,0.5877604591710759,cant_digitos=19 (p=1.26%); hora=3 (p=2.56%); es_madrugada=1 (p=3.71%),0
+5392,2020-04-18 23:00:24,160.99,AR,cat_43b9c10,Celular Libre Motorola Moto E6 Play  32gb 2gb Ram Nuevo,Y,23,0.5875797013177145,hora=23 (p=2.21%); log_monto=5.09 (p=5.09%); hora_bin=noche (p=5.87%),0
+134417,2020-04-20 00:37:32,10.93,AR,cat_7e21df5,Conjunto Sigry 1565 Push Up Con Moño,N,0,0.5875029893799777,hora=0 (p=1.27%); b=0.413 (p=2.92%); es_madrugada=1 (p=3.71%),0
+87930,2020-04-17 07:26:30,1260.36,BR,cat_43b9c10,Apple iPhone 11 Pro Dual Sim 64 Gb Cinza-espacial 4 Gb Ram,Y,7,0.5872198540114076,log_monto=7.14 (p=0.07%); b=0.948 (p=2.37%); log_l=8.57 (p=7.19%),0
+81867,2020-04-16 13:51:48,966.85,AR,cat_43b9c10,iPhone Xr 64gb Como Nuevo Case De Bamboo Y Film Belkin,Y,13,0.587205660266281,log_monto=6.88 (p=0.13%); pct_mayusculas=0.185 (p=3.38%); log_f=5.31 (p=4.00%),1
+20968,2020-04-19 23:28:00,1004.16,BR,cat_43b9c10,iPhone 11 256gb 4g Anatel Lacrado C/ Nota Fiscal+ Gar. 1 Ano,,23,0.5871691553431194,log_monto=6.91 (p=0.11%); hora=23 (p=2.21%); b=0.896 (p=4.41%),0
+75326,2020-04-16 22:32:01,1295.81,AR,cat_4f8fd1f,Cinta De Correr Eléctrica Olmo Fitness 91,,22,0.5870153522916475,log_monto=7.17 (p=0.07%); log_l=8.78 (p=1.08%); log_f=5.06 (p=5.64%),0
+115397,2020-04-19 22:54:05,30.69,AR,cat_17c5935,Llanta De Peugeot 208 Usada,N,22,0.5869080971045876,log_c=4.19 (p=1.34%); b=1 (p=1.42%); len_titulo=27 (p=3.08%),0
+66239,2020-04-20 22:39:57,42.2,AR,cat_41d2590,Campera Nena,N,22,0.5869058153744586,len_titulo=12 (p=0.38%); b=0.0378 (p=0.43%); n_palabras=2 (p=0.64%),0
+106381,2020-04-19 08:01:57,3.22,AR,cat_a06f94b,Loteria Familiar 24 Cartones + 90 Bolillas De Madera + Envio,N,8,0.5867064958528309,b=0.29 (p=1.30%); log_l=2.2 (p=2.04%); log_monto=1.44 (p=3.19%),0
+92807,2020-04-20 00:31:59,9.9,AR,cat_ebcf022,Gorro De Lana Usa Con Pompon Para Mujer,N,0,0.5866226655129897,log_l=8.93 (p=0.00%); pct_mayusculas=0.205 (p=0.67%); hora=0 (p=1.27%),0
+755,2020-04-21 01:24:06,7.72,US,cat_14f494c,Filhotes Hamster Anão Russo,,1,0.5866147135089737,g=US (p=1.37%); hora=1 (p=1.91%); log_c=5.08 (p=2.44%),0
+93330,2020-04-14 22:42:48,33.33,BR,cat_0f6c6e1,Kit Farol Milha Gol Saveiro Parati G3 Neblina Grade Fase 1,N,22,0.586541490701281,h=57 (p=0.02%); log_c=15.3 (p=1.24%); log_l=0 (p=1.35%),1
+82640,2020-04-15 12:04:30,1613.67,US,cat_e600e6d,Barbijo Fravida 5415 N95 Prevencion Mascarilla X 50 Unidades,,12,0.5864428320110409,log_monto=7.39 (p=0.03%); g=US (p=1.37%); log_f=4.76 (p=8.17%),0
+93243,2020-04-17 01:55:00,11.08,AR,cat_6dbf0ae,Gorra Verde Oliva Navy Seals Verde Militar Ajustable,N,1,0.5862876661786172,hora=1 (p=1.91%); b=0.397 (p=2.62%); es_madrugada=1 (p=3.71%),0
+39287,2020-04-20 04:38:57,11.49,AR,cat_41d2590,Rompeviento Repelente Al Agua - Rigardu - Por Mayor Y Menor,,4,0.5861234378792046,hora=4 (p=2.91%); log_l=3.99 (p=3.48%); es_madrugada=1 (p=3.71%),1
+146581,2020-04-19 05:24:42,15.5,AR,cat_efd0a78,Puzzle Mini A3 Jigsaw Tomax Señoritas De Avignon 1000 Piezas,N,5,0.58606335494526,es_madrugada=1 (p=3.71%); hora=5 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+47906,2020-04-18 21:26:50,137.66,US,cat_b180767,Fogão 4 Bocas Itatiaia Dream Inox Chama Rápida Bivolt,N,21,0.5860137466342021,g=US (p=1.37%); log_l=1.95 (p=1.92%); log_c=14.9 (p=2.15%),1
+92969,2020-04-21 12:08:20,1736.45,BR,cat_84fdc0f,Switch Cisco 2960x - Ws-c2960x-48fps-lb,Y,12,0.5859857287044945,log_monto=7.46 (p=0.03%); log_f=7.96 (p=0.12%); pct_mayusculas=0.0769 (p=1.14%),0
+62841,2020-04-21 09:28:29,826.46,AR,cat_4f8fd1f,Cinta Para Correr C/ Motor Ranbak 505 Envio Sin Cargo Hc,,9,0.5859728212004247,log_monto=6.72 (p=0.20%); pct_mayusculas=0.179 (p=5.32%); n=0 (p=9.55%),0
+55956,2020-04-15 22:50:34,252.28,BR,cat_45c9fc7,Kit P623 (controle+central) Bitrem/bi-caçamba Randon,,22,0.5859709354388272,pct_mayusculas=0.0769 (p=1.14%); cant_simbolos=5 (p=1.58%); log_monto=5.53 (p=2.72%),0
+5368,2020-04-19 00:53:54,68.35,BR,cat_e6bbd94,Pneu Goodyear Aro 13 175/70r13 Direction Touring,N,0,0.5859565775944239,log_c=15.5 (p=0.68%); hora=0 (p=1.27%); a=1 (p=2.71%),1
+140683,2020-04-14 22:16:50,1.46,AR,cat_90e7857,Comederos Tolba Para Pajaros,N,22,0.585938478671656,b=0.0512 (p=0.45%); log_monto=0.9 (p=0.64%); log_c=4.7 (p=1.92%),0
+31822,2020-04-19 23:27:54,86.83,AR,cat_f17b656,Colchon Alta Densidad Super Pluss+ Gtia 2 Años +190*80*22cm,Y,23,0.5859235486587672,hora=23 (p=2.21%); h=48 (p=4.00%); cant_simbolos=4 (p=4.01%),0
+148751,2020-04-21 04:51:47,397.66,AR,cat_43b9c10,Samsung Galaxy A30s 64 Gb Prism Crush Black 4 Gb Ram,,4,0.5855685867621758,log_monto=5.99 (p=1.15%); hora=4 (p=2.91%); es_madrugada=1 (p=3.71%),0
+52167,2020-04-20 00:26:21,46.04,AR,cat_c9d40fc,Juul Pods Compatibles - Ziip - Eonsmoke - Sea - Puff - Sky,Y,0,0.5854896964376513,hora=0 (p=1.27%); cant_simbolos=5 (p=1.58%); es_madrugada=1 (p=3.71%),0
+134250,2020-04-20 07:40:06,984.66,BR,cat_0eca0fc,Agrale M790,,7,0.5854348418916935,log_monto=6.89 (p=0.12%); len_titulo=11 (p=0.28%); n_palabras=2 (p=0.64%),0
+131859,2020-04-20 22:16:15,30.39,AR,cat_3203c7c,Phases 3 2nd. Edition - Student´s Book + Workbook  Macmillan,N,22,0.585370554942323,log_l=2.56 (p=2.21%); cant_simbolos=4 (p=4.01%); log_c=13.7 (p=5.50%),0
+35525,2020-04-19 00:12:15,2.3,AR,cat_4768a3b,Soporte Para Celular Escritorio Mesa Plegable Ajustable,Y,0,0.5852851390443738,hora=0 (p=1.27%); log_monto=1.19 (p=1.45%); b=0.376 (p=2.31%),0
+96458,2020-04-18 23:25:23,196.73,BR,cat_43b9c10,Motorola One Macro Dual Sim 64 Gb Ultra Violet 4 Gb Ram,N,23,0.5849214577328558,hora=23 (p=2.21%); a=1 (p=2.71%); b=0.931 (p=2.85%),1
+22258,2020-04-19 22:23:41,11.81,BR,cat_4249bd8,Tênis Pride Rainha - 4200337 Cinza/vermelho,N,22,0.5848685978559292,a=1 (p=2.71%); pct_mayusculas=0.093 (p=4.08%); hora_bin=noche (p=5.87%),0
+64380,2020-04-14 23:30:43,238.04,BR,cat_1516766,Ar Condicionado Gree Eco Garden Split Frio 12000btu/h Branco 220v Gwc12qc-d3nnb4a,N,23,0.5847300642961432,len_titulo=81 (p=1.35%); hora=23 (p=2.21%); a=1 (p=2.71%),1
+83792,2020-04-20 00:49:32,59.08,BR,cat_6c4cfdc,Animal Crossing New Horizons - Mídia Física,N,0,0.5846502832852135,hora=0 (p=1.27%); log_c=5.07 (p=2.42%); b=0.43 (p=3.24%),1
+77175,2020-04-20 19:09:37,373.28,UY,cat_0fda957,Aire Acondicionado Greenwind Inverter 12000 Btu Wifi,Y,19,0.5845670359249775,log_monto=5.93 (p=1.32%); g=UY (p=1.86%); log_f=4.8 (p=7.84%),0
+131945,2020-04-21 15:04:53,1138.47,BR,cat_7fee0bd,Mikrotik Cloud Core Router Ccr1036-8g-2s+ L6,N,15,0.5845079718555182,log_monto=7.04 (p=0.08%); b=1 (p=1.42%); log_c=5.26 (p=2.77%),1
+102236,2020-04-19 07:14:55,372.2,BR,cat_0971ec1,"Guincho Elétrico 12000lbs C/ Controle Sem Fio Troller, Jeep",Y,7,0.5844354768076003,log_monto=5.92 (p=1.33%); h=46 (p=5.52%); hora=7 (p=8.64%),0
+144788,2020-04-17 02:22:47,63.0,BR,cat_df60aa8,Motospeed Ck101 Teclado Mecânico Preto Outemu,N,2,0.5844153225153251,log_l=0 (p=1.35%); hora=2 (p=2.30%); es_madrugada=1 (p=3.71%),1
+64717,2020-04-18 23:04:41,283.9,AR,cat_73d0939,Proyector Gadnic 4500l 1080p Parlantes 200  Peliculas Series,,23,0.5844143172292656,pct_mayusculas=0.0833 (p=2.05%); hora=23 (p=2.21%); log_monto=5.65 (p=2.25%),0
+45787,2020-04-21 00:45:17,7.62,AR,cat_2977363,Conjunto 24m Trio,Y,0,0.5844125343288521,len_titulo=17 (p=0.88%); hora=0 (p=1.27%); b=1 (p=1.42%),0
+98856,2020-04-16 05:48:24,95.93,BR,cat_4249bd8,Tênis 574 Sport Ms574arf Bege Masculino,Y,5,0.5843476613209703,a=1 (p=2.71%); es_madrugada=1 (p=3.71%); hora=5 (p=3.71%),1
+51804,2020-04-21 01:45:17,39.0,AR,cat_507fe6d,Duravit Estación De Servicio 4 Rampas,N,1,0.5841418023237502,hora=1 (p=1.91%); h=49 (p=3.07%); es_madrugada=1 (p=3.71%),0
+62411,2020-04-18 17:03:03,260.88,AR,cat_23212a0,Smart Tv Hitachi Hd 32  Cdh-le32smart17,N,17,0.5841047205349342,q_neg=1 (p=0.29%); q=-0.02 (p=0.29%); log_l=0 (p=1.35%),1
+98984,2020-04-17 17:14:37,613.86,AR,cat_43b9c10,Celular Motorola One Hyper 128gb 4gb 1tb Huella Garantia 18c,N,17,0.5839255580156256,log_c=16.2 (p=0.00%); log_monto=6.42 (p=0.44%); pct_mayusculas=0.1 (p=7.12%),0
+95513,2020-04-18 02:39:33,168.36,BR,cat_4249bd8,Tênis Ua Project Rock 2 Masculino,,2,0.5838065784273482,hora=2 (p=2.30%); a=1 (p=2.71%); es_madrugada=1 (p=3.71%),0
+82471,2020-04-18 23:18:39,1.97,BR,cat_26e1918,Kit Canetinha,,23,0.5836794775428953,len_titulo=13 (p=0.45%); n_palabras=2 (p=0.64%); log_monto=1.09 (p=1.06%),0
+8641,2020-04-16 04:04:45,15.35,AR,cat_6f215f3,Buzo Retro Boca Blanco M,,4,0.5833662747538813,pct_mayusculas=0.208 (p=0.53%); b=0.338 (p=1.80%); len_titulo=24 (p=2.19%),0
+75666,2020-04-17 09:29:48,767.32,AR,cat_09e3852,Monitor Gamer Curvo Msi Optix 27 Pulgadas 1ms 144hz Mexx,Y,9,0.5832849924158223,log_monto=6.64 (p=0.24%); log_c=15.2 (p=1.50%); log_l=8.63 (p=4.80%),0
+79791,2020-04-19 23:40:53,5.82,UY,cat_60778f1,Descalcificador Dolce Gusto Cafetera Anti Sarro Importado-ub,,23,0.5832621230784586,g=UY (p=1.86%); hora=23 (p=2.21%); hora_bin=noche (p=5.87%),0
+102497,2020-04-18 07:39:19,346.82,BR,cat_e08bdcc,Conjunto Udine Mesa 160x80 Com 6 Cadeiras Branco/natural,,7,0.583227567520355,log_l=0 (p=1.35%); log_monto=5.85 (p=1.54%); a=1 (p=2.71%),0
+20199,2020-04-19 09:30:21,75.75,AR,cat_8d714cd,Combo Maquina Cortar Color Pro + Patillera  Mustache Wahl,N,9,0.5831628336773195,q_neg=1 (p=0.29%); q=-0.02 (p=0.29%); log_l=0.693 (p=1.56%),0
+61372,2020-04-16 08:32:52,573.64,BR,cat_a1f155c,Esteira Profissional Movement Lx 160 G1,N,8,0.5830362313840445,log_monto=6.35 (p=0.53%); log_l=5.28 (p=7.22%); n=0 (p=9.55%),0
+108120,2020-04-19 01:09:12,27.64,AR,cat_c103e1d,Auriculares Gamer Pc Ps4 G9000 7.1 Con Micrófono G9000 - Garantía Gamer24hs,Y,1,0.5830354334143572,len_titulo=75 (p=1.66%); hora=1 (p=1.91%); es_madrugada=1 (p=3.71%),0
+77867,2020-04-20 00:37:12,136.57,AR,cat_a349b79,Zapatillas Nike Air Force 1 Shadow Mujer Tienda Oficial Nike,,0,0.5829401170439018,f_neg=1 (p=0.81%); hora=0 (p=1.27%); log_c=14.6 (p=2.69%),0
+77623,2020-04-18 05:15:17,9.19,US,cat_07b181a,Alisado Definitivo Brasilero  + Shock De Keratina 2 X 500ml,,5,0.5828783435108796,g=US (p=1.37%); b=0.439 (p=3.48%); es_madrugada=1 (p=3.71%),0
+13276,2020-04-17 01:39:22,213.32,AR,cat_9bd30a6,Sillón Silla Pc Gamer Pro Reclinable Regulable Play4 Vs Col,N,1,0.5827517989463237,hora=1 (p=1.91%); log_monto=5.37 (p=3.62%); es_madrugada=1 (p=3.71%),0
+124954,2020-04-18 19:42:41,67.74,US,cat_5c08917,Braco Axial Terminal Direção Pivo Bieleta Bucha Fiesta 2003 A 2014 Direção - Hidráulica,N,19,0.5827133333786431,len_titulo=87 (p=1.12%); log_l=0 (p=1.35%); g=US (p=1.37%),1
+8370,2020-04-20 05:29:40,1.53,AR,cat_2fae158,Kit Imprimible Premium - Candy Bar ¡¡ N U E V O!!! + 2019 !!,,5,0.5826326879565712,cant_simbolos=9 (p=0.06%); log_monto=0.928 (p=0.67%); n_palabras=15 (p=1.17%),0
+57222,2020-04-21 05:46:54,63.48,BR,cat_ec27be3,Retrovisor Fluence Ano 2011 2012 2013 2014 2015 2016 Lado Direito Sem Retratil Original Com Pisca Menor,N,5,0.5825862890250785,h=56 (p=0.32%); cant_digitos=24 (p=0.48%); len_titulo=103 (p=0.61%),0
+101169,2020-04-20 00:32:26,1.19,AR,cat_b339f22,Playstation Plus Ps4 - 1 Mes,,0,0.5825650802571176,log_monto=0.784 (p=0.46%); hora=0 (p=1.27%); b=0.323 (p=1.65%),0
+27574,2020-04-18 18:55:57,416.97,AR,cat_9651f38,Toyota Quilt99 Ideal P/acolchados 125 Funciones 49 Diseños,Y,18,0.5823482794809578,log_monto=6.04 (p=1.05%); h=49 (p=3.07%); log_c=14.4 (p=3.32%),0
+67613,2020-04-15 00:57:45,49.64,AR,cat_7484244,Antiparra 3m Gg500+nuevo Modelo+antiempaño+antirayadura,,0,0.5822351025001528,pct_mayusculas=0.0545 (p=0.19%); f_neg=1 (p=0.81%); hora=0 (p=1.27%),0
+111268,2020-04-19 22:04:50,472.44,,cat_e051bfe,Ralador De Milho Verde Elétrico Automático Industrial Bermar,,22,0.5821579790657746,g=nan (p=0.07%); log_monto=6.16 (p=0.83%); hora_bin=noche (p=5.87%),0
+54941,2020-04-17 00:10:26,79.74,BR,cat_fa72bf0,Prancha - Chapinha Babyliss Titanium Original Byroger - 110v,N,0,0.5820397323329494,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),1
+115931,2020-04-15 08:35:17,591.66,US,cat_43b9c10,Samsung Galaxy S9+ 64 Gb Azul Coral 6 Gb Ram,,8,0.582011317535106,log_monto=6.38 (p=0.48%); log_c=15.5 (p=0.68%); g=US (p=1.37%),0
+36851,2020-04-19 05:44:33,40.5,,cat_d2b0540,Anteojos Lentes De Sol Rusty Indian Wayfarer Gafas,,5,0.58172135048262,g=nan (p=0.07%); h=49 (p=3.07%); es_madrugada=1 (p=3.71%),0
+60318,2020-04-18 20:20:17,1526.99,AR,cat_e5ca240,Notebook Gamer Hp Omen 15-dc0053la Core I7 8gb 1tb Gtx 1050 4gb Tienda Oficial Hp,,20,0.5817210728241354,log_monto=7.33 (p=0.04%); n_palabras=15 (p=1.17%); len_titulo=81 (p=1.35%),0
+126276,2020-04-19 00:29:02,10.4,AR,cat_209a917,Engrampadora Plastica 4 A 8 Mm Alto Impacto Incluye Grampas,Y,0,0.581647798094129,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+99295,2020-04-20 22:36:00,11.51,AR,cat_d5975ae,Juego Ps3 Toy Story 3 Fisico,Y,22,0.5816322614218375,b=0 (p=0.38%); log_c=3.48 (p=0.76%); len_titulo=28 (p=3.42%),0
+71747,2020-04-19 23:15:15,7.88,BR,cat_6c4cfdc,Great Voley - Cartucho Original Do Master System - Tectoy,N,23,0.5815337715128001,log_l=0 (p=1.35%); hora=23 (p=2.21%); hora_bin=noche (p=5.87%),0
+106930,2020-04-15 12:01:58,1106.5,AR,cat_e5ca240,Notebook Hp 240 G7 Core I5 8250u 8gb Ssd 480gb 14 Led Cuotas,Y,12,0.5814150349012979,log_monto=7.01 (p=0.09%); log_l=2.3 (p=2.08%); log_c=14.7 (p=2.29%),0
+118486,2020-04-21 22:47:53,397.68,AR,cat_9bd30a6,Sillón Butaca Ergonómica Gamer Auckland Pc Xbox Playstation,N,22,0.5813148926271923,log_monto=5.99 (p=1.15%); b=1 (p=1.42%); hora_bin=noche (p=5.87%),0
+133101,2020-04-21 08:56:26,158.0,UY,cat_43b9c10,"Celular Xiaomi Redmi 8a Lte 6,2 Lte 2gb/32gb Bat 5000mah Amv",Y,8,0.5811598029863196,g=UY (p=1.86%); log_monto=5.07 (p=5.24%); log_c=13.4 (p=7.49%),0
+35473,2020-04-17 00:48:03,56.77,AR,cat_e1567f3,Guitarra Criolla Clasica Nuevas Calidad Con Funda Pua Manual,N,0,0.5810922737706554,hora=0 (p=1.27%); log_l=1.79 (p=1.86%); es_madrugada=1 (p=3.71%),0
+87780,2020-04-20 00:07:26,89.78,AR,cat_13c689e,Conjunto Deportivo Pink - Aerofit Sw,Y,0,0.5810049369971736,hora=0 (p=1.27%); b=0.406 (p=2.78%); es_madrugada=1 (p=3.71%),0
+137665,2020-04-19 14:04:11,236.0,UY,cat_43b9c10,Xiaomi Redmi Note 8 4gb/64gb - Tienda Oficial Xiaomi,N,14,0.5808483661153337,g=UY (p=1.86%); log_monto=5.47 (p=3.08%); n=0 (p=9.55%),0
+29884,2020-04-18 09:09:02,313.1,BR,cat_d51e15f,Sistema De Som Raveo Concert One Com Toca Discos Preto/prata,Y,9,0.5806176279359359,log_monto=5.75 (p=1.88%); a=1 (p=2.71%); log_c=13.8 (p=4.79%),0
+129512,2020-04-17 23:29:49,40.37,BR,cat_1ae86b2,Piscina 2000 Litros Retangular Em Lona Plastica Pvc Botafogo,N,23,0.5806154549866805,log_c=15.5 (p=0.72%); log_l=0 (p=1.35%); hora=23 (p=2.21%),0
+67779,2020-04-18 09:36:43,423.31,AR,cat_051539c,Maquina De Coser Janome 3016 - Ojal 1 Paso - Simil Overlock - Enhebrador Automático - Garantía - Cuotas Sin Interés,,9,0.580576101078228,n_palabras=21 (p=0.15%); len_titulo=115 (p=0.36%); log_monto=6.05 (p=1.01%),0
+132619,2020-04-17 09:47:35,649.68,BR,cat_d9753d4,Scooter Elétrica Harley 1500w / + Capacete De Brinde,Y,9,0.5805544156969682,log_monto=6.48 (p=0.39%); b=0.89 (p=4.79%); log_m=6.64 (p=10.34%),1
+129454,2020-04-20 08:20:30,199.49,AR,cat_43b9c10,Samsung Galaxy A10 32 Gb Negro 2 Gb Ram,N,8,0.5805539054399762,b=0.943 (p=2.49%); log_c=14.5 (p=2.91%); log_monto=5.3 (p=3.94%),0
+135457,2020-04-15 22:25:24,199.77,AR,cat_43b9c10,Samsung Galaxy A10 32 Gb Azul 2 Gb Ram,Y,22,0.5805023029508075,b=0.935 (p=2.71%); pct_mayusculas=0.184 (p=3.48%); log_c=14.3 (p=3.65%),0
+43787,2020-04-18 05:33:38,0.6,AR,cat_960ba1b,Terminal Para Barral De 22mm,,5,0.580429480589005,log_monto=0.47 (p=0.21%); len_titulo=28 (p=3.42%); es_madrugada=1 (p=3.71%),0
+4241,2020-04-19 11:07:49,644.53,AR,cat_60357a1,Combo Actualización Amd Ryzen 5 3600 + 16gb + Mother B450,N,11,0.5801206463842447,log_monto=6.47 (p=0.40%); log_f=5.05 (p=5.68%); cant_digitos=10 (p=7.61%),0
+117758,2020-04-18 01:13:35,5.89,BR,cat_d2830d7,Carteira Slim Pequena Masculina Feminina Simpsons Hommer,N,1,0.5799235786253751,hora=1 (p=1.91%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),1
+143679,2020-04-21 14:43:30,228.66,AR,cat_f8b3160,Kit Seguridad Dahua Full Hd Dvr 4 + Disco 1 Tb Instalado + 4 Camaras 2mp 1080p Exterior Infrarrojas / Domos Int + Ip M3k,N,14,0.5797620902274835,n_palabras=25 (p=0.02%); len_titulo=120 (p=0.10%); log_monto=5.44 (p=3.26%),0
+137536,2020-04-15 01:36:23,1.68,AR,cat_3203c7c,Rota Se Camina Igual + Curame - Lorena Pronsky,,1,0.5796305520521828,log_monto=0.986 (p=0.82%); hora=1 (p=1.91%); es_madrugada=1 (p=3.71%),0
+143180,2020-04-17 00:33:34,31.1,BR,cat_b988757,Churrasqueira Elétrica Fischer 4513 220v Preta,N,0,0.5795130015009038,hora=0 (p=1.27%); log_l=0 (p=1.35%); pct_mayusculas=0.087 (p=2.82%),1
+90308,2020-04-15 11:10:33,1060.41,AR,cat_56825c0,Ran 507,,11,0.5794976287497429,log_monto=6.97 (p=0.10%); len_titulo=7 (p=0.11%); n_palabras=2 (p=0.64%),0
+52183,2020-04-19 22:59:46,7.67,AR,cat_dc686b6,Sentey Kitcombo Teclado+mouse+parlante Usb,Y,22,0.5793491463847114,log_c=2.82 (p=0.41%); n_palabras=4 (p=3.50%); pct_mayusculas=0.0952 (p=4.50%),0
+96796,2020-04-18 00:04:27,44.51,AR,cat_9de2389,Dioxido De Cloro Cds Mms Desinfectante Bactericida Antiviral,,0,0.5792723094175871,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+32828,2020-04-15 11:21:33,297.25,UY,cat_71889e8,Juego De Jardín Rattán Mesa + Sillón + 2 Butacas + Sombrilla,Y,11,0.5792708811211531,g=UY (p=1.86%); log_monto=5.7 (p=2.09%); n_palabras=12 (p=8.26%),0
+22646,2020-04-18 01:05:33,85.07,BR,cat_43b9c10,iPhone 5s Dourado 32gb,Y,1,0.578664041270938,len_titulo=22 (p=1.76%); hora=1 (p=1.91%); n_palabras=4 (p=3.50%),0
+140927,2020-04-15 08:48:54,1337.0,AR,cat_e5ca240,"Notebook Vaio® Fit15s 15,6 8gb 1tb Core I7 Led Hd - Blanca",,8,0.5785527486310824,log_monto=7.2 (p=0.06%); b=0.967 (p=1.87%); log_c=13.8 (p=4.85%),0
+81155,2020-04-21 22:20:17,596.5,AR,cat_23212a0,Smart Tv Samsung 4k 50  Un50ru7100gxzd,,22,0.5784349284889901,log_monto=6.39 (p=0.47%); b=0.487 (p=5.19%); hora_bin=noche (p=5.87%),0
+66541,2020-04-17 00:53:10,15.19,AR,cat_a267e66,Chalked Tiza Rust Oleum Vintage X 1 Lt  O En Moto Caba En El Dia  Con Envio,,0,0.5784274748282706,pct_mayusculas=0.213 (p=0.41%); n_palabras=17 (p=0.65%); hora=0 (p=1.27%),0
+5349,2020-04-19 02:25:59,9.76,US,cat_011cafd,Pedal (acelerador) Logitech G920  G29 Com Potenciometro,,2,0.5783872742290074,g=US (p=1.37%); hora=2 (p=2.30%); es_madrugada=1 (p=3.71%),0
+127574,2020-04-18 19:13:25,358.22,BR,cat_43b9c10,Celular Samsung Galaxy A51 A515 Dual 128gb 4gb Ram Branco,N,19,0.5781954836680001,log_l=0 (p=1.35%); log_monto=5.88 (p=1.45%); log_c=15.1 (p=1.56%),1
+29729,2020-04-17 22:52:55,464.55,AR,cat_02711c1,Pc Gamer Completa Amd Ryzen 3 2200g 1tb 8gb Fortnite Cuotas,N,22,0.5781651399599979,log_l=8.92 (p=0.03%); log_m=7.24 (p=0.51%); log_monto=6.14 (p=0.86%),0
+16685,2020-04-21 02:23:41,8.99,AR,cat_6f1b467,Lapices Staedtler Noris X 12 Unidades Lata,Y,2,0.5779367624826133,hora=2 (p=2.30%); log_l=8.68 (p=3.28%); es_madrugada=1 (p=3.71%),0
+61972,2020-04-17 00:39:48,16.11,AR,cat_3203c7c,Tratado De Ateologia - Michel Onfray - Anagrama,,0,0.5778269787978875,hora=0 (p=1.27%); log_l=1.79 (p=1.86%); es_madrugada=1 (p=3.71%),0
+4920,2020-04-19 22:07:53,0.77,AR,cat_e600e6d,Barbijos Triple Capa. X Mayor.,,22,0.577818675806714,log_c=1.52 (p=0.06%); log_monto=0.571 (p=0.26%); b=1 (p=1.42%),0
+108535,2020-04-18 00:04:45,40.82,US,cat_e600e6d,"Barbijo De Tela Bicapa Lavable Reutilizable, Con Bolsillo",Y,0,0.5775513252420749,hora=0 (p=1.27%); g=US (p=1.37%); es_madrugada=1 (p=3.71%),0
+52935,2020-04-18 00:58:03,33.76,AR,cat_396a34a,"Masajeador Relax&tone Reductor Tonificador Modela,5cabezales",,0,0.5775090466138855,hora=0 (p=1.27%); pct_mayusculas=0.0833 (p=2.05%); b=0.436 (p=3.39%),0
+138250,2020-04-20 16:27:13,856.47,AR,cat_43b9c10,Samsung Galaxy A10s 32 Gb Negro 2 Gb Ram,Y,16,0.5774653183384989,log_monto=6.75 (p=0.18%); log_c=14.7 (p=2.28%); b=0.937 (p=2.65%),0
+11336,2020-04-15 02:16:08,179.72,AR,cat_7907367,Pack Manubrio Wirtz® X7 22mm Tornado Rebatible,,2,0.5773557213505339,hora=2 (p=2.30%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+71829,2020-04-21 17:40:23,325.81,AR,cat_0023dc4,Cerámico Fortezze Colonial 45x45 (2da),N,17,0.5772792643329364,pct_mayusculas=0.0789 (p=1.23%); log_monto=5.79 (p=1.73%); log_l=4.26 (p=3.93%),1
+23796,2020-04-18 20:40:08,23.0,AR,cat_43b9c10,Kanji Fon Dual Sim 32 Mb Azul 32 Mb Ram,N,20,0.5772081190353778,pct_mayusculas=0.205 (p=0.67%); log_l=4.81 (p=5.30%); b=0.548 (p=9.21%),0
+14239,2020-04-20 02:19:19,56.91,BR,cat_2da13b3,Playstation 2,,2,0.5771965745674849,len_titulo=13 (p=0.45%); n_palabras=2 (p=0.64%); pct_mayusculas=0.0769 (p=1.14%),0
+30077,2020-04-19 02:05:19,53.71,AR,cat_c795c7f,Cofre Maquillaje Paleta De Sombras Profesional 180 Colores,,2,0.57718525653526,hora=2 (p=2.30%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+31279,2020-04-18 00:40:00,46.04,AR,cat_9fb4f08,Pantalón Hombre Gabardina Full Camuflado Billionz 4138,N,0,0.5771716955115156,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),1
+106848,2020-04-19 00:02:54,9.21,AR,cat_670b9aa,Tempera Escolar 300 Gr Super Cubritiva / 12 Unidades,Y,0,0.576873319245176,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+47536,2020-04-20 23:37:44,138.11,AR,cat_2d32467,Estee Lauder Serum Nocturno 30 Ml C Caja - Envio Gratis,Y,23,0.5768055697124015,hora=23 (p=2.21%); hora_bin=noche (p=5.87%); log_monto=4.94 (p=6.15%),1
+16073,2020-04-17 07:51:38,23.63,SE,cat_7fb5727,"Copo De Inox 1,5l C/ Tampa Liq Silenzio E Li Skymsen E Oster",N,7,0.5767469756562956,g=SE (p=0.23%); pct_mayusculas=0.2 (p=1.34%); n_palabras=13 (p=3.71%),1
+115508,2020-04-15 22:28:58,383.02,BR,cat_2da13b3,"Nintendo Switch 32gb Standard Vermelho-néon, Azul-neón E Vis",,22,0.5766819638469463,log_monto=5.95 (p=1.26%); b=0.411 (p=2.89%); log_c=5.81 (p=3.86%),0
+30730,2020-04-18 13:24:39,268.57,AR,cat_78d72c2,Navaja Zero Tolerance 0770cf Carbon Fiber,Y,13,0.5766579664554592,b=0 (p=0.38%); log_c=3.26 (p=0.62%); log_monto=5.6 (p=2.44%),0
+120304,2020-04-15 20:50:27,0.09,UY,cat_dec148b,Leña Astilla Rolos Barata Y Seca De Verdad,Y,20,0.5764897081986866,log_monto=0.0862 (p=0.00%); b=0.997 (p=1.52%); g=UY (p=1.86%),0
+126111,2020-04-21 23:03:28,183.54,US,cat_9794f65,Playstation 4,,23,0.5764193772952071,len_titulo=13 (p=0.45%); n_palabras=2 (p=0.64%); pct_mayusculas=0.0769 (p=1.14%),0
+11050,2020-04-19 01:02:45,11.52,BR,cat_99e21d9,Pulseira Relógio Inteligente Smartband M4 Monitor Cardíaco,N,1,0.5764015251028429,hora=1 (p=1.91%); log_l=3.93 (p=3.40%); es_madrugada=1 (p=3.71%),1
+4398,2020-04-18 09:07:24,3.42,UY,cat_1b5f585,Cable De Audio Jack Spica 3.5mm A Rca Plug Musica Mp3 ®,Y,9,0.5763950185888554,g=UY (p=1.86%); log_monto=1.49 (p=3.62%); pct_mayusculas=0.182 (p=4.60%),0
+8742,2020-04-19 01:27:00,43.24,BR,cat_8f5bd9e,Jaqueta Corta Vento Nike Preta Masculina,N,1,0.5763154849669176,hora=1 (p=1.91%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),1
+34555,2020-04-19 23:22:14,199.49,US,cat_43b9c10,Samsung Galaxy A10 32 Gb Negro 2 Gb Ram,,23,0.5762801165285378,g=US (p=1.37%); hora=23 (p=2.21%); b=0.944 (p=2.46%),0
+123651,2020-04-20 17:11:18,848.0,UY,cat_27feecb,Lavasecarropa James Lse 1016 Inox - Laser Tv,,17,0.5761818058780828,log_monto=6.74 (p=0.19%); g=UY (p=1.86%); log_m=6.94 (p=3.75%),0
+69061,2020-04-19 23:15:27,306.92,AR,cat_14f523a,Micro Procesador Amd Ryzen 7 2700 4.1ghz Octacore Am4  Mexx,Y,23,0.5761211527345429,log_c=15.2 (p=1.50%); log_monto=5.73 (p=1.97%); hora=23 (p=2.21%),0
+129349,2020-04-16 23:50:49,8.23,BR,cat_4249bd8,Tênis #imperdivel#mega#promoção!!!,N,23,0.5759951867949024,pct_mayusculas=0.0294 (p=0.01%); cant_simbolos=6 (p=0.61%); n_palabras=2 (p=0.64%),0
+103546,2020-04-21 03:54:53,472.37,BR,cat_1516766,Ar Condicionado Split Lg Dual Inverter Voice 18.000 Btu/h Fr,,3,0.5759038967627073,log_monto=6.16 (p=0.83%); hora=3 (p=2.56%); a=1 (p=2.71%),0
+123224,2020-04-20 13:16:04,996.81,AR,cat_d160528,Autoimprimante Epoxi 9100 Pisos Satinado Alto Transito 20lts,Y,13,0.5758972794807835,log_monto=6.91 (p=0.12%); pct_mayusculas=0.1 (p=7.12%); a=3 (p=15.38%),0
+2004,2020-04-15 09:23:44,398.34,GB,cat_1743189,Purificador De Água Europa Summer Plus Inox Original - C/ Nf,,9,0.5758234710999095,g=GB (p=0.02%); log_l=8.82 (p=0.71%); log_monto=5.99 (p=1.14%),0
+92608,2020-04-14 22:38:30,440.05,AR,cat_e9110c5,Bicicleta Mountain Top Mega Alum Sunshine +linga+casco+infla,Y,22,0.5756601343174246,log_monto=6.09 (p=0.95%); log_c=14 (p=4.36%); hora_bin=noche (p=5.87%),0
+84473,2020-04-17 00:56:46,3.88,BR,cat_535337c,Fone De Ouvido Samsung Ehs61asfwe Branco,,0,0.5756458601797815,hora=0 (p=1.27%); log_l=0 (p=1.35%); es_madrugada=1 (p=3.71%),1
+86008,2020-04-16 23:49:13,128.9,US,cat_658a502,Acolchado King Size Edredón Efecto Plumón Ecologico,Y,23,0.5755492100470202,g=US (p=1.37%); hora=23 (p=2.21%); hora_bin=noche (p=5.87%),0
+639,2020-04-19 05:52:34,35.3,AR,cat_6e079a0,Tablet Acer 7 B1-770,,5,0.5754921181459695,len_titulo=20 (p=1.35%); b=1 (p=1.42%); log_c=5.46 (p=3.15%),0
+146197,2020-04-17 02:07:41,2.3,AR,cat_3203c7c,El Almirante Don Manuel Blanco Encalada - Vicuña Mackenna,,2,0.5754274230869867,log_monto=1.19 (p=1.45%); log_f=5.91 (p=1.62%); hora=2 (p=2.30%),0
+145891,2020-04-20 22:07:06,8.06,US,cat_d5975ae,Gta 5 Grand Theft Auto V Ps3  Digital  Juego Original,N,22,0.5753914904405112,g=US (p=1.37%); b=0.35 (p=1.93%); hora_bin=noche (p=5.87%),0
+62965,2020-04-17 00:06:24,159.5,AR,cat_ea5ae26,Vitrina Exhibidora Panoramica Premium Addavitrinas,,0,0.5753769850641999,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+55850,2020-04-16 03:21:47,11.66,AR,cat_d9272bf,Barbijos De Tela Reutilizable C/ Bolsillo + 4 Filtro Niños,Y,3,0.5753576911067176,hora=3 (p=2.56%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+113415,2020-04-21 01:19:13,41.14,AR,cat_c514e15,Balde Trapeador Acero Centrifugo 4 Mopas + Cepillo # Escurridor Piso Giratorio Lampazo Automatico Sin Pedal,N,1,0.5753107883774744,len_titulo=107 (p=0.54%); n_palabras=16 (p=0.86%); hora=1 (p=1.91%),0
+114535,2020-04-21 20:30:43,440.04,BR,cat_39c6f79,Conjunto Freio Traseiro Le Adaptacao Mb 610 Lo709 Lo710 Lo71,N,20,0.5752282153799464,log_monto=6.09 (p=0.95%); log_l=0 (p=1.35%); cant_digitos=11 (p=5.98%),1
+107547,2020-04-18 22:00:26,7.88,,cat_38b827b,"Chaleira Elétrica Lenoxx 1,8 Litros Express Pce211",N,22,0.57518750214634,g=nan (p=0.07%); log_c=2.18 (p=0.21%); b=1 (p=1.42%),1
+89555,2020-04-17 01:58:21,145.53,BR,cat_a4a9d00,Monitor Lg 24mk430h Led 23.8  Preto 110v/220v,N,1,0.5750793261597228,hora=1 (p=1.91%); pct_mayusculas=0.0889 (p=3.18%); cant_digitos=14 (p=3.25%),1
+142087,2020-04-20 13:43:11,525.0,UY,cat_d959ca0,Tableta Digitalizadora Xp Pen Artist 12 Pantalla Hd Usb Nnet,,13,0.575065664428356,log_monto=6.27 (p=0.66%); g=UY (p=1.86%); n=0 (p=9.55%),0
+128339,2020-04-14 22:40:17,400.05,AR,cat_43b9c10,Celular Libre Motorola G8 Plus Rubi,,22,0.5750512189293682,log_monto=5.99 (p=1.13%); log_c=14.5 (p=3.01%); hora_bin=noche (p=5.87%),0
+62366,2020-04-21 04:03:13,1.93,BR,cat_6d021d3,Placa Principal Apple iPhone 5c (com Defeito!),Y,4,0.5750132713955555,log_monto=1.08 (p=1.00%); hora=4 (p=2.91%); es_madrugada=1 (p=3.71%),0
+9551,2020-04-19 17:54:51,366.21,AR,cat_43b9c10,Celular Motorola Moto One Macro 4g 64gb 4gb Gtia Oficial 12c,N,17,0.5750110835626353,log_c=16.2 (p=0.00%); log_monto=5.91 (p=1.38%); n=0 (p=9.55%),0
+79618,2020-04-21 04:09:39,4.05,BR,cat_683e26c,Cabo Microfone Xlr Canon Macho E Femea Balanceado 3 Metros,N,4,0.5749761493556713,h=55 (p=0.96%); hora=4 (p=2.91%); es_madrugada=1 (p=3.71%),1
+140918,2020-04-19 22:09:53,78.27,AR,cat_132843c,Cambio De Pantalla Y Modulo iPhone 6s Plus En 20 Minutos,Y,22,0.5749252951033985,log_c=3.99 (p=1.16%); hora_bin=noche (p=5.87%); hora=22 (p=5.87%),0
+4070,2020-04-15 00:36:35,126.2,BR,cat_02711c1,Pc Computador Cpu Intel Core 2 Duo + Hd 500gb + 4 Gb + Grav,,0,0.5748973746841707,f_neg=1 (p=0.81%); n_palabras=15 (p=1.17%); hora=0 (p=1.27%),0
+139255,2020-04-19 15:12:34,751.99,AR,cat_43b9c10,iPhone 6s Plus 64gb Rose Gold,,15,0.5748558085288665,log_monto=6.62 (p=0.25%); len_titulo=29 (p=3.79%); log_c=6.31 (p=5.23%),0
+63025,2020-04-16 08:21:09,352.96,AR,cat_6166676,Depiladora Philips Lumea Prestige Definitiva Bri950/30,Y,8,0.5747026255779805,log_monto=5.87 (p=1.48%); n_palabras=6 (p=13.09%); hora=8 (p=13.50%),0
+83543,2020-04-17 11:22:42,137.66,BR,cat_43b9c10,Samsung Galaxy A10 Dual Sim 32 Gb Vermelho 2 Gb Ram,N,11,0.5746939145469759,f_neg=1 (p=0.81%); a=1 (p=2.71%); b=0.921 (p=3.16%),1
+144749,2020-04-16 22:13:47,149.84,BR,cat_22e82a7,Drone Visuo Xs812 Full Hd Black,N,22,0.5744653707078544,log_l=0 (p=1.35%); pct_mayusculas=0.194 (p=1.64%); len_titulo=31 (p=4.67%),1
+26601,2020-04-20 19:54:11,246.24,UY,cat_19b119e,Mampara De Ducha Circular Transparente 100x100x200 Dgc,Y,19,0.5744416591540472,g=UY (p=1.86%); log_monto=5.51 (p=2.83%); b=0.514 (p=6.67%),0
+75456,2020-04-18 23:04:47,13.76,UY,cat_1b612b3,Plancha De Panchos Guillermina De Schneck,Y,23,0.5744317228246084,g=UY (p=1.86%); b=0.954 (p=2.20%); hora=23 (p=2.21%),0
+83324,2020-04-15 22:17:20,6.13,US,cat_d5975ae,Castle Of Illusion Mickey Ps3 Digital,N,22,0.5740596677962241,g=US (p=1.37%); b=0.347 (p=1.90%); hora_bin=noche (p=5.87%),0
+106601,2020-04-20 22:05:05,11.78,,cat_35aecfe,"Strass Para Unhas 1,5mm Cristal Furtacor Atacado 5.000peças",N,22,0.5739827398660684,g=nan (p=0.07%); hora_bin=noche (p=5.87%); hora=22 (p=5.87%),1
+6264,2020-04-15 00:08:20,7.38,AR,cat_593b003,Aros Argolla Pasante 15mm Plata 925 Italiana,,0,0.5739780977728305,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+4835,2020-04-20 22:34:10,3.97,UY,cat_a06f94b,Jenga Madera Con Numeros Juguete Juego Ingenio - El Regalón,N,22,0.5739023847412648,g=UY (p=1.86%); log_monto=1.6 (p=4.99%); hora_bin=noche (p=5.87%),0
+140074,2020-04-19 18:27:31,2.89,US,cat_6c4cfdc,Patch Option File Pes 18 Ps3 Atualização Elencos 2020,N,18,0.5735301353596768,g=US (p=1.37%); log_monto=1.36 (p=2.39%); log_l=4.76 (p=5.13%),0
+68162,2020-04-19 23:25:08,61.39,AR,cat_13e9101,3640 Diamantes Free Fire  Solo Id ( Carga Ya )  Evirnet,,23,0.5734411716776544,hora=23 (p=2.21%); b=0.4 (p=2.67%); hora_bin=noche (p=5.87%),1
+3604,2020-04-17 00:05:11,30.14,BR,cat_f47f0cb,Parafusadeira De Impacto 1/4 Pol. 280w-fortg-fg3075,,0,0.5734134963324906,f_neg=1 (p=0.81%); pct_mayusculas=0.0784 (p=1.20%); hora=0 (p=1.27%),0
+30473,2020-04-19 23:08:26,1.06,AR,cat_ac9a247,Cartelería Oficial Para Código Qr,Y,23,0.5732979854876167,log_monto=0.723 (p=0.40%); b=0.283 (p=1.23%); hora=23 (p=2.21%),0
+114645,2020-04-19 08:08:42,125.84,AR,cat_32351ef,Par De Mesas De Luz Francesas Luis Xvi C Marmol,,8,0.5732737312349749,pct_mayusculas=0.213 (p=0.42%); b=1 (p=1.42%); log_c=4.81 (p=2.06%),0
+138658,2020-04-18 02:02:02,3.67,AR,cat_e600e6d,Barbijo Tapabocas Mascarilla De Tela,,2,0.5731655953882646,hora=2 (p=2.30%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+121642,2020-04-18 01:42:48,13.04,AR,cat_38f1214,Corpiño Para Amamantar Cómodo Julia,,1,0.5730791877576755,hora=1 (p=1.91%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+25363,2020-04-16 08:11:15,1055.2,BR,cat_4109cab,Kit 8 R720 R620 600gb 10k Sas 2.5 6g 07t0dw St9600204ss Nf,,8,0.5730357313870552,log_monto=6.96 (p=0.10%); cant_digitos=25 (p=0.33%); log_l=8.66 (p=3.77%),0
+54673,2020-04-17 00:04:50,32.42,BR,cat_f47f0cb,Furadeira Parafusadeira Com Impacto 3/8 Bateria 12v Lítio Bivolt Trevalla C/ Maleta E Acessórios,N,0,0.5730312319220354,log_c=15.5 (p=0.68%); len_titulo=96 (p=0.75%); hora=0 (p=1.27%),1
+72520,2020-04-18 00:15:37,26.98,AR,cat_ff6e928,Joystick Inalámbrico Mando Control Ps3 Gamepad,N,0,0.5730113516585111,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),1
+27678,2020-04-15 08:38:12,414.93,AR,cat_762dc1b,Termometro Digital Infrarrojo A Distancia Fiebre Ver Video,N,8,0.5730091826678468,log_monto=6.03 (p=1.05%); b=0.852 (p=9.48%); o=N (p=11.27%),0
+135686,2020-04-16 22:27:01,17.35,AR,cat_9fb4f08,Jean Hombre Elastizado Varios Colores!!!,N,22,0.5728629054675657,b=0.206 (p=0.85%); log_l=3.74 (p=3.15%); hora_bin=noche (p=5.87%),1
+42773,2020-04-18 00:01:05,10.24,BR,cat_5d6059e,Boneca Eloá C/ Mamadeira Mágica - Fala 113 Frases- Supertoys,N,0,0.5727216686128697,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+58643,2020-04-17 13:12:58,314.89,BR,cat_43b9c10,Samsung Galaxy A51 Preto 6.5  4g 128gb -sm-a515fzwbzto,N,13,0.5726213325108369,log_c=15.7 (p=0.18%); pct_mayusculas=0.0741 (p=0.97%); log_monto=5.76 (p=1.87%),1
+33167,2020-04-17 15:30:38,168.8,AR,cat_43b9c10,Motorola Moto E E6 Play 32 Gb Ocean Blue 2 Gb Ram,N,15,0.5726012872034517,pct_mayusculas=0.204 (p=0.71%); log_l=0 (p=1.35%); log_monto=5.13 (p=4.83%),0
+109511,2020-04-18 15:12:49,1102.21,AR,cat_43b9c10,Apple iPhone Xs 64gb Sellado Opb _s,,15,0.5724677516232951,log_monto=7.01 (p=0.09%); log_m=7.16 (p=1.04%); log_l=8.61 (p=5.41%),0
+16945,2020-04-19 23:58:06,260.88,US,cat_43b9c10,Celular Motorola Moto G8 Play 4g 32gb 2gb Garantía Oficial,,23,0.5724127885489129,log_c=16.2 (p=0.00%); g=US (p=1.37%); hora=23 (p=2.21%),0
+122296,2020-04-14 22:21:40,12.37,SE,cat_4249bd8,Tênis Sapatênis Feminino A Didas Slip On Pronta Entrega,,22,0.5724087627169719,g=SE (p=0.23%); log_c=4.92 (p=2.21%); log_l=4.84 (p=5.39%),0
+68681,2020-04-16 15:18:44,659.67,UY,cat_8018f43,Sillon Esquinero Sofa Con Chaise Eames  En Tela Dyd,N,15,0.5723961767144394,log_monto=6.49 (p=0.37%); g=UY (p=1.86%); pct_mayusculas=0.176 (p=5.85%),0
+4606,2020-04-17 19:42:26,205.49,US,cat_8d714cd,Combo Máquina Magic Clip + Máquina Detailer Wahl,N,19,0.5723734641539978,g=US (p=1.37%); log_monto=5.33 (p=3.78%); log_l=4.58 (p=4.56%),1
+138488,2020-04-20 23:36:41,590.8,BR,cat_cc29487,Bolsa Louis Vuitton Trocadéro Original,,23,0.5722909817537786,log_monto=6.38 (p=0.49%); hora=23 (p=2.21%); hora_bin=noche (p=5.87%),0
+82964,2020-04-18 00:49:06,12.12,AR,cat_ac57a10,Tapa De Luz Jeluz Cristal 5x10 Cm 3 Mod C/ Bastidor Y Ribete,Y,0,0.5722539217382321,hora=0 (p=1.27%); b=0.441 (p=3.50%); es_madrugada=1 (p=3.71%),0
+128389,2020-04-20 02:32:35,4.45,AR,cat_4c73e8c,Pack I - 60 Templates De Camisetas De Futbol,,2,0.5721988354818252,b=0.292 (p=1.33%); hora=2 (p=2.30%); es_madrugada=1 (p=3.71%),0
+33685,2020-04-15 15:27:24,2072.42,AR,cat_e5ca240,Notebook Hp New Elite 2020 16 17.3 24gb 1tb Video 8gb Ssd,N,15,0.5721948088557631,log_monto=7.64 (p=0.01%); cant_digitos=13 (p=3.84%); n_palabras=12 (p=8.26%),0
+50310,2020-04-19 23:47:14,1.37,AR,cat_bd770af,Rollo De Film Adherente 30mts X 30cm.,Y,23,0.5721506001438017,log_monto=0.863 (p=0.60%); hora=23 (p=2.21%); hora_bin=noche (p=5.87%),0
+89258,2020-04-20 00:37:56,50.46,AR,cat_190b70e,Set 5 Bandas Elásticas Fitness Funcional Yoga Gym Pilates,Y,0,0.572145331144063,b=0.246 (p=1.02%); hora=0 (p=1.27%); es_madrugada=1 (p=3.71%),0
+57809,2020-04-14 23:30:13,1.23,US,cat_3203c7c,Caos - Magali Tajes,,23,0.5718968001379573,log_monto=0.802 (p=0.48%); len_titulo=19 (p=1.19%); g=US (p=1.37%),1
+17491,2020-04-20 05:56:17,16.87,AR,cat_8d714cd,Máquina De Cortar Pelo Easy Cut Wahl,,5,0.5717960646002244,pct_mayusculas=0.194 (p=1.60%); log_c=14.4 (p=3.49%); es_madrugada=1 (p=3.71%),1
+76833,2020-04-18 07:31:31,15.73,AR,cat_7875fc6,Yeso Cerámico,N,7,0.5717186652071063,b=0 (p=0.38%); len_titulo=13 (p=0.45%); n_palabras=2 (p=0.64%),0
+125979,2020-04-18 22:01:53,567.82,AR,cat_23212a0,Smart Tv Tcl 50 L50p8m Android Tv,,22,0.5717129754792075,log_monto=6.34 (p=0.54%); pct_mayusculas=0.182 (p=4.60%); len_titulo=33 (p=5.62%),0
+8668,2020-04-17 01:48:03,7.22,US,cat_8d09cc2,Aminoacidos Nutrilab Amino 3000 X120 Cápsulas,,1,0.5717026181749104,g=US (p=1.37%); hora=1 (p=1.91%); es_madrugada=1 (p=3.71%),0
+127600,2020-04-19 22:23:46,157.61,AR,cat_004f2c3,Kit Riego Automatico Aspersion Aspersor Programador De Riego 4 Zonas Solenoide Rain Bird Temporizador,Y,22,0.571687414945786,len_titulo=101 (p=0.64%); n_palabras=14 (p=1.91%); log_monto=5.07 (p=5.27%),0
+121610,2020-04-20 01:57:41,21.49,US,cat_f735c68,Cable Red Utp Rj45 Ethernet Largo Internet 30 Metros Derecho Armado Categoria 6,,1,0.5716455796006767,g=US (p=1.37%); len_titulo=79 (p=1.45%); hora=1 (p=1.91%),0
+38043,2020-04-17 02:04:29,196.73,BR,cat_2da13b3,Ps3 Super Slim + 2 Controles + Gta5 + Fifa 19 + Call Of Duty,,2,0.5713862402403423,n_palabras=15 (p=1.17%); hora=2 (p=2.30%); es_madrugada=1 (p=3.71%),0
+64917,2020-04-18 00:35:06,30.68,AR,cat_a349b79,Zapatilla Kombat Polar 2 Gr/fu Kappa Mujer Promocion,,0,0.5713674830214471,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+132083,2020-04-19 01:14:11,29.52,BR,cat_ffe7351,Kit Air Jordan Moletom + Calça + Boné Esporte Conjunto Top,N,1,0.5713442165954615,hora=1 (p=1.91%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),1
+43474,2020-04-17 23:24:37,4.05,US,cat_ac57a10,Tapas De Luz Jeluz Completa 2 Toma Regina Luz Desing,Y,23,0.5713407214485542,g=US (p=1.37%); hora=23 (p=2.21%); log_monto=1.62 (p=5.29%),0
+2740,2020-04-16 00:30:39,49.09,AR,cat_8d714cd,Kit Maquina Cortar Pelo Y Patillera Groom Pro 21 Piezas Wahl,N,0,0.5711933219042438,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),1
+126130,2020-04-20 09:54:56,90.0,UY,cat_733be8b,Micrófono Inalambrico Espía Ideal Para Infidelidades,,9,0.571014933642896,g=UY (p=1.86%); log_l=3.18 (p=2.61%); h=39 (p=8.80%),0
+72516,2020-04-21 01:55:51,2.88,BR,cat_51e71a1,Cooler Samsung 270e 275e Np275e4e Ksb0705ha Np270e4e,Y,1,0.5709990453157602,cant_digitos=18 (p=1.53%); hora=1 (p=1.91%); log_monto=1.36 (p=2.37%),0
+80151,2020-04-20 12:51:07,450.97,BR,cat_2da13b3,Sony Playstation 4 Slim 1tb Hits Bundle: Days Gone/detroit: Become Human/call Of Duty: Black Ops 4 Jet Black,N,12,0.5709099192841703,n_palabras=18 (p=0.47%); len_titulo=108 (p=0.53%); log_monto=6.11 (p=0.89%),1
+107424,2020-04-19 00:34:33,7.86,BR,cat_8ef7164,A Cabana,,0,0.5708988569801808,pct_mayusculas=0.25 (p=0.07%); len_titulo=8 (p=0.14%); n_palabras=2 (p=0.64%),0
+90291,2020-04-16 07:05:00,574.41,BR,cat_440aeb1,Bateria Maxpower 400ah Alto Desempenho Estacionaria 2 Anos,,7,0.570647216840714,h=57 (p=0.02%); log_monto=6.36 (p=0.53%); hora=7 (p=8.64%),0
+94472,2020-04-18 20:53:33,124.4,UY,cat_a6a6bb5,Calefon Termotanque  James 20 Lts Acero Bajo Mesada Yanett,N,20,0.5705211910322172,g=UY (p=1.86%); log_l=3.3 (p=2.71%); log_monto=4.83 (p=6.95%),0
+79822,2020-04-20 02:19:07,84.41,AR,cat_c384f1d,Vibrador Parejas Punto G Reargable Tipo We Vibe,Y,2,0.5705170048927155,hora=2 (p=2.30%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+16583,2020-04-21 20:25:33,1070.65,AR,cat_e5ca240,"Notebook Vaio® Fit15s 15,6 8gb 1tb Core I5 Led Hd - Negra",Y,20,0.5704079310360625,log_monto=6.98 (p=0.10%); b=0.966 (p=1.88%); log_c=14 (p=4.45%),0
+141662,2020-04-14 22:42:35,1.54,AR,cat_e600e6d,"Barbijos Doble Tela, Lavables Con Filtro De Papel",N,22,0.570312684889753,log_monto=0.932 (p=0.68%); b=1 (p=1.42%); log_c=4.47 (p=1.67%),0
+84382,2020-04-15 10:40:59,318.72,AR,cat_f8b3160,Kit Seguridad Hikvision Full Hd Dvr 8 + Disco 1 Tb Instalado + 8 Camaras Infrarrojas Exterior / Domos Interior + Ip M3k,N,10,0.5701710626465782,n_palabras=23 (p=0.06%); len_titulo=119 (p=0.19%); log_monto=5.77 (p=1.81%),1
+104608,2020-04-19 12:31:36,74.44,US,cat_31488c6,"Coelho Monica Gigante Sansão Pelucia Promoção 1,1 Metro",N,12,0.570119137849547,log_l=0 (p=1.35%); g=US (p=1.37%); n=0 (p=9.55%),1
+117989,2020-04-19 22:24:38,98.2,US,cat_6ddf935,Zapatillas Dc Shoes Mod Maswell Negro Negro Coleccion 2020,,22,0.570118549860246,g=US (p=1.37%); log_l=4.79 (p=5.22%); hora_bin=noche (p=5.87%),0
+48234,2020-04-16 05:36:45,15.13,US,cat_df8cf90,Sensor Rotaçao Clio 1.6 16v 2001 2002 2003 2004 2005 2006,,5,0.5700789772165317,pct_mayusculas=0.0526 (p=0.16%); cant_digitos=28 (p=0.20%); g=US (p=1.37%),0
+98579,2020-04-17 23:04:27,71.71,BR,cat_604df77,Máscara Descartável Hospitalar 50 Unidades Tnt Duplo - Vírus,N,23,0.570077989864792,log_l=0 (p=1.35%); hora=23 (p=2.21%); hora_bin=noche (p=5.87%),0
+95131,2020-04-21 00:28:47,15.38,BR,cat_c8fff07,Kit Tapete Passadeira Cozinha (03 Peças) Escandinavo,N,0,0.5700440956791905,hora=0 (p=1.27%); log_l=0 (p=1.35%); es_madrugada=1 (p=3.71%),1
+123556,2020-04-19 00:49:07,42.97,AR,cat_2977363,"Carter´s Conjunto , Tres Piezas, Recien Llegados.",Y,0,0.5699563785633376,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+46604,2020-04-18 14:36:06,695.61,AR,cat_e5ca240,Notebook 15  Lenovo V130 I3-7020u 8gb Full Hd Ssd 256gb,N,14,0.5699065221101968,log_monto=6.55 (p=0.33%); cant_digitos=14 (p=3.25%); h=0 (p=8.87%),0
+123310,2020-04-15 16:55:07,199.51,AR,cat_f8399ab,Kit Cree Led H7 H1 H3 H11 H16 9006 Mayorista X10u Autos 12v,,16,0.5697496654451193,log_m=7.18 (p=0.80%); f_neg=1 (p=0.81%); cant_digitos=15 (p=2.67%),0
+24084,2020-04-20 00:12:50,12.12,AR,cat_ae073e3,Llavero Picador Grinder Baku - Cara De Diablo Cogonauts,N,0,0.5696794893160847,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),1
+41680,2020-04-18 00:03:57,130.23,AR,cat_f2aaba5,"2 Luces Para Piletas Vulcano Super Led 13,2w Luz Blanca",,0,0.5696775556114653,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+78568,2020-04-19 00:37:59,4.6,AR,cat_5108a5a,Cable De Datos Y De Carga Para iPhone 5 5s 6 6s 7 8 Plus X Xs Max Xr - Ifans,,0,0.5696558646254625,n_palabras=21 (p=0.15%); hora=0 (p=1.27%); len_titulo=76 (p=1.61%),0
+64111,2020-04-19 01:55:52,2.15,BR,cat_7bd9342,Emenda Rj45 Lan 8x8 Fêmea X Fêmea P/ Cabo Rede Com 5 Peças,Y,1,0.5696326727541704,log_monto=1.15 (p=1.28%); hora=1 (p=1.91%); pct_mayusculas=0.19 (p=2.27%),0
+145314,2020-04-18 23:15:51,1.06,AR,cat_d5975ae,Fifa 12 + Dlc Uefa Euro - Pc Digital,,23,0.5696053885681457,log_monto=0.723 (p=0.40%); log_c=4.34 (p=1.52%); b=0.34 (p=1.83%),0
+92141,2020-04-21 20:32:27,76.39,AR,cat_d5975ae,4280 Rp League Of Legends  Lol  Carga Inmediata,N,20,0.5695729318463957,b=0.402 (p=2.72%); log_l=4.39 (p=4.17%); q=0 (p=8.68%),1
+141817,2020-04-16 03:26:22,230.2,AR,cat_659929a,Reloj Swatch Yws400 Trueville Cuero Acero Calendario,,3,0.5695444301106081,hora=3 (p=2.56%); b=0.413 (p=2.92%); log_monto=5.44 (p=3.23%),0
+70830,2020-04-19 23:40:55,5.97,US,cat_693efe7,Cubreboca Barbijo Liso Unisex Cosplay Adulto Kpop,N,23,0.5695440528566598,g=US (p=1.37%); hora=23 (p=2.21%); hora_bin=noche (p=5.87%),1
+61162,2020-04-19 01:36:47,27.61,US,cat_4f68d32,Dvd Portátil Ranser Pdvd-07b Reproductor Multimedia Gira 180,,1,0.5695090913168839,g=US (p=1.37%); hora=1 (p=1.91%); es_madrugada=1 (p=3.71%),0
+146220,2020-04-20 23:07:11,4.6,AR,cat_d9753d4,Tarjeta Spoti**fy Pmiüm De Por Vida (lee La Descripcion!),,23,0.5695018108586063,b=0.149 (p=0.68%); cant_simbolos=5 (p=1.58%); hora=23 (p=2.21%),0
+2461,2020-04-17 00:07:56,34.53,BR,cat_34bcef1,Copa Do Mundo 98 - Figurinhas,Y,0,0.569486450586734,log_c=2.72 (p=0.37%); hora=0 (p=1.27%); b=1 (p=1.42%),0
+87210,2020-04-14 22:37:09,400.05,AR,cat_43b9c10,Celular Libre Motorola G8 Plus Rubi,,22,0.5693923208165085,log_monto=5.99 (p=1.13%); log_c=14.5 (p=3.01%); hora_bin=noche (p=5.87%),0
+148127,2020-04-17 18:03:43,358.22,BR,cat_43b9c10,Samsung Galaxy A51 Dual Sim 128 Gb Prism Crush Black 4 Gb Ram,N,18,0.5693793172826593,log_l=0 (p=1.35%); log_monto=5.88 (p=1.45%); log_c=15.1 (p=1.66%),1
+143370,2020-04-19 10:26:57,255.07,AR,cat_cae6942,Juego Baño Completo Vanitory Sanitarios Griferia S Envio,N,10,0.569314378533571,log_monto=5.55 (p=2.66%); log_c=14.2 (p=3.94%); log_l=4.86 (p=5.50%),1
+31747,2020-04-18 00:04:18,2.76,AR,cat_fe4ba8c,Cofias Tipo Pirata Varios.colores Gorros  Leer Descripcion,,0,0.5693092485968472,hora=0 (p=1.27%); log_monto=1.32 (p=2.19%); es_madrugada=1 (p=3.71%),0
+143429,2020-04-21 13:31:58,394.0,UY,cat_abe4213,"Nintendo Switch Lite + Vidrio Templado De Regalo, Macrotec",,13,0.5693061931737521,log_monto=5.98 (p=1.17%); g=UY (p=1.86%); log_l=4.19 (p=3.80%),0
+147522,2020-04-20 01:20:53,373.97,BR,cat_bba902e,"Caixa Bluetooth Jbl Boombox 60w Preta, P2, Estéreo, Bateria",,1,0.5692669781387297,log_monto=5.93 (p=1.32%); hora=1 (p=1.91%); es_madrugada=1 (p=3.71%),1
+139250,2020-04-18 16:02:56,613.86,AR,cat_23212a0,Smart Tv Samsung 50  Uhd 4k 50ru7100 1104,,16,0.5692473401437009,log_monto=6.42 (p=0.44%); log_m=7.22 (p=0.57%); f_neg=1 (p=0.81%),0
+96060,2020-04-18 23:15:16,11.14,UY,cat_859aa91,Sally Hansen - Fortalecedor Diamond Stregth,Y,23,0.5692448657743084,g=UY (p=1.86%); hora=23 (p=2.21%); hora_bin=noche (p=5.87%),0
+52213,2020-04-15 05:58:30,19.96,AR,cat_a349b79,Zapatillas Addnice Led Usb Minions Mundial Cordon Azu Niños,Y,5,0.5691314443287534,es_madrugada=1 (p=3.71%); hora=5 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+57950,2020-04-18 23:03:42,112.02,AR,cat_6ddf935,Zapatilla Puma Rs-x Hard Drive 1-1-369818/01,Y,23,0.5690980289749608,hora=23 (p=2.21%); cant_simbolos=4 (p=4.01%); hora_bin=noche (p=5.87%),0
+96301,2020-04-19 23:20:38,13.04,AR,cat_3203c7c,Cumanes Cuestionario De Madurez Neuropsicológica Escolar,Y,23,0.5690875569354046,hora=23 (p=2.21%); b=0.455 (p=3.94%); log_c=6.05 (p=4.47%),0
+8029,2020-04-21 02:08:44,0.39,BR,cat_2c8b413,Cachorro De Raca,,2,0.5690500016827919,log_monto=0.329 (p=0.12%); len_titulo=16 (p=0.76%); b=0.988 (p=1.62%),0
+26239,2020-04-18 22:36:53,349.75,BR,cat_43b9c10,Xiaomi Redmi 8a Dual Sim 32 Gb Azul-oceano 2 Gb Ram,N,22,0.5689535643458722,log_monto=5.86 (p=1.51%); hora_bin=noche (p=5.87%); hora=22 (p=5.87%),1
+81261,2020-04-17 01:57:20,8.75,AR,cat_3203c7c,Romance Negra Rubia Cabezon Camara Eterna Cadencia Santelmo,Y,1,0.5689090442487547,hora=1 (p=1.91%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+93622,2020-04-20 11:07:52,81.34,AR,cat_43b9c10,Celular Motorola G5 Plus 32 Gb Plateado,N,11,0.5688704821394258,b=0 (p=0.38%); log_l=4.48 (p=4.34%); log_c=6.11 (p=4.63%),1
+90936,2020-04-16 02:51:16,9.55,BR,cat_706d448,Antena Teto Decorativa Shark Linha Vw Audi Mercedes....,N,2,0.5687901002587331,hora=2 (p=2.30%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+49510,2020-04-20 23:22:21,0.61,AR,cat_cad237e,1 +1 Patrones Velvet Tejido Crochet Sweaters Gorros Inglés,Y,23,0.5687226657176647,log_monto=0.476 (p=0.21%); b=0.322 (p=1.64%); hora=23 (p=2.21%),0
+111294,2020-04-18 23:30:05,29.32,BR,cat_5d6059e,Bebê Reborn Menina  Princesa Boneca Siliconada Barata Lol,N,23,0.5685922104365346,q_neg=1 (p=0.29%); q=-0.02 (p=0.29%); log_l=0 (p=1.35%),0
+82166,2020-04-17 04:26:25,18.4,AR,cat_3f25d2e,Griferia Canilla Monocomando Lavatorio De Baño Fiting Shop,Y,4,0.5683657742324822,hora=4 (p=2.91%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+73922,2020-04-20 19:06:43,382.36,AR,cat_43b9c10,Celular Libre Motorola Moto G8 Power 4gb 64 Gb Quad Cam Ctas,N,19,0.5682072108169655,log_monto=5.95 (p=1.26%); b=0.951 (p=2.31%); log_l=3.78 (p=3.22%),0
+89197,2020-04-14 23:34:51,9.23,AR,cat_3203c7c,Libro Basta De Amores De Mierda,N,23,0.5680922963528255,pct_mayusculas=0.194 (p=1.64%); log_l=1.61 (p=1.79%); hora=23 (p=2.21%),0
+87699,2020-04-17 01:40:55,17.19,US,cat_658a502,Acolchado Reversible Doble Faz 1 ½ Plaza Directo De Fabirca,,1,0.5680377018657804,g=US (p=1.37%); hora=1 (p=1.91%); es_madrugada=1 (p=3.71%),0
+51732,2020-04-19 13:46:07,33.46,BR,cat_5751691,Super Tweeter Profissional 150w Rms - Jblselenium St400 Trio,N,13,0.5679995879998802,h=57 (p=0.02%); q_neg=1 (p=0.29%); q=-0.02 (p=0.29%),0
+23993,2020-04-19 20:24:45,224.31,BR,cat_43b9c10,Samsung Galaxy A30s Dual Sim 64 Gb Prism Crush White 4 Gb Ram,N,20,0.5679424209930382,log_l=0 (p=1.35%); log_c=15.1 (p=1.52%); len_titulo=61 (p=2.82%),1
+83146,2020-04-21 20:49:27,1.07,AR,cat_9794f65,Coleccion Sega Genesis Totalmente Completa!,,20,0.5679155910120639,log_monto=0.728 (p=0.40%); b=0.105 (p=0.56%); log_l=0 (p=1.35%),0
+19961,2020-04-19 00:46:39,129.42,AR,cat_4201712,Sopladora Aspiradora Trituradora Black Decker 2500w Bv25,,0,0.5678216948386665,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+41241,2020-04-16 08:11:52,503.36,AR,cat_27f5ccb,Aire Acondicionado Philco Split Inverter Frío/calor 3300w Blanco Phin32h17n,N,8,0.5678132788399155,log_monto=6.22 (p=0.72%); len_titulo=75 (p=1.66%); log_l=8.58 (p=6.53%),0
+127996,2020-04-18 04:03:13,11.01,BR,cat_9eaf019,3 Mascaras Válvula Proteção Pff Inmetro,N,4,0.567744002992509,log_l=3.37 (p=2.77%); hora=4 (p=2.91%); es_madrugada=1 (p=3.71%),0
+62389,2020-04-18 22:00:24,17.33,,cat_b50d9ab,"Mochila Masculina Motoboy Motoqueiro,camping Grande Espaçosa",N,22,0.5676875648054845,g=nan (p=0.07%); hora_bin=noche (p=5.87%); hora=22 (p=5.87%),0
+26714,2020-04-20 23:20:59,8.43,AR,cat_3203c7c,Buscando A Alaska (best Seller) (bolsillo) - John Green,,23,0.5676614438615875,f_neg=1 (p=0.81%); cant_simbolos=5 (p=1.58%); hora=23 (p=2.21%),0
+117000,2020-04-16 14:45:18,34.99,US,cat_5dcaf09,Mascara Proteccion Facial,N,14,0.5676059921449811,log_l=0 (p=1.35%); g=US (p=1.37%); n_palabras=3 (p=1.65%),0
+81187,2020-04-19 09:24:11,7.51,UY,cat_6877d6b,Pie De Cama Home 125 X 150 Cm Lila,Y,9,0.5675841937138364,pct_mayusculas=0.206 (p=0.63%); g=UY (p=1.86%); log_l=4.11 (p=3.66%),0
+118342,2020-04-20 03:21:04,50.64,AR,cat_8562bc4,Kit De Transmision Jawa 350 Ruta40 Con Cadena Reforzada 520,Y,3,0.5675626612101055,hora=3 (p=2.56%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+80298,2020-04-19 00:35:15,27.57,BR,cat_0eb83e7,Bateria Heliar Htz6 125/150 Cg/titan/biz/nxr/bros/fan/xre300,Y,0,0.5673611263730639,cant_simbolos=7 (p=0.29%); pct_mayusculas=0.0667 (p=0.45%); hora=0 (p=1.27%),0
+89511,2020-04-18 03:55:32,145.79,AR,cat_c0d09c6,Mampara Acrilico Contagio Virus Mostrador Local 100x60,,3,0.5673053690636591,hora=3 (p=2.56%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+75367,2020-04-17 04:14:25,185.62,AR,cat_e08bdcc,Silla Tolix Negro Mate Asiento Madera Clara X4 Envio Gratis,Y,4,0.5671547804447904,hora=4 (p=2.91%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+52232,2020-04-14 23:55:58,115.39,AR,cat_6e079a0,Tablet Pc 10 Quadcore 16gb Unnic Wifi Android Netbook + Film + Teclado + Auriculares,,23,0.5670757171921141,n_palabras=15 (p=1.17%); len_titulo=84 (p=1.23%); hora=23 (p=2.21%),0
+131130,2020-04-18 04:57:10,18.42,AR,cat_7b22fde,Stonecat: Piedras Sanitarias Aglomerantes / Envío Sin Cargo!,Y,4,0.5670443486424103,hora=4 (p=2.91%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+62723,2020-04-16 15:56:21,224.05,AR,cat_9d25952,"Sierra Ingletadora Lusqtoff 250mm 1650w 255mm 10 Pulgadas + Envio Circular Para Madera, Mdf, Aglomerado, Melamina",,15,0.5670276628443404,len_titulo=113 (p=0.41%); n_palabras=16 (p=0.86%); log_l=3.74 (p=3.15%),0
+148949,2020-04-15 15:53:23,768.4,AR,cat_e5ca240,Notebook Hp 250 G7 Core I3 7020u 8gb 1tb 15.6 Led,Y,15,0.567020921803047,log_monto=6.65 (p=0.24%); log_c=14.7 (p=2.29%); log_f=5.51 (p=2.99%),0
+40396,2020-04-19 22:09:05,153.47,AR,cat_97b4bb0,"Minitorno Inalambrico Dremel 8220 Litio 10,8v 105 Accesorios",,22,0.5670082099344147,pct_mayusculas=0.0833 (p=2.05%); log_monto=5.04 (p=5.45%); hora_bin=noche (p=5.87%),0
+61101,2020-04-21 20:50:21,152.25,BR,cat_43b9c10,Samsung Galaxy A10s Dual Sim 32 Gb Azul 2 Gb Ram,N,20,0.5670038585250973,log_c=15.3 (p=1.26%); log_l=0 (p=1.35%); pct_mayusculas=0.188 (p=2.66%),1
+149403,2020-04-18 13:44:17,1.53,AR,cat_9794f65,Nintendo 64 Para Pc 74 Juegos,Y,13,0.5669745659944956,log_c=0.932 (p=0.03%); b=0 (p=0.38%); log_monto=0.928 (p=0.67%),0
+133907,2020-04-17 01:23:41,7.28,US,cat_24efed4,Ph Bond Harmony/ Gelish Prep Desidratador 15ml,,1,0.5669725557110316,g=US (p=1.37%); hora=1 (p=1.91%); es_madrugada=1 (p=3.71%),0
+35373,2020-04-18 23:38:47,26.31,AR,cat_ea962fb,Auriculares Inalámbricos  I12tws In Ear - Garantía Gamer24hs,,23,0.5668897022869429,log_l=0 (p=1.35%); hora=23 (p=2.21%); b=0.447 (p=3.68%),0
+149916,2020-04-18 09:24:20,2.75,AR,cat_9a3d1c0,Tarjeta Telefónica Control Pin $ 110 - Stock 24 Hs.,N,9,0.5668705451852559,b=0.323 (p=1.65%); log_monto=1.32 (p=2.17%); cant_simbolos=3 (p=9.61%),0
+13902,2020-04-19 13:59:22,46.03,AR,cat_43b9c10,Oferta// Teléfono Celular Con Tapa Números Grandes Tapita,N,13,0.5668437368952387,f_neg=1 (p=0.81%); log_c=7.06 (p=8.06%); n=0 (p=9.55%),0
+69916,2020-04-16 01:35:24,51.21,BR,cat_c0ccda0,Rifle Fuzil Airsoft Vigor Vg M16ris 6mm Spring Polímero,N,1,0.5668034333869612,log_l=0 (p=1.35%); hora=1 (p=1.91%); es_madrugada=1 (p=3.71%),1
+30504,2020-04-16 20:31:48,287.78,BR,cat_0e75f31,Nintendo Switch,Y,20,0.5667945717967245,n_palabras=2 (p=0.64%); len_titulo=15 (p=0.66%); b=1 (p=1.42%),0
+45977,2020-04-17 00:23:56,45.27,AR,cat_edae169,Flawless Base Set-real Techniques - 100% Original,N,0,0.5667308509818496,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),1
+55087,2020-04-16 15:22:59,129.29,BR,cat_23212a0,Smart Tv Lg Hd 23  24tl520s-ps,N,15,0.5667039138400641,q_neg=1 (p=0.29%); q=-0.02 (p=0.29%); log_l=0 (p=1.35%),1
+88287,2020-04-18 10:37:29,16.88,US,cat_3ee7c64,"Dimmer, Atenuador, Variador 220v 1000w",N,10,0.5666437904294016,pct_mayusculas=0.0789 (p=1.23%); g=US (p=1.37%); n_palabras=5 (p=6.83%),0
+36333,2020-04-16 09:04:16,230.19,AR,cat_52125eb,Ejercitador Para Piernas Pasivo Ancianos Rehabilitacion,Y,9,0.566635809309311,log_c=14.7 (p=2.36%); log_monto=5.44 (p=3.23%); log_m=6.9 (p=4.49%),0
+93609,2020-04-21 09:54:58,0.69,US,cat_39b20f5,Display P/notebook 15.6 Led Slim 40 Pines Hd  N156bge-lb1,Y,9,0.5666261677887878,log_monto=0.525 (p=0.23%); g=US (p=1.37%); b=0.322 (p=1.63%),0
+99647,2020-04-18 21:08:18,199.82,US,cat_83ef061,Fechadura Eletrônica Digital Touch Intelbras Fr320 + 5 Tags Original Lacrado C/ Garantia,N,21,0.5665996203276993,len_titulo=88 (p=1.05%); g=US (p=1.37%); n_palabras=13 (p=3.71%),0
+41526,2020-04-21 19:23:48,914.38,AR,cat_4f8fd1f,"Cinta Caminadora P/caminar,correr Olmo 95 C/envio Gratis",Y,19,0.5663618347970807,log_monto=6.82 (p=0.15%); cant_simbolos=3 (p=9.61%); b=0.579 (p=12.08%),0
+112287,2020-04-19 02:15:46,50.34,AR,cat_4d863c8,Máscara Facial Protectora Sin Acetato,,2,0.5663387632235679,b=0.281 (p=1.22%); hora=2 (p=2.30%); es_madrugada=1 (p=3.71%),0
+78352,2020-04-20 08:59:03,383.65,AR,cat_ea962fb,Auriculares Bluetooth Sony Inalambricos Wh-1000xm3,,8,0.5662983218637053,log_monto=5.95 (p=1.26%); log_l=8.76 (p=1.41%); log_f=5.57 (p=2.75%),0
+84562,2020-04-21 00:12:30,83.94,BR,cat_6ff9fdf,Avião Wltoys F949 Cessna 182 - 2.4 Ghz 3ch Rc Airplane - 12x,,0,0.5661989531497756,hora=0 (p=1.27%); log_l=1.95 (p=1.92%); es_madrugada=1 (p=3.71%),0
+105461,2020-04-20 05:55:22,8.47,BR,cat_535337c,Fone Ouvido Sem Fio Bluetooth 4.1 Celular Micro Sd Fm P2 Fone De Ouvido Headphone Sem Fio Micro Sd Usb Fm Bluetooth,N,5,0.5661481415844256,n_palabras=22 (p=0.10%); len_titulo=115 (p=0.36%); es_madrugada=1 (p=3.71%),1
+41283,2020-04-21 17:31:40,284.0,UY,cat_43b9c10,iPhone 7 Original 32gb Garantia + Auriculares Bt Bde,Y,17,0.5661385404518906,g=UY (p=1.86%); log_monto=5.65 (p=2.24%); log_m=6.9 (p=4.46%),0
+8532,2020-04-19 00:36:06,177.22,BR,cat_23212a0,Smart Tv Philco Led 32 Ph32b51dsgwa Bivolt,,0,0.5661179658559318,hora=0 (p=1.27%); a=1 (p=2.71%); es_madrugada=1 (p=3.71%),0
+19565,2020-04-20 03:00:31,295.2,BR,cat_e5ca240,Notebook Lenovo Cel 4gb 500gb Windows 10 Hd,,3,0.5660782352721764,log_monto=5.69 (p=2.12%); hora=3 (p=2.56%); a=1 (p=2.71%),0
+9893,2020-04-15 11:54:07,276.63,AR,cat_ed20635,Bici Fija Spinning Usada,Y,11,0.5660731876751973,b=0.288 (p=1.28%); len_titulo=24 (p=2.19%); log_monto=5.63 (p=2.32%),0
+133337,2020-04-18 02:03:13,4.33,BR,cat_a0def4f,Protetor Facial Face Shield,N,2,0.5659681722782345,hora=2 (p=2.30%); len_titulo=27 (p=3.08%); n_palabras=4 (p=3.50%),0
+128683,2020-04-20 05:09:58,46.03,AR,cat_6ddf935,Zapatilla adidas Campus Db0546,N,5,0.5659536440965057,n_palabras=4 (p=3.50%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),1
+10498,2020-04-21 22:20:16,15.72,BR,cat_9802cc6,Cartão Pré-pago Netflix R$ 70 Reais Presente Assinatura,N,22,0.5658720994630643,log_l=0 (p=1.35%); hora_bin=noche (p=5.87%); hora=22 (p=5.87%),1
+14804,2020-04-16 16:20:01,0.34,AR,cat_0175a99,Demostración De Thermomix Tm6: Nueva!!!,N,16,0.5657701001337894,log_c=0.3 (p=0.01%); log_monto=0.293 (p=0.06%); b=0 (p=0.38%),0
+23283,2020-04-19 00:04:49,46.03,AR,cat_ea4f4b0,Set Bodys Carters Bodysuit Manga Larga  Pack Nene 24 Meses,,0,0.5657233908003725,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+101254,2020-04-16 21:30:58,538.29,AR,cat_76995e9,Tablero Basket Jirafa Spalding Alley Oop 44´ Basquet Nba Aro 7 Compuesto Importado,,21,0.565627304159002,log_monto=6.29 (p=0.62%); len_titulo=82 (p=1.31%); n_palabras=13 (p=3.71%),0
+133027,2020-04-18 04:14:42,11.82,BR,cat_cc39363,Exalted Orb - Pc Softcore - Path Of Exile,Y,4,0.5655255253041721,b=0.958 (p=2.03%); hora=4 (p=2.91%); log_c=5.66 (p=3.54%),0
+31889,2020-04-18 22:03:57,1.83,,cat_ff7b63b,Pack De Agendas Editables 2020,,22,0.5654706741877457,g=nan (p=0.07%); log_monto=1.04 (p=0.92%); b=0.277 (p=1.20%),0
+139172,2020-04-14 23:44:37,18.45,AR,cat_b06a785,Batería Moto E4 Plus He50 - Xt1772 Xt1773 Original Garantía,N,23,0.5654601342166732,b=0.159 (p=0.70%); hora=23 (p=2.21%); log_l=4.8 (p=5.27%),1
+82482,2020-04-17 22:34:41,44.58,US,cat_2c54875,Barra Maciza  Con Topes 1.70mts Para Discos De 30mm,,22,0.5654455018916399,g=US (p=1.37%); h=48 (p=4.00%); hora_bin=noche (p=5.87%),0
+110459,2020-04-19 09:21:16,1.83,AR,cat_6cc69af,"Navaja ,barbero, Afeitar, Peluquería Profesional Navajin .",Y,9,0.565419836142296,log_monto=1.04 (p=0.92%); pct_mayusculas=0.0862 (p=2.77%); b=0.454 (p=3.93%),0
+91758,2020-04-18 15:49:06,216.43,BR,cat_43b9c10,Samsung Galaxy A30s Dual Sim 64 Gb Prism Crush White 4 Gb Ram,N,15,0.5654044170107824,log_l=2.56 (p=2.21%); a=1 (p=2.71%); len_titulo=61 (p=2.82%),1
+106970,2020-04-19 01:15:45,1.95,BR,cat_706d448,Antena Automotiva Tubarão Shark Preta Universal Decorativa,,1,0.5653735765227935,log_monto=1.08 (p=1.03%); log_c=15.3 (p=1.27%); hora=1 (p=1.91%),0
+46377,2020-04-20 00:31:00,61.37,AR,cat_adf1cb1,Teclado Para Pc Qwerty Redragon Kumara K552 Outemu Blue Español Latinoamérica Negro Con Luz Roja,,0,0.5653140939043261,len_titulo=96 (p=0.75%); n_palabras=15 (p=1.17%); hora=0 (p=1.27%),0
+62702,2020-04-15 04:31:29,227.45,AR,cat_9929ae8,Comprá Original Perfume Mancera Cedrat Boise 120ml Original,,4,0.5652679967579305,hora=4 (p=2.91%); log_monto=5.43 (p=3.29%); es_madrugada=1 (p=3.71%),0
+111450,2020-04-21 23:13:32,17.35,US,cat_4249bd8,Tênis Bolha Hiper Max Vapor Masculino E Feminino - Enviorápi,N,23,0.56509146599175,g=US (p=1.37%); hora=23 (p=2.21%); log_c=6.36 (p=5.40%),0
+11281,2020-04-19 11:08:26,84.42,BR,cat_ec06c68,Perfume Invictus Edt. 150ml - 100% Original.,N,11,0.5650689496198179,log_l=0 (p=1.35%); pct_mayusculas=0.0909 (p=3.79%); cant_simbolos=4 (p=4.01%),1
+45867,2020-04-20 01:07:15,24.88,UY,cat_051539c,Maquina De Coser Mini Multifuncion Con Luz Mli,,1,0.5650081536409971,g=UY (p=1.86%); hora=1 (p=1.91%); es_madrugada=1 (p=3.71%),0
+125515,2020-04-16 17:47:12,47.25,UY,cat_03f2e8d,Caja Cesto Canasto Organizador Rattan 40lts 29x48.5c34.5cm,N,17,0.5649924085075304,log_l=0 (p=1.35%); g=UY (p=1.86%); pct_mayusculas=0.0862 (p=2.77%),0
+14121,2020-04-20 20:53:20,736.65,AR,cat_e9110c5,Rutera Cannondale Supersix Eeuu Full Carbono,Y,20,0.5649843694967208,log_f=9.3 (p=0.03%); log_monto=6.6 (p=0.27%); h=38 (p=9.34%),1
+16531,2020-04-15 00:58:20,16.73,UY,cat_879b8fb,Monocomando Para Ducha Italomix Lh-825,,0,0.5649801929421155,hora=0 (p=1.27%); g=UY (p=1.86%); es_madrugada=1 (p=3.71%),0
+63549,2020-04-21 20:19:19,351.0,BR,cat_43b9c10,Samsung Galaxy A51 Dual Sim 128 Gb Prism Crush Black 4 Gb Ram,N,20,0.5649635514936098,log_l=0 (p=1.35%); log_monto=5.86 (p=1.50%); log_c=15.2 (p=1.51%),1
+68941,2020-04-18 04:24:14,26.07,US,cat_66beb7c,Cargador Bateria Moto Lancha Cuatri 6v 12v 5 Ah Mundo Jw,,4,0.5648899575529049,g=US (p=1.37%); hora=4 (p=2.91%); es_madrugada=1 (p=3.71%),0
+21292,2020-04-16 10:40:09,315.98,BR,cat_e5ca240,Notebook Positivo Intel® Celeron 4gb 500gb 14 Windows 10 Hom,N,10,0.5648758575882249,log_c=15.5 (p=0.70%); log_l=0 (p=1.35%); log_monto=5.76 (p=1.86%),1
+84584,2020-04-21 14:55:37,256.16,AR,cat_03975f1,Comandos Arcade Multijuego Xxl 90x38x10 12.000 Juegos,N,14,0.5648119969756663,log_monto=5.55 (p=2.63%); pct_mayusculas=0.0943 (p=4.37%); log_m=6.86 (p=5.22%),1
+52477,2020-04-19 13:55:46,5.71,US,cat_b23deda,Fonte Para Asus 1018 1015ped Asus Eee Pc 1015 2.5× 0.7mm,N,13,0.564800168196461,g=US (p=1.37%); cant_digitos=16 (p=2.31%); n=0 (p=9.55%),0
+144206,2020-04-17 14:42:54,997.53,AR,cat_e5ca240,"Notebook Asus Intel Core I5 15,6 1tb 8gb Windows Gamer",N,14,0.5647539433157623,log_monto=6.91 (p=0.12%); log_c=14.3 (p=3.75%); h=48 (p=4.00%),0
+147513,2020-04-17 01:49:05,25.31,BR,cat_0eb83e7,Carburador Motosserra Stihl 361 / Ms361 - Junta Grátis,N,1,0.5647271560843521,hora=1 (p=1.91%); log_l=3.26 (p=2.67%); es_madrugada=1 (p=3.71%),0
+88934,2020-04-21 10:55:54,2.26,UY,cat_cb3afd3,Llave De Afinar Peace Da-45 Tuning Key,N,10,0.5647116088510767,log_monto=1.18 (p=1.42%); g=UY (p=1.86%); pct_mayusculas=0.184 (p=3.48%),0
+5695,2020-04-19 01:11:37,13.04,AR,cat_ae073e3,Picador Grinder Aluminio Metal 3 Partes Amsterdam + Extra !!,,1,0.5646717826635806,hora=1 (p=1.91%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+70227,2020-04-21 01:31:55,19.99,AR,cat_4ff2cdf,Soporte Tv Led Lcd Brazo Movil 14 19 22 24 32 39 40 42 46,,1,0.5646583067577334,n_palabras=15 (p=1.17%); cant_digitos=18 (p=1.53%); hora=1 (p=1.91%),0
+30155,2020-04-15 13:30:44,489.0,UY,cat_3becde0,Playstation 4 Slim 1tb + Juego Físico Fifa 20  Gtia 1 Año,,13,0.5646388400918899,log_monto=6.19 (p=0.76%); b=0.977 (p=1.72%); g=UY (p=1.86%),0
+139193,2020-04-21 04:07:07,47.86,US,cat_c9954f9,Royal Canin Indoor 27 X 7.5 Kg. Sabuesos Vet,,4,0.564575601626616,g=US (p=1.37%); hora=4 (p=2.91%); es_madrugada=1 (p=3.71%),0
+26716,2020-04-18 21:46:36,68.48,UY,cat_55eb712,Mochila Guess Original,N,21,0.5645562891346281,b=1 (p=1.42%); n_palabras=3 (p=1.65%); len_titulo=22 (p=1.76%),0
+48814,2020-04-19 00:10:50,62.86,BR,cat_72781ea,1 Máscara Respirador Pff2s 3m 8822 N95 Pronta Entrega,,0,0.5645249060018763,hora=0 (p=1.27%); log_l=0.693 (p=1.56%); es_madrugada=1 (p=3.71%),0
+36161,2020-04-14 20:15:12,1448.23,BR,cat_43b9c10,Apple iPhone 11 Pro Max Dual Sim 512 Gb Verde-meia-noite.,N,20,0.5645220133315548,log_monto=7.28 (p=0.05%); b=1 (p=1.42%); h=0 (p=8.87%),1
+87624,2020-04-20 05:03:08,137.64,BR,cat_1dfa2be,Mesa Digitalizadora Wacom Intuos Bluetooth Ctl4100wl,N,5,0.5644862809171347,log_c=14.5 (p=2.73%); log_l=8.68 (p=3.21%); es_madrugada=1 (p=3.71%),0
+12802,2020-04-17 09:09:34,183.55,AR,cat_e600e6d,Barbijo De Friselina 80grs El Mas Grueso X 100 Unidades,N,9,0.5644628904695366,log_l=4.26 (p=3.93%); log_monto=5.22 (p=4.42%); q=0 (p=8.68%),0
+11482,2020-04-21 14:27:13,0.76,AR,cat_dceaed0,Elastico Plano Kopelco Desde 4mm($5xmetro)p/barbijo/tapaboca,N,14,0.5643921343013252,log_monto=0.565 (p=0.25%); b=0.0054 (p=0.38%); pct_mayusculas=0.0667 (p=0.45%),0
+78674,2020-04-20 02:17:45,20.76,AR,cat_138a3a2,Barco Pirata 2 Muñecos Luces Sonidos Ruedas 26 Cm Movimiento,Y,2,0.5642443564191386,log_f=6.62 (p=0.55%); hora=2 (p=2.30%); es_madrugada=1 (p=3.71%),0
+95217,2020-04-18 00:31:27,15.33,US,cat_57f2adb,Cargador Motorola Turbopower Carga Rapida G4 G5 Plus X Play,,0,0.5642317134048219,hora=0 (p=1.27%); g=US (p=1.37%); es_madrugada=1 (p=3.71%),0
+141789,2020-04-18 19:03:41,24.42,UY,cat_04bfef1,Musleras Tácticas  Universales,N,19,0.5642091841634345,n_palabras=3 (p=1.65%); g=UY (p=1.86%); len_titulo=30 (p=4.22%),0
+127159,2020-04-18 22:05:14,55.76,BR,cat_f582e19,Colchão Polar Hospitalar D23 Cristal Solteiro 78,N,22,0.564207396725259,a=1 (p=2.71%); hora_bin=noche (p=5.87%); hora=22 (p=5.87%),0
+141076,2020-04-20 03:25:57,30.54,AR,cat_b4a93f8,Buzo Berlin Liso Rustico Algodón Mujer Complot,,3,0.564150549681834,log_l=1.1 (p=1.66%); hora=3 (p=2.56%); es_madrugada=1 (p=3.71%),1
+104029,2020-04-19 00:44:34,5.78,AR,cat_f3b3dd5,Bandeja Sanitaria Baño Mascotas Cesped Perro 55 X 28,,0,0.564100303702942,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+47568,2020-04-20 00:37:23,8.43,AR,cat_673451f,Azúcar Ledesma Clásica 1 Kg X 6 Unid Envío Gratis Necochea,Y,0,0.564021525770447,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),1
+93052,2020-04-19 18:35:49,280.83,AR,cat_88d85de,Protesis Capilares Indetectables Simil Piel Pelo Natural 20,Y,18,0.5639825257289387,log_monto=5.64 (p=2.27%); b=0.415 (p=2.96%); h=35 (p=11.31%),0
+78788,2020-04-21 09:52:52,108.6,UY,cat_18befa0,Almohadones Sofa 120/montetrani,,9,0.5639338334483426,pct_mayusculas=0.0645 (p=0.27%); b=0.996 (p=1.52%); n_palabras=3 (p=1.65%),0
+112872,2020-04-17 23:16:21,199.43,AR,cat_ccad3d2,Termotanque Electrico Señorial 95 Lts - Conexion Superior,,23,0.5639251299789269,hora=23 (p=2.21%); log_monto=5.3 (p=3.95%); log_l=4.32 (p=4.05%),0
+57313,2020-04-17 18:25:06,199.49,US,cat_43b9c10,Lg K Series K40 32 Gb Aurora Black 2 Gb Ram,Y,18,0.5638821710875489,pct_mayusculas=0.209 (p=0.50%); g=US (p=1.37%); log_monto=5.3 (p=3.94%),0
+104092,2020-04-18 05:49:15,36.43,BR,cat_11bc7be,Moldura Miolo De Chave De Seta Golf 94 A 98 Com Regulagem,Y,5,0.5636545169217971,h=57 (p=0.02%); es_madrugada=1 (p=3.71%); hora=5 (p=3.71%),0
+60930,2020-04-16 18:51:06,114.13,UY,cat_8274c16,Mesas De Luz Estilo Francés,,18,0.5636201795851841,log_l=0 (p=1.35%); g=UY (p=1.86%); len_titulo=27 (p=3.08%),0
+87583,2020-04-18 09:46:31,4.14,AR,cat_c25c16d,Pelotas Pelotitas Ejercicio Manos Antiestres Rehabilitacion,Y,9,0.563557099071391,log_monto=1.64 (p=5.50%); h=45 (p=6.01%); pct_mayusculas=0.102 (p=8.20%),0
+42256,2020-04-20 22:14:47,7.67,AR,cat_3203c7c,Libro De Cuentos League Of Leguends,N,22,0.5635413103365682,log_l=8.73 (p=2.09%); log_c=5.64 (p=3.50%); hora_bin=noche (p=5.87%),1
+62257,2020-04-15 09:45:13,8.01,UY,cat_b66e3d6,Perchas Infantiles Madera Zara Home,N,9,0.563469067122503,log_c=3.91 (p=1.08%); b=1 (p=1.42%); g=UY (p=1.86%),0
+64640,2020-04-16 08:21:19,0.66,AR,cat_e600e6d,Barbijos Doble Capa Descartables C/elástico Factura A O B,Y,8,0.563442303241379,log_monto=0.507 (p=0.23%); log_c=3.03 (p=0.51%); b=0.897 (p=4.31%),0
+128869,2020-04-21 00:37:12,36.47,BR,cat_340ed85,Robô Aspirador De Pó Automático Inteligente Sem Fio Usb Mini,N,0,0.5634316684565702,hora=0 (p=1.27%); log_l=4.08 (p=3.60%); es_madrugada=1 (p=3.71%),1
+135688,2020-04-19 17:00:31,339.15,US,cat_43b9c10,Celular Libre Samsung Galaxy A30s Sm-a307g 64gb 4gb Nuevo,Y,17,0.5633813866045051,g=US (p=1.37%); log_monto=5.83 (p=1.61%); h=0 (p=8.87%),0
+72092,2020-04-16 07:37:41,746.31,BR,cat_8088e21,"Empilhadeiras Manual 1,5 Ton Hidraúlica 12 X Sem Juros",,7,0.5633216208712915,log_monto=6.62 (p=0.26%); log_f=5.94 (p=1.56%); log_m=6.99 (p=3.00%),0
+117474,2020-04-18 16:12:21,1.6,UY,cat_d7c8a47,Huevos De Pascua Artesanales,,16,0.563252028143113,log_monto=0.956 (p=0.79%); g=UY (p=1.86%); log_c=5.43 (p=3.11%),0
+12835,2020-04-17 04:25:05,30.68,AR,cat_20c9a4e,Casita De Muñecas Fibrofacil + 25 Muebles Envio Gratis !!,,4,0.5632133647398141,hora=4 (p=2.91%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+70962,2020-04-15 05:25:43,18.47,AR,cat_9929ae8,Perfume Mujer Paula- Paula Cahen D´anvers Edt X 100 Ml,N,5,0.5632045698951124,es_madrugada=1 (p=3.71%); hora=5 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+40126,2020-04-19 05:19:01,15.33,AR,cat_2299fad,Mascara Fotosensible Lusqtoff Lst1x Careta Soldar - Rex,,5,0.563043976440662,log_c=14.5 (p=2.86%); es_madrugada=1 (p=3.71%); hora=5 (p=3.71%),0
+112670,2020-04-20 00:08:43,35.45,SE,cat_381751d,Kit 2 Drenefort Produto Original - Envio Imediato Ft. Gratis,N,0,0.5629374571765866,g=SE (p=0.23%); hora=0 (p=1.27%); es_madrugada=1 (p=3.71%),0
+13491,2020-04-18 00:56:46,39.9,AR,cat_d38f912,Plancheta!! La Planchetta® 2 Hornallas + Espátula + Tapa!!!,Y,0,0.5629068825965843,cant_simbolos=8 (p=0.13%); hora=0 (p=1.27%); es_madrugada=1 (p=3.71%),0
+21669,2020-04-20 15:43:17,433.05,BR,cat_43b9c10,iPhone 7 Plus Apple 32gb Exposição Vitrine Em 12x Sem Juros,N,15,0.5628884362946711,log_monto=6.07 (p=0.97%); log_l=0 (p=1.35%); b=0.935 (p=2.71%),1
+139011,2020-04-19 09:29:07,19.58,ES,cat_b518285,Mancuerna Gimnasia 2kgr Gmp Recubierta Goma Vinilica Pesa,N,9,0.5628435110304415,g=ES (p=0.03%); log_l=0 (p=1.35%); b=0.533 (p=8.05%),0
+18814,2020-04-18 09:45:51,15.98,UY,cat_1b5f585,Cable Rca,,9,0.5627986189861318,len_titulo=9 (p=0.18%); pct_mayusculas=0.222 (p=0.24%); log_c=3.1 (p=0.53%),0
+5044,2020-04-19 20:05:01,96.67,AR,cat_43b9c10,Samsung Galaxy J1 Ace  Bueno Blanco Liberado,,20,0.5627836453928018,q_neg=1 (p=0.29%); q=-0.02 (p=0.29%); log_l=0 (p=1.35%),1
+38052,2020-04-17 17:15:24,507.18,US,cat_1ac78ee,Sierra De Mesa Skil 10pulg(254mm)  3610 1600w By Bosch Ofert,,17,0.5627568241505272,log_monto=6.23 (p=0.71%); g=US (p=1.37%); cant_digitos=13 (p=3.84%),0
+74537,2020-04-19 19:13:05,213.17,AR,cat_3525dc1,Pupa Art Xl - Maquillaje - Pupa Milano,Y,19,0.5627305836205555,log_monto=5.37 (p=3.62%); h=42 (p=7.48%); len_titulo=38 (p=9.06%),0
+43651,2020-04-20 00:32:03,38.28,AR,cat_a349b79,Zapatilla Training Ng/gr/vt Lady Motion Topper Mujer,N,0,0.5626081859879457,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),1
+40130,2020-04-20 12:41:45,122.77,AR,cat_3e59ead,Bangho Cubic A01b-i3-4gb Ram-ssd 60gb-liquido Ya!!!,N,12,0.5625223603119237,cant_simbolos=7 (p=0.29%); log_l=1.39 (p=1.72%); pct_mayusculas=0.098 (p=5.13%),1
+90550,2020-04-20 06:34:08,230.89,US,cat_dd23cbd,Kit Solar 2 Paneles 160w + Regulador Carga 20 Amper 12v 24v,,6,0.5624579028387282,g=US (p=1.37%); log_monto=5.45 (p=3.22%); hora=6 (p=5.41%),0
+102156,2020-04-21 21:11:21,83.51,AR,cat_132843c,Modulo Pantalla J3 J320 (2016) Negro *original* Samsung,N,21,0.5624002860146028,log_l=0 (p=1.35%); b=0.44 (p=3.48%); cant_simbolos=4 (p=4.01%),0
+6807,2020-04-21 00:39:50,61.17,AR,cat_3203c7c,Oferta 6 Cajas 30 Mini Libros Cuentos Y Educativos Billiken,,0,0.5623249089943271,hora=0 (p=1.27%); h=50 (p=2.62%); es_madrugada=1 (p=3.71%),0
+143524,2020-04-17 02:30:30,38.35,AR,cat_a349b79,Zapatillas Nike Mujer Internationalist Premium 6815,N,2,0.5622459756892607,hora=2 (p=2.30%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+97333,2020-04-19 19:18:13,207.17,AR,cat_23212a0,Smart Tv Noblex Hd 32  Dj32x5000,N,19,0.5621864234891881,log_c=15.1 (p=1.57%); log_l=3.97 (p=3.46%); log_monto=5.34 (p=3.75%),1
+121505,2020-04-20 11:30:23,73.04,UY,cat_32da313,Azulejo Vinil Adhesivo Venecitas  3d Blanco -25.5x25.5 Cm,N,11,0.5620978945773509,g=UY (p=1.86%); log_l=2.3 (p=2.08%); n=0 (p=9.55%),0
+102452,2020-04-14 21:48:44,58.39,CL,cat_600e7c1,Juegos Olímpicos Helsinki 1952,,21,0.5620963175319644,g=CL (p=0.00%); log_c=2.92 (p=0.46%); b=0.423 (p=3.12%),0
+14525,2020-04-20 23:11:37,0.87,AR,cat_71b6c9c,Toner Alternativo Tn1060 Hl1110 1112 1200 1512 1617 1810,,23,0.5620955597264963,cant_digitos=28 (p=0.20%); log_monto=0.626 (p=0.32%); pct_mayusculas=0.0714 (p=0.83%),0
+62310,2020-04-18 00:36:51,246.16,BR,cat_6f5f98c,Cabeçote Gol 1.0 8v,,0,0.5620756140835251,len_titulo=19 (p=1.19%); hora=0 (p=1.27%); log_monto=5.51 (p=2.83%),0
+83949,2020-04-17 17:10:28,38.37,US,cat_79432fe,Mercado Pago Point Plus C/chip Celular + Impresora Posnet,N,17,0.5620741974925549,log_l=0 (p=1.35%); g=US (p=1.37%); n=0 (p=9.55%),0
+110090,2020-04-19 03:11:40,9.98,US,cat_ae374b1,Soldados 2 G M Nº 24 Ametralladorista Aleman,,3,0.5620066380379937,g=US (p=1.37%); hora=3 (p=2.56%); es_madrugada=1 (p=3.71%),0
+68981,2020-04-15 01:17:47,132.11,BR,cat_93da374,Violao Yamaha Apx-4 Aco,,1,0.5617694920740769,hora=1 (p=1.91%); len_titulo=23 (p=1.96%); b=0.378 (p=2.32%),0
+68417,2020-04-17 00:18:33,3.94,BR,cat_57c11ad,Marcação Escala Braço  Side Dot   Side Mark  2mm Branco,,0,0.5617454221500424,h=55 (p=0.96%); hora=0 (p=1.27%); es_madrugada=1 (p=3.71%),0
+146611,2020-04-16 01:43:22,67.51,AR,cat_9f70d7e,Taladro Atornillador Klatter 14v Inalambrico 10mm,Y,1,0.5616610740532875,pct_mayusculas=0.0816 (p=1.40%); hora=1 (p=1.91%); es_madrugada=1 (p=3.71%),0
+90503,2020-04-15 17:44:09,36.52,UY,cat_3a53758,"Cortador De Verduras Y Frutas. Espiral, Etc. Como Nuevo!!",N,17,0.5616390526360056,cant_simbolos=5 (p=1.58%); g=UY (p=1.86%); log_c=4.91 (p=2.20%),0
+124125,2020-04-17 00:57:26,7.87,AR,cat_048130a,Mouse Genius Inalambrico Nx 7000 Wireless 1200dpi Azul,Y,0,0.561569105022164,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+126269,2020-04-19 01:42:10,1.87,BR,cat_6c4cfdc,The Sims 4 Pc + Todas Expansões 2020 (mídia Digital),,1,0.5615586805576662,log_monto=1.05 (p=0.94%); log_c=4.51 (p=1.72%); hora=1 (p=1.91%),0
+64207,2020-04-15 22:01:16,183.57,AR,cat_61cf81c,Filtro De Agua Psa Vero + Kit Posventa,Y,22,0.5615433234005999,log_c=16.4 (p=0.00%); b=0.985 (p=1.64%); pct_mayusculas=0.184 (p=3.48%),0
+26866,2020-04-18 01:58:59,4.91,BR,cat_4ccec9f,Gta V Online Pacote De Dinheiro De 10 Milhões (+rp Bônus)ps4,Y,1,0.5615277059127468,hora=1 (p=1.91%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+17470,2020-04-20 09:09:36,460.39,AR,cat_43b9c10,Samsung Galaxy A51 Liberado,,9,0.5615149379682299,log_monto=6.13 (p=0.87%); len_titulo=27 (p=3.08%); n_palabras=4 (p=3.50%),0
+48513,2020-04-16 22:35:21,184.15,AR,cat_f2dee25,"Vitroconvector Peabody Pe-vqd20 1000/2000w, C/remoto Digital",Y,22,0.5614565732935309,pct_mayusculas=0.0833 (p=2.05%); cant_simbolos=4 (p=4.01%); log_monto=5.22 (p=4.40%),0
+121492,2020-04-15 07:43:21,291.98,AR,cat_dd47b78,Combo Somier Colchón Piero + Almohadas + Sábanas Y Acolchado,Y,7,0.5613908615341731,log_monto=5.68 (p=2.16%); h=48 (p=4.00%); hora=7 (p=8.64%),0
+57380,2020-04-18 04:11:43,186.46,BR,cat_1025606,Câmera Segurança Monitoramento Full Hd 1080p 2mp Ahd 1020 Tf,,4,0.5613675219470584,hora=4 (p=2.91%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+1804,2020-04-18 00:53:00,4.07,BR,cat_5c068ea,Voltimetro Digital 3 Fios P/ Painel Led Azul 0v-100v-cod.56,Y,0,0.5613383635909655,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+143384,2020-04-17 02:08:46,5.83,AR,cat_c4e5206,Auricular C/microfono Genius Hs-200c,,2,0.5613382360981963,hora=2 (p=2.30%); log_f=5.48 (p=3.12%); n_palabras=4 (p=3.50%),0
+62361,2020-04-19 09:14:45,105.89,AR,cat_011b4e4,60s Set #35 Corgi London Bus Taxi Police C/caja Autitos 1:43,,9,0.5611429312667451,log_m=7.16 (p=1.08%); log_f=6.17 (p=1.10%); h=47 (p=4.80%),0
+102250,2020-04-18 02:37:00,14.77,BR,cat_11627dd,Escape Esportivo Fan 125 Ks 2004 À 2008 Pro Tork Competition,Y,2,0.5611117918577124,hora=2 (p=2.30%); a=1 (p=2.71%); es_madrugada=1 (p=3.71%),1
+58929,2020-04-15 00:38:03,30.74,AR,cat_a28270e,Testo Ultra Maxx !. Importado Usa Con Holograma!!,Y,0,0.5608812548487565,hora=0 (p=1.27%); b=0.434 (p=3.36%); es_madrugada=1 (p=3.71%),0
+34036,2020-04-19 19:47:34,148.87,BR,cat_1ffa47c,Guarda Roupa Casal Mafra 6 Portas Branco - Moval,N,19,0.5608665427786209,q_neg=1 (p=0.29%); q=-0.02 (p=0.29%); log_l=0 (p=1.35%),0
+75307,2020-04-17 07:54:18,36.05,AR,cat_26c814e,Cafetera Atma Desayuno Ca8143 Negra 220v,N,7,0.5608623333943984,log_c=16.2 (p=0.00%); log_l=4.75 (p=5.09%); hora=7 (p=8.64%),0
+38392,2020-04-17 22:09:04,439.89,AR,cat_43b9c10,iPhone 6s Plus 16gb  4k En Caja Sellada,,22,0.5607737146376469,log_monto=6.09 (p=0.95%); hora_bin=noche (p=5.87%); hora=22 (p=5.87%),0
+84302,2020-04-15 01:05:56,44.8,US,cat_6877d6b,Manta Tejida Con Corderito Pie De Cama 1.50 X 2.00 Mts,,1,0.5607184823899772,g=US (p=1.37%); hora=1 (p=1.91%); log_m=6.96 (p=3.41%),0
+99711,2020-04-19 08:19:56,12.28,AR,cat_65148da,Cortina De Baño Impresa Diseño Mantra Teflon Original Modelos - Envio Full,,8,0.5606975702825547,q_neg=1 (p=0.29%); q=-0.02 (p=0.29%); log_l=0 (p=1.35%),0
+116817,2020-04-20 01:14:16,30.69,AR,cat_2bcbe48,Trípode Araña + Aro De Luz Led 16 Cm Promo,N,1,0.5606931454895482,hora=1 (p=1.91%); pct_mayusculas=0.19 (p=2.06%); es_madrugada=1 (p=3.71%),0
+9364,2020-04-21 19:26:17,529.77,AR,cat_5d5aeef,"Lepen Calefactor, Estufa A Leña Modelo 17000 Kcal Con Horno",,19,0.5606775185277869,log_monto=6.27 (p=0.64%); h=50 (p=2.62%); log_l=8.7 (p=2.76%),0
+118043,2020-04-17 11:01:41,158.84,US,cat_06df2fb,Compostera 7 A 8 Personas -220 Litros- Tierra Buena Compost,N,11,0.560672103891797,g=US (p=1.37%); h=49 (p=3.07%); log_monto=5.07 (p=5.20%),0
+100471,2020-04-20 14:29:29,903.38,AR,cat_3f2a061,Batería Pearl Roadshow 4 Cuerpos Bombo 18'' + Fierros Platos,,14,0.5606438236287306,log_monto=6.81 (p=0.15%); q=0 (p=8.68%); cant_simbolos=3 (p=9.61%),0
+136154,2020-04-19 17:44:20,306.92,AR,cat_23212a0,Smart Tv Noblex Full Hd 43  Dj43x5100,,17,0.5606437235730677,log_l=0 (p=1.35%); log_monto=5.73 (p=1.97%); log_c=14.6 (p=2.64%),1
+102532,2020-04-20 23:21:16,184.01,AR,cat_9bd30a6,Sillon Ejecutivo Gerencial Oficina Silla Escritorio Premium,,23,0.5606304680318724,f_neg=1 (p=0.81%); hora=23 (p=2.21%); h=48 (p=4.00%),1
+106005,2020-04-15 08:37:07,239.39,BR,cat_6d866fc,Estratégia Prime,,8,0.560627906778579,b=0.12 (p=0.60%); n_palabras=2 (p=0.64%); len_titulo=16 (p=0.76%),1
+2928,2020-04-21 08:40:25,81.75,AR,cat_61aad30,Kit Correa Distribucion + Bomba Agua Fiat Idea Fire 1.4 8v,N,8,0.560594556150413,h=49 (p=3.07%); n=0 (p=9.55%); log_m=0 (p=10.55%),1
+31741,2020-04-18 22:13:35,196.93,BR,cat_f6743e3,Suporte De Gps Bmw Navigator,,22,0.5605845847724165,log_m=7.62 (p=0.02%); b=1 (p=1.42%); len_titulo=28 (p=3.42%),0
+42566,2020-04-21 08:09:54,428.37,BR,cat_604df77,100 Mascara Não Descartavel Máxima Proteção,Y,8,0.5605803531652976,log_monto=6.06 (p=0.98%); h=0 (p=8.87%); n_palabras=6 (p=13.09%),1
+6586,2020-04-20 06:26:32,443.1,BR,cat_73518cd,Modulo De Injeção Kia Cerato 1.6 16v 39114-2b300 B130,Y,6,0.5605669054606822,log_monto=6.1 (p=0.93%); cant_digitos=16 (p=2.31%); hora=6 (p=5.41%),0
+137545,2020-04-16 16:17:33,182.38,UY,cat_f8ec31d,Bolsa Boxeo Ufc 1.5m+ Guante Pretorian + Vendas + Acc El Rey,Y,16,0.5605203410294936,g=UY (p=1.86%); cant_simbolos=4 (p=4.01%); log_monto=5.21 (p=4.44%),0
+124971,2020-04-20 07:13:26,66.19,UY,cat_92f5439,Alzacristales 2 Puertas Envíos A Todo El Pais!!,Y,7,0.5604551571373427,g=UY (p=1.86%); b=0.96 (p=2.00%); hora=7 (p=8.64%),0
+147628,2020-04-15 22:26:22,416.21,BR,cat_43b9c10,Smartphone Samsung Galaxy A71 128gb 4g Tela 6.7 Pol.,,22,0.5604478672682806,log_c=15.5 (p=0.68%); log_monto=6.03 (p=1.05%); a=1 (p=2.71%),0
+101605,2020-04-15 22:18:44,266.01,BR,cat_5b4c8c8,Roteador Tp-link Deco M5 (3-pack) Branco 100v/240v,Y,22,0.5604108227979592,cant_simbolos=5 (p=1.58%); log_monto=5.59 (p=2.47%); hora_bin=noche (p=5.87%),0
+41500,2020-04-19 01:05:17,49.01,AR,cat_f4f380d,Guantes De Nitrilo Descartable Caja 100 Unidades Oferta Unic,,1,0.5603993449948218,hora=1 (p=1.91%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+142472,2020-04-15 22:08:56,319.82,BR,cat_5be99e3,Máquina De Costura Brother Sq 9100 Bivolt,Y,22,0.560373034554488,log_c=0.854 (p=0.02%); b=0 (p=0.38%); log_monto=5.77 (p=1.80%),0
+100002,2020-04-20 17:06:40,402.81,US,cat_dd47b78,Sommier Queen 140x190 Resortes Native 400 La Cardeuse,N,17,0.5603571087102243,log_monto=6 (p=1.11%); g=US (p=1.37%); b=0.91 (p=3.61%),0
+107941,2020-04-19 09:13:27,2.3,AR,cat_d9753d4,Donacion Protectora De Animales Y Plantas,Y,9,0.5603507916974891,log_m=7.51 (p=0.06%); log_monto=1.19 (p=1.45%); b=0.436 (p=3.40%),0
+135442,2020-04-17 07:45:53,1.41,AR,cat_df7b02a,Leche Nestle Nidina 2 (6 A 12 Meses) X200 Ml,Y,7,0.5603297635259664,log_monto=0.88 (p=0.62%); hora=7 (p=8.64%); log_m=6.69 (p=9.06%),0
+120939,2020-04-19 22:30:12,88.38,AR,cat_c103e1d,Auriculares Gamer Astro A10 Grey Y Blue,N,22,0.5603295123208609,log_c=13.9 (p=4.76%); pct_mayusculas=0.179 (p=4.90%); hora_bin=noche (p=5.87%),0
+36098,2020-04-18 19:37:15,3.53,AR,cat_a28270e,Osmolite Hn,N,19,0.5603189434558613,len_titulo=11 (p=0.28%); n_palabras=2 (p=0.64%); log_c=4.2 (p=1.35%),0
+26146,2020-04-20 08:51:19,223.69,UY,cat_0fe77b1,Camas Montessori Para Niños.,,8,0.5602988051661485,log_l=8.79 (p=1.05%); g=UY (p=1.86%); log_m=7.06 (p=1.96%),0
+29010,2020-04-20 02:24:04,68.6,AR,cat_54d22e2,Piso Encastrable De Goma Eva Alto Impacto 1x1m X23mm Art20/r,,2,0.5602954298562183,hora=2 (p=2.30%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+99301,2020-04-19 23:23:42,273.63,BR,cat_340ed85,Robô Aspirador De Pó  Ilife A4s Robot Vacuum Casa Limpa,,23,0.5602669300853039,log_l=0 (p=1.35%); hora=23 (p=2.21%); log_monto=5.62 (p=2.36%),0
+49896,2020-04-18 09:59:04,146.7,US,cat_9651f38,Shunfa Sf 26-1a Maquina De Coser Portátil Para Cerrar Bolsas 220v Ideal Arpilleria Accesorios Garantía Maquineria Beiro,,9,0.5602490320681198,len_titulo=119 (p=0.19%); n_palabras=17 (p=0.65%); g=US (p=1.37%),0
+6838,2020-04-20 06:50:13,153.19,BR,cat_43b9c10,Motorola Moto E E6 Plus Dual Sim 64 Gb Caribbean Blue 4 Gb Ram,Y,6,0.5602019307203373,pct_mayusculas=0.194 (p=1.64%); n_palabras=14 (p=1.91%); len_titulo=62 (p=2.66%),0
+124414,2020-04-15 00:17:36,14.36,BR,cat_92c099c,Az-103 - Administrador Microsoft Azure,N,0,0.560178713435653,hora=0 (p=1.27%); b=1 (p=1.42%); log_c=4.6 (p=1.81%),0
+24376,2020-04-19 09:40:57,27.55,BR,cat_0f6c6e1,Kit Farol Milha S10 Blazer 01 2002 2003 2004 2005 2006 A 11,N,9,0.5600663343077277,h=57 (p=0.02%); cant_digitos=26 (p=0.28%); log_c=15.3 (p=1.27%),0
+139706,2020-04-20 02:11:43,50.39,BR,cat_2498fd9,Processador De Audio Px1 Bluetooth Crossover Expert Connect,N,2,0.5600562743976072,log_l=0.693 (p=1.56%); hora=2 (p=2.30%); es_madrugada=1 (p=3.71%),0
+143449,2020-04-16 08:43:43,349.0,UY,cat_684152e,Ergometrica Bravo Spinning Megastore Virtual,,8,0.5600382948989205,log_monto=5.86 (p=1.52%); g=UY (p=1.86%); b=0.882 (p=5.48%),0
+74512,2020-04-19 12:00:02,1.71,UY,cat_c9db6c3,Cable Vga Monitor 1.5 Metros - Otec,Y,12,0.5599916681852286,log_monto=0.997 (p=0.83%); g=UY (p=1.86%); len_titulo=35 (p=6.84%),0
+118616,2020-04-20 02:21:59,53.71,AR,cat_28668b8,Kit Inicial X14u. Manicuria Gel Esmalte Semi Cabina Led/ Uv,Y,2,0.5599587257483665,hora=2 (p=2.30%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+96828,2020-04-20 00:59:55,8.44,AR,cat_14cc20d,Remera Cristina Nestor Peron Y Evita Peronismo Kirchnerismo,Y,0,0.5599326254597264,hora=0 (p=1.27%); b=0.443 (p=3.56%); es_madrugada=1 (p=3.71%),0
+30069,2020-04-19 13:38:12,107.41,AR,cat_a349b79,Zapatillas Nike Air Force 1 Nba Tienda Oficial,N,13,0.5598419365030336,log_l=0 (p=1.35%); log_c=14.6 (p=2.69%); log_monto=4.69 (p=8.19%),0
+7709,2020-04-17 02:52:45,19.87,AR,cat_60e58bb,Tambor Cilindro Drum 820 Dcp 5600 Dcp 5650 Hl 5100 Pack X 3,,2,0.5598413371650561,hora=2 (p=2.30%); cant_digitos=16 (p=2.31%); es_madrugada=1 (p=3.71%),0
+99042,2020-04-15 00:59:55,1.38,AR,cat_546fe2e,Batidora De Mano Peabody 300w 4 Velocidades + Turbo Pe-hm550,,0,0.5598299933140267,log_monto=0.867 (p=0.60%); hora=0 (p=1.27%); es_madrugada=1 (p=3.71%),0
+70086,2020-04-15 01:22:50,38.42,AR,cat_2aa0b39,Adaptador Hdmi Tipo C Samsung Original Note 8 9 10 S8 S9 S10 +,,1,0.5598118134939739,hora=1 (p=1.91%); n_palabras=14 (p=1.91%); len_titulo=62 (p=2.66%),0
+99026,2020-04-19 04:34:53,18.39,AR,cat_57f2adb,Cargador Motorola Turbo 15+ Power Micro Usb,N,4,0.5598025611492891,hora=4 (p=2.91%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+107594,2020-04-16 22:37:01,40.99,UY,cat_1104aa0,Pack Revitalift Laser Día + Noche + Máscara,Y,22,0.5597530283463437,g=UY (p=1.86%); hora_bin=noche (p=5.87%); hora=22 (p=5.87%),0
+61139,2020-04-17 21:31:39,13.65,UY,cat_2b04b21,Soutien Maternal De Amamantar Lactancia,N,21,0.5597199642536067,g=UY (p=1.86%); log_l=2.2 (p=2.04%); n_palabras=5 (p=6.83%),0
+12747,2020-04-19 09:21:52,74.43,AR,cat_09190c5,Kit Amortguadores Corven Delanteros Peugeot 504 Nafta 1986/,N,9,0.5597028038202507,log_l=5.24 (p=7.01%); b=0.527 (p=7.65%); pct_mayusculas=0.102 (p=8.20%),0
+1590,2020-04-16 02:47:12,17.13,US,cat_5088b9a,Juego Cubiertos Tramontina 24 Piezas Ipanema - Rex,,2,0.5596676004373087,log_f=6.19 (p=1.08%); g=US (p=1.37%); hora=2 (p=2.30%),0
+81638,2020-04-16 15:56:04,18.21,US,cat_a11afcf,Kit Recarga Tinta Aqx 250ml X 4u Para Epson L355 L210 L375 L3110 L3150 L4150 Xp241 Xp211,,15,0.5596652474768851,cant_digitos=31 (p=0.10%); n_palabras=17 (p=0.65%); len_titulo=88 (p=1.05%),0
+143893,2020-04-19 23:16:41,227.12,AR,cat_6d1978e,Campera Salomon Mujer Strike Ski  -nieve -s+w,,23,0.5596145725474747,hora=23 (p=2.21%); log_monto=5.43 (p=3.30%); hora_bin=noche (p=5.87%),0
+75390,2020-04-18 08:52:09,242.92,AR,cat_2a92fc9,Combo Lavarropas 7kg Y Heladera,,8,0.5595341568184823,b=0 (p=0.38%); log_monto=5.5 (p=2.90%); log_c=5.9 (p=4.07%),0
+53559,2020-04-18 02:48:24,14.96,AR,cat_356e9ff,Espejo 130 X 38 Madera Cuerpo Entero Consulte 130x44 160x50,,2,0.5594485312094448,hora=2 (p=2.30%); cant_digitos=15 (p=2.67%); es_madrugada=1 (p=3.71%),0
+36367,2020-04-17 10:39:49,158.06,US,cat_43b9c10,Motorola Moto E E6 Play 32 Gb Steel Black 2 Gb Ram,N,10,0.5594401576356034,log_c=16.2 (p=0.00%); pct_mayusculas=0.2 (p=1.34%); g=US (p=1.37%),0
+109051,2020-04-17 07:29:25,97.55,UY,cat_14a1bcc,Equipo Bicicleta Termicos Unicos En El Mercado - / Gt Trek,,7,0.5593627101289734,g=UY (p=1.86%); log_l=3.87 (p=3.31%); hora=7 (p=8.64%),0
+144099,2020-04-21 23:55:16,0.38,AR,cat_592b4bf,Bomba De Infusión Argus Alquiler,,23,0.5593542640701372,log_monto=0.322 (p=0.11%); b=0.992 (p=1.58%); hora=23 (p=2.21%),0
+104927,2020-04-18 22:00:37,44.05,AR,cat_0b69cb5,Jabón En Pan Seiseme Caja,N,22,0.5592940994321353,b=0.261 (p=1.10%); pct_mayusculas=0.2 (p=1.34%); len_titulo=25 (p=2.43%),0
+136079,2020-04-16 19:43:23,522.8,AR,cat_13d9cba,Horno A Gas Longvie H14600xf - Nuevo,Y,19,0.559277509572043,log_monto=6.26 (p=0.67%); h=48 (p=4.00%); len_titulo=36 (p=7.54%),0
+8659,2020-04-21 19:40:47,228.99,AR,cat_43b9c10,Motorola Moto E E6 Plus Special Edition 64 Gb Rich Cranberry 4 Gb Ram,N,19,0.5592559260295318,log_c=16.3 (p=0.00%); n_palabras=14 (p=1.91%); len_titulo=69 (p=2.06%),0
+141899,2020-04-21 00:58:51,11.0,AR,cat_ac0a951,Bol Batidor 22cm Vima Acero Inoxidable,Y,0,0.5591874738420631,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+89029,2020-04-19 22:55:48,104.36,AR,cat_51f1fb5,Estacion Bakon 950d 75w Soldador Cautin Mejor Q Yaxun Quick,N,22,0.5591070632188843,b=0.314 (p=1.54%); hora_bin=noche (p=5.87%); hora=22 (p=5.87%),0
+140331,2020-04-21 10:50:49,0.68,UY,cat_9db8250,Cerámica Plaqueta 20x20 806 Piemontesa Cerámicas.,N,10,0.5590833831190819,log_monto=0.519 (p=0.23%); pct_mayusculas=0.0816 (p=1.40%); g=UY (p=1.86%),0
+134850,2020-04-20 01:55:01,10.42,AR,cat_ea962fb,Auricular Sony Mdr-e9lp Mp3 Nuevos C/gtia Oficial Sony Arg!!,,1,0.5590452535486283,hora=1 (p=1.91%); log_c=14.4 (p=3.31%); es_madrugada=1 (p=3.71%),0
+10167,2020-04-20 23:47:28,21.57,AR,cat_80915c6,Handy X 2 Baofeng Bf-t3 Radio Walkie Talkie Uhf - 22 Canales Intercomunicador Alcance Potente,,23,0.559026917662162,len_titulo=93 (p=0.84%); n_palabras=15 (p=1.17%); hora=23 (p=2.21%),1
+107750,2020-04-19 22:45:33,46.04,AR,cat_f78e8d9,Cinta Para Protesis Capilar Oferta X10 !!!,Y,22,0.5590142202545859,log_m=6.89 (p=4.67%); hora_bin=noche (p=5.87%); hora=22 (p=5.87%),0
+102470,2020-04-19 22:39:29,4.45,AR,cat_2a1b4f2,Espatula Vinilos C/felpa (premium),,22,0.5589976844561466,b=0.105 (p=0.56%); pct_mayusculas=0.0882 (p=3.09%); n_palabras=4 (p=3.50%),0
+43885,2020-04-19 00:20:38,33.44,BR,cat_4841ea3,Sacola Papel Kraft/color 140 Gr. 22 X 30 X 10 Kit .,Y,0,0.5589129604809022,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+27414,2020-04-17 17:27:47,10.73,US,cat_d5975ae,Simulador Turismo Carretera - Digital - Original - Actc,N,17,0.5588722747202539,g=US (p=1.37%); h=50 (p=2.62%); b=0.506 (p=6.24%),0
+50516,2020-04-21 23:46:43,6.09,AR,cat_d5975ae,Call Of Duty Black Ops 1 Ps3 Gold Ed Español Digital Hoy!!,N,23,0.5587695855594078,hora=23 (p=2.21%); pct_mayusculas=0.19 (p=2.27%); b=0.382 (p=2.38%),0
+117558,2020-04-20 22:47:32,5.49,BR,cat_8ef7164,Livro A Cabana,N,22,0.5587431221656847,log_c=2.48 (p=0.28%); pct_mayusculas=0.214 (p=0.41%); len_titulo=14 (p=0.54%),1
+141999,2020-04-16 01:17:44,30.68,AR,cat_63e82ed,Bolso Morral Mujer  Lona Quaglia,,1,0.5586669074817183,f_neg=1 (p=0.81%); hora=1 (p=1.91%); es_madrugada=1 (p=3.71%),0
+33378,2020-04-16 02:13:30,12.12,US,cat_b1d50aa,Cubre Zócalos Accesorios Renault Clio 1 2 Mio Tuning Pack X4,,2,0.5585835957049622,g=US (p=1.37%); hora=2 (p=2.30%); es_madrugada=1 (p=3.71%),0
+144527,2020-04-18 12:44:05,95.15,US,cat_c6b802a,Combo Pastas: Suavizantex100+jabonx120+lavandinax200,,12,0.5585037958017052,pct_mayusculas=0.0577 (p=0.21%); g=US (p=1.37%); n_palabras=3 (p=1.65%),0
+125460,2020-04-17 00:18:24,24.4,AR,cat_9fb4f08,Jeans Levanta Cola Semi Oxford Modelador Cintura Faja  Azul,,0,0.5584555429088837,hora=0 (p=1.27%); log_l=3.76 (p=3.19%); es_madrugada=1 (p=3.71%),1
+140276,2020-04-17 19:38:34,3.07,AR,cat_d5975ae,Psplus + Psnow X 1 Mes. Stock Permanente - Entrega Inmediata,Y,19,0.5584460571822871,f_neg=1 (p=0.81%); b=0.215 (p=0.88%); log_monto=1.4 (p=2.74%),0
+27871,2020-04-16 23:44:55,7.24,AR,cat_f1e7464,Automate Quo Autocebante Termo Mate Listo Colores Bombilla,N,23,0.5584132670067066,hora=23 (p=2.21%); hora_bin=noche (p=5.87%); n=0 (p=9.55%),0
+73840,2020-04-20 00:23:21,63.67,AR,cat_04a2647,Cierra Empanadas Alumino Triple 12cm. Fundimax,,0,0.5584078349484636,hora=0 (p=1.27%); b=0.367 (p=2.17%); es_madrugada=1 (p=3.71%),0
+64467,2020-04-17 14:06:16,24.54,US,cat_f2dee25,Caloventor Minisol 1000/2000w Liliana Cfh400 Novogar,,14,0.5582803008798125,log_l=0 (p=1.35%); g=US (p=1.37%); pct_mayusculas=0.0962 (p=4.72%),0
+132664,2020-04-15 00:00:50,26.13,AR,cat_0dc7bc3,"Kit 3x1 Alcohol En Gel 250, 10 Barbijos Y 10 Pares Guantes",Y,0,0.558174141515753,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+129124,2020-04-21 11:40:02,152.0,UY,cat_43b9c10,Xiaomi Redmi 8a 32gb 2gb 12mp Rec Facial Batería 5000mah Loi,N,11,0.5581570936377125,g=UY (p=1.86%); log_c=14.1 (p=4.19%); log_f=5.09 (p=5.37%),0
+80765,2020-04-15 19:25:44,398.99,AR,cat_43b9c10,Samsung Galaxy A10 32 Gb Azul 2 Gb Ram,Y,19,0.558144939621095,log_monto=5.99 (p=1.14%); b=0.936 (p=2.67%); pct_mayusculas=0.184 (p=3.48%),0
+62816,2020-04-20 16:34:32,177.81,UY,cat_a69c2b0,Alfombra Jute 200x285 Tiendas Montevideo,Y,16,0.5581360675783326,g=UY (p=1.86%); log_monto=5.19 (p=4.55%); n_palabras=5 (p=6.83%),0
+62500,2020-04-19 01:29:37,19.6,AR,cat_c0d93ac,Mesa Baja Plegable De Madera Eucaliptus Pintada - Envio,,1,0.5581170674665786,b=0.314 (p=1.53%); hora=1 (p=1.91%); es_madrugada=1 (p=3.71%),0
+100731,2020-04-17 23:06:28,475.74,AR,cat_27f5ccb,Aire Acondicionado Split Frío/calor Bgh 3500w Bs35wccr,,23,0.5580371861176805,log_monto=6.17 (p=0.81%); log_l=8.75 (p=1.64%); b=0.966 (p=1.88%),0
+34652,2020-04-15 09:00:58,580.92,AR,cat_326e9a9,Sanitarios Dioniso Moderno Premium Inodoro Largo Bide Mochila Apoyada Tapa Loza Sanitaria Eterna Brillante Blanca,,9,0.5580106454066639,len_titulo=113 (p=0.41%); log_monto=6.37 (p=0.51%); n_palabras=15 (p=1.17%),1
+72127,2020-04-16 07:23:59,5.71,UY,cat_1104aa0,Aceite Para Masajes 500ml Varios Aromas Oferta,,7,0.5579936528359045,log_l=0.693 (p=1.56%); g=UY (p=1.86%); hora=7 (p=8.64%),0
+35207,2020-04-18 00:37:48,41.06,AR,cat_08113a2,Barbijos 3m N95 8210 Originales,,0,0.5579287468094029,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+117325,2020-04-21 00:29:05,11.47,AR,cat_0baa7cc,Sistema Nervioso - Lina Meruane,,0,0.5577654780979309,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+97816,2020-04-19 19:56:54,61.23,US,cat_8d714cd,Wahl Máquina Corta Pelo Profesional Color Pro,N,19,0.5577547761944739,g=US (p=1.37%); log_l=3.53 (p=2.92%); n=0 (p=9.55%),0
+111036,2020-04-19 08:31:36,199.49,AR,cat_9dd1072,Aspiradora Philips 2 En 1 Fc6162/01 Inalámbrica Duo 2 En 1,,8,0.557736016903461,log_m=7.49 (p=0.08%); log_l=8.79 (p=1.02%); log_monto=5.3 (p=3.94%),0
+120603,2020-04-20 16:46:58,1223.6,AR,cat_e5ca240,"Notebook Asus I7 8gb 1tb Pantalla 15,6 Intel 8va Generacion",Y,16,0.5577285436500832,log_monto=7.11 (p=0.08%); log_c=14.9 (p=2.17%); pct_mayusculas=0.102 (p=8.20%),0
+136090,2020-04-19 03:01:46,2.36,BR,cat_6c4cfdc,The Sims 4 Deluxe Party Edition Xbox One Midia Digital,N,3,0.5576811412144673,log_monto=1.21 (p=1.55%); hora=3 (p=2.56%); es_madrugada=1 (p=3.71%),1
+11131,2020-04-14 21:24:54,304.74,BR,cat_43b9c10,Samsung Galaxy A51 Branco 6.5  4g 128gb -sm-a515fzwbzto,N,21,0.557617144116639,log_c=15.7 (p=0.18%); pct_mayusculas=0.0727 (p=0.88%); log_monto=5.72 (p=2.00%),0
+20782,2020-04-15 22:26:13,8.45,US,cat_9a23ebd,Estadio Santiago Bernabéu Gorra Trucker River Plate Pity,,22,0.5576059772208245,g=US (p=1.37%); log_l=1.79 (p=1.86%); b=0.496 (p=5.66%),0
+52835,2020-04-18 19:04:37,452.94,BR,cat_c09e9f3,Teclado Roland Xps-10,Y,19,0.5573988536426224,log_monto=6.12 (p=0.89%); b=1 (p=1.42%); len_titulo=21 (p=1.52%),0
+111730,2020-04-16 07:18:52,13.38,UY,cat_4aef2c1,Anafe 1 Hornalla 1500w Diametro 185mm Lh-1322,N,7,0.5573124831786845,g=UY (p=1.86%); pct_mayusculas=0.0889 (p=3.18%); cant_digitos=12 (p=4.91%),0
+109023,2020-04-17 00:34:07,8.51,BR,cat_716c7bf,Body Manga Longa Com Detalhes De Botões Lindo. B25,N,0,0.5573116721502102,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),1
+122010,2020-04-19 17:15:50,445.04,AR,cat_825f6a3,Freezer Horizontal Gafa Eternity M210 Ab Blanco 205 Lts.,N,17,0.5571650550072276,log_monto=6.1 (p=0.92%); log_l=8.75 (p=1.83%); b=0.959 (p=2.02%),0
+37617,2020-04-21 16:37:16,99.55,UY,cat_4f9fd06,Cerramientos En Aluminio,,16,0.5570509445095896,n_palabras=3 (p=1.65%); g=UY (p=1.86%); len_titulo=24 (p=2.19%),0
+141499,2020-04-19 02:28:58,23.63,BR,cat_b8d0b2f,Jogo Pastilha Freio Corolla Bosch 2003 2004 2005 2006 2007,,2,0.5570065023614512,cant_digitos=20 (p=1.11%); hora=2 (p=2.30%); pct_mayusculas=0.0862 (p=2.77%),0
+22473,2020-04-14 21:00:33,132.31,AR,cat_a349b79,Zapatillas Nike Air Max Command,N,21,0.5569597689221898,log_l=2.08 (p=1.98%); log_c=14.5 (p=2.79%); len_titulo=31 (p=4.67%),0
+26961,2020-04-14 23:06:16,7.62,BR,cat_ae829ff,Abena Absorvente Masculino Abri-man Formula 2,N,23,0.5569236901383892,log_c=2.78 (p=0.39%); b=1 (p=1.42%); hora=23 (p=2.21%),1
+110461,2020-04-17 01:56:51,78.02,AR,cat_c09e9f3,Teclado Casio Sa46 32 Teclas 100 Tonos 50 Ritmos C/parlantes,,1,0.5569138801276643,hora=1 (p=1.91%); log_l=8.72 (p=2.52%); log_f=5.42 (p=3.36%),0
+136481,2020-04-17 22:58:52,230.19,AR,cat_43b9c10,Motorola Moto E E6 Plus Special Edition 64 Gb Rich Cranberry 4 Gb Ram,,22,0.5568840293049889,log_c=16.2 (p=0.00%); n_palabras=14 (p=1.91%); len_titulo=69 (p=2.06%),0
+12109,2020-04-18 22:02:10,50.6,AR,cat_cec0723,Licor Amarula 750ml. Microcentro! Envios!,Y,22,0.5568496238933223,pct_mayusculas=0.0976 (p=4.90%); h=46 (p=5.52%); hora_bin=noche (p=5.87%),0
+5379,2020-04-15 23:29:30,5.15,US,cat_d7939b2,Corretivo Yellow Mary Kay Amarelo Promoção,N,23,0.5567464623264973,g=US (p=1.37%); hora=23 (p=2.21%); hora_bin=noche (p=5.87%),0
+20601,2020-04-17 00:49:21,34.45,AR,cat_7221ffa,Set Acuarelas Winsor Cotman X12 + Canson Montval Microcentro,,0,0.5566960459679836,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+91024,2020-04-20 09:56:04,468.06,AR,cat_43b9c10,Motorola Moto G G8 Plus 64 Gb Cosmic Blue 4 Gb Ram,,9,0.5566422159226925,log_monto=6.15 (p=0.84%); pct_mayusculas=0.2 (p=1.34%); log_c=14.4 (p=3.33%),0
+70589,2020-04-19 00:51:01,16.54,BR,cat_0dee1d2,Roda P/exercício Abdominal Revoflex Xtreme Exercise Whell,,0,0.5566293421623844,h=56 (p=0.32%); hora=0 (p=1.27%); es_madrugada=1 (p=3.71%),0
+69722,2020-04-16 09:52:18,13.01,UY,cat_0569fb5,Cafe  Melita 500 Gramos 2 Sabores,,9,0.5565958785263402,g=UY (p=1.86%); log_l=2.48 (p=2.17%); log_c=6.31 (p=5.24%),0
+126837,2020-04-16 07:53:02,31.71,UY,cat_db7fe14,Set Nº12 2 Mancuernas +2 Tobipesa+colchoneta +terabandel Rey,Y,7,0.5565946998484081,g=UY (p=1.86%); pct_mayusculas=0.0833 (p=2.05%); log_c=13.2 (p=8.37%),0
+110104,2020-04-19 08:51:24,59.06,BR,cat_d7114ee,Lavadora De Alta Pressão K2 Karcher 1600 Libras 110v,N,8,0.5565740117571419,log_l=0 (p=1.35%); log_c=15 (p=1.97%); h=44 (p=6.47%),0
+75863,2020-04-15 08:23:15,2.54,AR,cat_a330f18,Lote Muñecos Mcdonalds Mc Donalds Naruto Sasuke Rock Lee,N,8,0.5564826902366254,log_monto=1.26 (p=1.85%); b=0.48 (p=4.84%); n=0 (p=9.55%),0
+81515,2020-04-16 09:43:01,890.75,BR,cat_3f27244,"Kit Porta De Enrolar Automática 5,67 X 2,35",,9,0.5564749235911137,log_monto=6.79 (p=0.17%); h=0 (p=8.87%); a=2 (p=13.34%),0
+49571,2020-04-17 00:21:30,5.19,BR,cat_62a4e2c,Trio Petúnia Com Pump Na Caixa,N,0,0.5564044369474966,hora=0 (p=1.27%); pct_mayusculas=0.2 (p=1.34%); es_madrugada=1 (p=3.71%),0
+28372,2020-04-16 03:47:54,23.02,BR,cat_4249bd8,Tenis Feminino Blogueira Fashion Sneakers Chuncky Pedraria,N,3,0.5563711884339695,hora=3 (p=2.56%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+82185,2020-04-20 00:15:37,10.81,BR,cat_c434c0f,Bráquetes Ortodôntico + Fios E Borrachinhas - Envio Imediato,,0,0.5563591641951401,hora=0 (p=1.27%); h=52 (p=2.20%); log_l=2.56 (p=2.21%),0
+130089,2020-04-17 05:09:14,113.04,BR,cat_43b9c10,Samsung Galaxy J2 Core Dual Sim 16 Gb Preto 1 Gb Ram,,5,0.5563509494656226,log_c=15.1 (p=1.68%); pct_mayusculas=0.192 (p=1.90%); log_m=6.99 (p=2.96%),0
+101838,2020-04-21 07:16:45,179.0,UY,cat_bf6c168,Kindle Paperwhite Amazon Hd Wifi Sin Publicidad Nuevo,,7,0.5562852513149541,log_l=8.8 (p=0.87%); g=UY (p=1.86%); log_m=7.06 (p=2.07%),0
+18445,2020-04-20 09:52:56,2.07,AR,cat_6523b3d,Cinta De Papel Enmascarar Pintor Doble A A 24 Mm,Y,9,0.5561792591767037,log_monto=1.12 (p=1.16%); pct_mayusculas=0.188 (p=2.66%); log_f=5.02 (p=5.91%),0
+149479,2020-04-20 09:18:47,42.23,UY,cat_adcfc2e,Mesa Escritorio Oficina 163x075x046 Equipamiento 4131,Y,9,0.5561540992496808,pct_mayusculas=0.0755 (p=1.03%); g=UY (p=1.86%); cant_digitos=13 (p=3.84%),0
+52730,2020-04-16 23:03:10,334.35,AR,cat_659929a,Reloj Tissot Mujer Everytime T1092101103300  Envio Oficial,,23,0.5561308684300508,log_monto=5.82 (p=1.65%); hora=23 (p=2.21%); cant_digitos=13 (p=3.84%),0
+100566,2020-04-18 04:42:30,23.63,BR,cat_df60aa8,Keycaps Teclas Teclado G810 Romer-g Logitech,N,4,0.5559948814892341,b=1 (p=1.42%); log_c=4.94 (p=2.24%); log_m=7 (p=2.83%),0
+95943,2020-04-14 23:17:59,7.62,BR,cat_ae829ff,Abena Absorvente Masculino Abri-man Formula 2,N,23,0.5559379778232301,log_c=3.44 (p=0.73%); b=1 (p=1.42%); hora=23 (p=2.21%),1
+75260,2020-04-21 18:40:21,593.88,AR,cat_43b9c10,Samsung Galaxy S9 Dual Sim Muy Bueno Negro Liberado,N,18,0.5559250777099266,log_monto=6.39 (p=0.48%); pct_mayusculas=0.176 (p=5.85%); q=0 (p=8.68%),0
+102526,2020-04-15 04:59:56,22.9,AR,cat_4768a3b,"Soporte Celular Tabletas Cuello Gooseneck, Lejos El Mejor !!",,4,0.5558853637898403,hora=4 (p=2.91%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+75513,2020-04-14 22:38:30,5.63,AR,cat_4ff2cdf,Soporte Tv Led Lcd  24 28 32 40 Pulgadas*. Fijo,N,22,0.5558624940475245,h=50 (p=2.62%); b=0.471 (p=4.50%); hora_bin=noche (p=5.87%),0
+104804,2020-04-20 00:46:02,64.0,BR,cat_a4921b8,Impressora A Cor Multifuncional Hp Deskjet Ink Advantage 2676 Com Wi-fi 100v/240v White,N,0,0.5558560704287892,len_titulo=87 (p=1.12%); hora=0 (p=1.27%); es_madrugada=1 (p=3.71%),1
+83072,2020-04-20 00:39:06,59.84,AR,cat_d5975ae,Pes 2020 Pro Evolution Soccer Formato Físico Ps4 Original,,0,0.5558143920924931,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+129734,2020-04-19 23:22:33,3.99,UY,cat_69cdfde,Galgas 20 Hojas Mm Eurotech Germany - Electroimporta,,23,0.5557930209383406,g=UY (p=1.86%); hora=23 (p=2.21%); log_monto=1.61 (p=5.10%),0
+146380,2020-04-20 00:07:34,17.8,BR,cat_d69bed9,Chá Importado Emagrecedor Plan Original 60 Saches 30 Dias,N,0,0.5556455698292877,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+114764,2020-04-19 22:09:17,15.35,AR,cat_e600e6d,Barbijo/mascara Anti-bacteriana Doble Lavable Aretha,Y,22,0.5556444501957358,log_c=4.11 (p=1.26%); pct_mayusculas=0.0962 (p=4.72%); hora_bin=noche (p=5.87%),0
+16978,2020-04-17 22:49:26,170.95,AR,cat_5d628d5,Colgante Vidrio Martillado En Led De 4l X 5w,Y,22,0.5556321726445106,log_monto=5.15 (p=4.77%); hora_bin=noche (p=5.87%); hora=22 (p=5.87%),0
+2150,2020-04-21 09:00:22,30.58,US,cat_b23deda,Cargador Envy Touchsmart 14 15 Original Hp 19.5v 3.33a 65w,Y,9,0.5556315511320193,g=US (p=1.37%); pct_mayusculas=0.0862 (p=2.77%); cant_digitos=12 (p=4.91%),0
+29547,2020-04-19 00:50:14,5.05,AR,cat_57f2adb,Base Dock Station Cargador iPhone 8 8plus X 7plus 6 6plus 5,,0,0.5556154151058823,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+27256,2020-04-19 00:23:42,76.79,BR,cat_5eacac8,Máquina De Massa Elétrica Com Cortador Cilindro Pao 110 V,Y,0,0.5555401239879443,log_c=15.5 (p=0.79%); hora=0 (p=1.27%); es_madrugada=1 (p=3.71%),0
+36243,2020-04-18 00:37:16,45.27,BR,cat_2d75c4e,Jiu-jitsu -tatame De Com 06 Peças - Preto E Cinza,Y,0,0.5554899884223613,hora=0 (p=1.27%); b=0.929 (p=2.91%); es_madrugada=1 (p=3.71%),0
+106435,2020-04-20 09:24:40,2.3,AR,cat_ef93322,Billete De 10 Pesos Cd 62,Y,9,0.5554886856819777,log_c=1.97 (p=0.15%); b=0.244 (p=1.01%); log_monto=1.19 (p=1.45%),0
+74192,2020-04-16 01:21:04,16.96,AR,cat_6a2cd5e,Funda iPhone 11 Pro Xs Max Xr 6 7 8 Plus Airbag+vidrio+envio,N,1,0.5554813643803462,hora=1 (p=1.91%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+110949,2020-04-18 02:42:54,6.68,BR,cat_8ef7164,Discurso De Metafísica - Coleção A Obra - Prima De Cada A,,2,0.5554774069080344,hora=2 (p=2.30%); a=1 (p=2.71%); es_madrugada=1 (p=3.71%),0
+47612,2020-04-18 20:08:37,536.38,AR,cat_43b9c10,Celular Libre Motorola One Hyper Azul,,20,0.5554416867251102,log_monto=6.29 (p=0.62%); log_c=14.6 (p=2.68%); len_titulo=37 (p=8.24%),0
+27624,2020-04-21 02:30:22,4.25,BR,cat_1104aa0,Xana Loka Gel Excitante Feminino Efeito Segundo Oferta,,2,0.5554300970476367,log_l=0 (p=1.35%); hora=2 (p=2.30%); es_madrugada=1 (p=3.71%),0
+104848,2020-04-21 00:27:59,53.52,AR,cat_4db3bf3,Cabina Uv Uñas Uso Profesional F5 - 72w Con Temporizador,N,0,0.5553389566681625,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+724,2020-04-19 12:48:38,2366.83,AR,cat_fd1336f,Guitarra Gibson Les Paul 2018 Tribute Faded Honeyburst Cuota,,12,0.5553374414917437,log_monto=7.77 (p=0.01%); log_l=8.66 (p=3.76%); h=40 (p=8.40%),0
+88111,2020-04-16 00:08:53,56.77,AR,cat_3686743,Auriculares Inalámbricos Motorola Vervebuds 110 White,Y,0,0.5553142827405674,hora=0 (p=1.27%); log_m=7.11 (p=1.47%); es_madrugada=1 (p=3.71%),0
+104964,2020-04-20 23:48:01,95.12,AR,cat_54a563e,Combo Nebulizador A Piston San Up 3040 + Chupete Mundomanias,Y,23,0.5553107556513048,hora=23 (p=2.21%); hora_bin=noche (p=5.87%); log_monto=4.57 (p=9.36%),0
+102030,2020-04-18 19:14:55,524.86,AR,cat_f4dd4b7,Sillon 3 Cuerpos Esquinero Chenille + Camastro Movil 2.20mts,,19,0.5552742909354585,log_monto=6.27 (p=0.66%); log_m=7.15 (p=1.11%); b=0.96 (p=2.00%),0
+68381,2020-04-18 00:09:29,11.82,BR,cat_9bacaa5,Bota Coturno Sapato Feminino Chiquiteira Chiqui/4040,,0,0.5552552589798966,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+35911,2020-04-18 08:42:25,0.39,US,cat_2ccbd91,"Livro Pai Rico, Pai Pobre Pdf",,8,0.5552355767109373,log_monto=0.329 (p=0.12%); log_c=2.58 (p=0.31%); pct_mayusculas=0.207 (p=0.61%),0
+25563,2020-04-15 09:35:00,277.5,BR,cat_2eb17f6,Volante Logitech (g29) Ps3/ps4/pc,,9,0.5552076544127494,log_monto=5.63 (p=2.31%); log_l=3.18 (p=2.61%); n_palabras=4 (p=3.50%),0
+43195,2020-04-21 22:43:05,5.35,AR,cat_e600e6d,Barbijo De Tela Lavable De Varios Colores Y Diseños,,22,0.5552010162774855,b=0 (p=0.38%); log_c=4.1 (p=1.25%); pct_mayusculas=0.176 (p=5.85%),0
+125794,2020-04-16 19:54:09,83.47,AR,cat_56e626b,Bateria Para Hp 14.8v 2600mah Spare 807956-001 807957-001 807612-421 Hp 240 G4 Series Hp 245 G4 Series Hp 246 G4 Series,N,19,0.5551633601873502,cant_digitos=46 (p=0.03%); n_palabras=21 (p=0.15%); len_titulo=119 (p=0.19%),0
+90923,2020-04-15 00:23:36,69.14,US,cat_c24013a,Buzo Fox Abrigo Moth Pullover Campera Bmx Motos Riderpro,,0,0.5550964230192311,hora=0 (p=1.27%); g=US (p=1.37%); es_madrugada=1 (p=3.71%),0
+121429,2020-04-15 01:59:37,4.36,BR,cat_9ff11b9,Relógio Do Presidente Bolsonaro Aqua Aq-81 Prova D´agua,Y,1,0.5550898726931109,hora=1 (p=1.91%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+25711,2020-04-21 01:27:14,17.59,AR,cat_e600e6d,10 Barbijo En Tela Lavable Reusable Reversible,,1,0.5550518801786853,hora=1 (p=1.91%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+142089,2020-04-17 23:30:24,7.37,AR,cat_3203c7c,"La Inteligencia Emocional,daniel Goleman-libro",Y,23,0.5549269312321445,hora=23 (p=2.21%); pct_mayusculas=0.087 (p=2.82%); n_palabras=4 (p=3.50%),0
+77878,2020-04-18 20:35:38,10.27,UY,cat_556887e,"Dijes Iniciales En Acero Quirurgico Con Baño De Oro, 4 Cm",Y,20,0.5548162444186772,g=UY (p=1.86%); log_c=5.16 (p=2.60%); pct_mayusculas=0.175 (p=6.37%),0
+24613,2020-04-16 17:53:33,437.38,AR,cat_674b6e4,** Cd Player Harman Kardon Hd980 - Nvo En Caja- 220v - Gtia*,,17,0.5547334897910948,cant_simbolos=6 (p=0.61%); log_monto=6.08 (p=0.95%); b=1 (p=1.42%),0
+51523,2020-04-15 23:45:22,43.46,UY,cat_eb51b04,Silla Ejecutiva De Escritorio Oficina Pc Mesh Tcweb,,23,0.5547313200088715,g=UY (p=1.86%); hora=23 (p=2.21%); hora_bin=noche (p=5.87%),0
+48168,2020-04-16 20:24:21,19.18,AR,cat_636069d,Botas Texanas Bajitas. Marca Onni. Dos Usos.,N,20,0.5547209944861208,log_c=2.48 (p=0.28%); b=0 (p=0.38%); log_l=4.76 (p=5.13%),0
+35673,2020-04-18 22:05:41,108.19,,cat_57f2adb,Cargador Rapido 3a Micro Celular Ultima Generacion 2xusb +1,,22,0.554695866014367,g=nan (p=0.07%); hora_bin=noche (p=5.87%); hora=22 (p=5.87%),0
+104949,2020-04-17 04:57:18,5.71,BR,cat_a11d605,Par Lampada Super Branca H4 8500k Tipo Xenon 12v 55w Techone,N,4,0.5546888687910522,hora=4 (p=2.91%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+25310,2020-04-21 00:30:46,75.16,BR,cat_0eb83e7,Protetor De Carenagem Xre 300 Farol Led Angel Eyes Até 2020,Y,0,0.5546603202226749,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),1
+56,2020-04-17 20:42:51,73.89,AR,cat_3203c7c,Pro Anatomia Clinica 2 Ed. 2014,N,20,0.554581806466435,log_l=4.36 (p=4.12%); len_titulo=31 (p=4.67%); q=0 (p=8.68%),0
+135658,2020-04-17 22:10:56,99.6,AR,cat_8d714cd,Maquina De Corte Profesional Legend 5 Star Series Wahl,N,22,0.5545812293428574,log_c=14.3 (p=3.62%); hora_bin=noche (p=5.87%); hora=22 (p=5.87%),1
+57989,2020-04-19 16:33:09,399.0,AR,cat_43b9c10,Motorola Moto G G8 Plus 64 Gb Crystal Pink 4 Gb Ram,N,16,0.5545219268702318,log_monto=5.99 (p=1.14%); pct_mayusculas=0.196 (p=1.46%); n_palabras=12 (p=8.26%),0
+95532,2020-04-16 06:06:20,15.35,AR,cat_858d0c2,C,,6,0.5544814592629402,pct_mayusculas=1 (p=0.00%); len_titulo=1 (p=0.00%); n_palabras=1 (p=0.14%),1
+18664,2020-04-20 08:42:20,21.66,BR,cat_237e2d0,Tela Display Lcd Touch Lg K8 K350ds K350z K350 Ds Envio Já,N,8,0.5543842815011787,q_neg=1 (p=0.29%); q=-0.02 (p=0.29%); pct_mayusculas=0.207 (p=0.61%),0
+86543,2020-04-19 07:58:06,1.18,BR,cat_8ef7164,Panelinha: Receitas Que Funcionam (português),,7,0.5543746054794921,log_c=1.24 (p=0.05%); log_monto=0.779 (p=0.45%); b=1 (p=1.42%),0
+120616,2020-04-16 22:08:36,210.85,BR,cat_43b9c10,Samsung Galaxy A30s Dual Sim 64 Gb Prism Crush White 4 Gb Ram,,22,0.554367635697592,log_l=8.87 (p=0.43%); log_f=6.73 (p=0.47%); a=1 (p=2.71%),0
+6757,2020-04-20 07:50:56,3.07,AR,cat_dceaed0,Elástico 5mm Blanco Ideal Para Barbijo O Tapa Boca Por 10 M,Y,7,0.5543367782180247,b=0 (p=0.38%); log_c=3.92 (p=1.10%); log_monto=1.4 (p=2.74%),0
+35164,2020-04-16 00:55:45,21.47,US,cat_9f94f1f,Wafflera Eléctrica Mega Express Me 830 Nuevo 700 W,,0,0.5543171486714858,hora=0 (p=1.27%); g=US (p=1.37%); es_madrugada=1 (p=3.71%),0
+146557,2020-04-15 18:33:12,0.55,UY,cat_d9753d4,Bolsas De Tnt Lisas. Consulte Por El Estampado,,18,0.5542415658434903,log_monto=0.438 (p=0.19%); log_c=2.33 (p=0.25%); g=UY (p=1.86%),0
+91882,2020-04-20 07:57:45,98.27,US,cat_1ffa47c,Guarda Roupa Casal Natal 3 Portas De Correr Preto,N,7,0.5541835158119689,g=US (p=1.37%); a=1 (p=2.71%); log_m=6.87 (p=5.05%),0
+37884,2020-04-16 01:25:28,13.41,BR,cat_a3afaf6,Joaninha Centro De Atividades Educativo Para Bebe Som Luz,N,1,0.5540685903665377,hora=1 (p=1.91%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),1
+60739,2020-04-15 14:33:35,806.84,AR,cat_5dcaf09,Celda Sensor De Oxígeno O2 Neumovent Anestesia Etc,,14,0.5540673946002201,log_monto=6.69 (p=0.22%); log_m=7.2 (p=0.65%); b=0.889 (p=4.93%),0
+67931,2020-04-15 22:54:09,287.07,BR,cat_3f012ca,Lavadora De Roupas Automática Panasonic Na-f160b5 Branca 16kg 110v,Y,22,0.5540269706022994,log_c=15.7 (p=0.18%); log_monto=5.66 (p=2.21%); len_titulo=66 (p=2.30%),0
+28422,2020-04-21 03:32:13,8.86,BR,cat_bdcf37d,Calças Jeans Camuflada Masculina Jogger Com Punho Elastico,N,3,0.5539635303334896,hora=3 (p=2.56%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),1
+48969,2020-04-21 00:45:56,99.42,AR,cat_8d714cd,Maquina Corta Pelo Profesional  Wahl Legend  Usa,,0,0.5539491779849529,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+32380,2020-04-17 12:58:40,552.47,US,cat_6e079a0,Apple iPad 32gb 7ma Generacion 10.2 Nueva Cerrada + Factura,,12,0.5539374150421671,log_monto=6.32 (p=0.59%); log_m=7.22 (p=0.60%); g=US (p=1.37%),0
+52400,2020-04-19 23:06:33,24.55,AR,cat_9fb4f08,Pantalón Penguin De Gabardina,Y,23,0.5539372257954944,b=0.317 (p=1.57%); hora=23 (p=2.21%); n_palabras=4 (p=3.50%),0
+148943,2020-04-14 22:02:36,6.15,AR,cat_6a2cd5e,Funda Reforzada Para Samsung A10 A20 A30 A10s A20s A30s A50s,N,22,0.5538785416697144,cant_digitos=14 (p=3.25%); pct_mayusculas=0.183 (p=4.05%); hora_bin=noche (p=5.87%),0
+24518,2020-04-21 08:15:51,48.01,AR,cat_dc686b6,Hub Gamer Redragon Da-200 Eris Para Teclado Mouse 2,N,8,0.5538700824168858,log_l=0.693 (p=1.56%); q=0 (p=8.68%); n=0 (p=9.55%),1
+138992,2020-04-17 18:51:09,770.69,AR,cat_069faf5,Cortadora Fiambres Moretti 300 + Balanza Electronica Cuotas,,18,0.5538565125301509,log_monto=6.65 (p=0.24%); pct_mayusculas=0.102 (p=8.20%); log_c=12.9 (p=10.66%),0
+1887,2020-04-15 21:26:33,2.77,AR,cat_37a213d,Cable Hdmi A Micro Usb Mhl Samsung Galaxy Etc. Polotecno,N,21,0.5538273153524322,log_monto=1.33 (p=2.21%); b=0.405 (p=2.75%); log_l=4.5 (p=4.37%),0
+126094,2020-04-18 08:27:58,7.67,AR,cat_9f1c5ed,Botitas Bebe Gamuza Cheeky - Talle L - 3 A 6 Meses,,8,0.5538155111392988,b=0.0361 (p=0.43%); log_c=4.44 (p=1.63%); n_palabras=12 (p=8.26%),0
+6404,2020-04-19 04:09:11,19.8,AR,cat_25d7536,Camara Deportiva Sumergible Hd  Video Foto + Accesorios,,4,0.5537600934700854,log_c=15.1 (p=1.68%); hora=4 (p=2.91%); h=49 (p=3.07%),0
+72906,2020-04-15 02:57:16,26.43,BR,cat_f0ec611,Kit 10 Camisetas Camisas Masculinas Atacado Revenda Promoção,N,2,0.5537383162620244,hora=2 (p=2.30%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),1
+135711,2020-04-15 12:00:32,10.74,US,cat_d5975ae,Simulador Tc + Contenidos Extra - Digital - Original,,12,0.5536943585396822,log_l=0 (p=1.35%); g=US (p=1.37%); h=49 (p=3.07%),0
+127144,2020-04-19 00:49:26,90.53,AR,cat_5a573af,Caja Estuche Para Guardar Relojes Fibra De Carbono,,0,0.5536507662765265,hora=0 (p=1.27%); log_m=7.06 (p=2.03%); es_madrugada=1 (p=3.71%),0
+34759,2020-04-21 01:32:20,3.07,BR,cat_3d41e5d,20th Century Boys N° 1,N,1,0.5535626579988239,len_titulo=22 (p=1.76%); hora=1 (p=1.91%); log_monto=1.4 (p=2.74%),0
+80438,2020-04-19 00:21:11,52.94,AR,cat_51f1fb5,Estacion De Soldado Smd Aire Caliente Portatil Control Digit,,0,0.5535547526680885,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+117272,2020-04-20 01:03:30,35.45,AR,cat_d518693,Kit Original Finish X500ml + Extra Gloss 500ml + 2 Aplicador,,1,0.5534484879928693,hora=1 (p=1.91%); log_l=3.85 (p=3.29%); es_madrugada=1 (p=3.71%),0
+10143,2020-04-19 15:01:07,3.92,SE,cat_a7c517b,Cesto Telado Organizador Guardar Brinquedo Objetos  Roupa Dobrável Coruja Joaninha Macaco,N,15,0.5533435229874563,g=SE (p=0.23%); len_titulo=89 (p=1.01%); log_monto=1.59 (p=4.77%),0
+35971,2020-04-21 02:15:13,10.61,BR,cat_6c4cfdc,Legit Hack - Cs:go 2020 - Vitalício(update De Hora Em Hora),,2,0.5533412203531684,cant_simbolos=5 (p=1.58%); hora=2 (p=2.30%); log_c=5 (p=2.32%),1
+113632,2020-04-18 12:23:48,306.92,AR,cat_43b9c10,Celular Samsung Galaxy A30 32gb 3gb Ram Cuotas Sin Interes,,12,0.5533063676286902,log_l=0 (p=1.35%); log_monto=5.73 (p=1.97%); q=0 (p=8.68%),0
+68225,2020-04-18 13:31:45,88.79,UY,cat_d846dda,Pantalón Army,Y,13,0.5532634902591119,len_titulo=13 (p=0.45%); n_palabras=2 (p=0.64%); g=UY (p=1.86%),0
+69948,2020-04-20 05:43:51,11.02,BR,cat_2f5e8bb,Fralda Babysec Ultrasec Mega P M G Xg Xxg Promoção Atacado,N,5,0.5531940009568368,pct_mayusculas=0.19 (p=2.27%); log_l=3.66 (p=3.06%); es_madrugada=1 (p=3.71%),1
+22930,2020-04-18 23:25:54,13.77,BR,cat_b0284dd,Kit Maquiagem Pincel Completo Bella Femme 23 Itens Promoção,N,23,0.5531739059772188,log_l=0 (p=1.35%); hora=23 (p=2.21%); hora_bin=noche (p=5.87%),0
+124810,2020-04-20 18:14:44,58.6,UY,cat_d3135d1,Rack Para Tv Estantes Modular Led Lcd Mesa Living Mueble Rak,N,18,0.5531608267651745,g=UY (p=1.86%); pct_mayusculas=0.183 (p=4.05%); log_l=5.53 (p=8.78%),0
+6336,2020-04-15 02:05:53,150.59,AR,cat_f2dee25,Calefactor Eskabe 3000 Tb Multigas S21,,2,0.553127528404729,hora=2 (p=2.30%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+111055,2020-04-17 23:46:45,19.18,AR,cat_3203c7c,Libro: El Principito - Edición De Lujo Tapa Dura - Lexus,Y,23,0.5530627320980747,hora=23 (p=2.21%); h=49 (p=3.07%); log_f=5.1 (p=5.33%),0
+59113,2020-04-20 20:46:59,24.55,AR,cat_2707b86,Micrófono Sf 666 Condensador Negro,N,20,0.5529242955207365,log_l=0 (p=1.35%); len_titulo=34 (p=6.18%); n_palabras=5 (p=6.83%),0
+65412,2020-04-19 22:58:46,91.07,UY,cat_cb24291,Puff Colchoneta Axilar Sillón Cama 1 Plaza Auxiliar - Arte,,22,0.5529147271392886,g=UY (p=1.86%); hora_bin=noche (p=5.87%); hora=22 (p=5.87%),0
+51865,2020-04-21 22:25:30,16.82,US,cat_adf1cb1,Teclado Noblex Tt10w2i,Y,22,0.5529009204063104,g=US (p=1.37%); n_palabras=3 (p=1.65%); len_titulo=22 (p=1.76%),0
+35781,2020-04-16 00:26:08,7.1,BR,cat_20525f8,100 Tubet- Tubo- Tubetes 13cm Atacado - Lojista - Revendedor,,0,0.552717006726806,hora=0 (p=1.27%); log_l=2.71 (p=2.28%); es_madrugada=1 (p=3.71%),1
+4958,2020-04-21 23:39:46,59.5,AR,cat_bd770af,Acetato/pvc  Cortada  25 X 30 Cm X 100 Un. 300 Micrones,Y,23,0.5527123379616651,hora=23 (p=2.21%); b=0.487 (p=5.19%); hora_bin=noche (p=5.87%),0
+14207,2020-04-14 20:05:56,677.01,AR,cat_9794f65,Consola Playstation 4 Slim 1tb Bundle Hits 5 3 Juegos,Y,20,0.5526955036034699,log_monto=6.52 (p=0.35%); a=2 (p=13.34%); log_m=6.49 (p=14.48%),0
+144822,2020-04-18 04:43:04,1.18,BR,cat_562cb82,Corda Nylon Trançada 3mm - Fuzil,,4,0.5526849321507674,log_monto=0.779 (p=0.45%); hora=4 (p=2.91%); es_madrugada=1 (p=3.71%),0
+132188,2020-04-15 00:25:49,6.06,AR,cat_617cc67,Pintura Aerosol Kuwait Cubritivo Rapido Secado 440cc Pintumm,,0,0.5526808507577322,hora=0 (p=1.27%); h=49 (p=3.07%); es_madrugada=1 (p=3.71%),0
+110915,2020-04-18 05:31:25,5.91,BR,cat_6c4cfdc,Jogo Golfamania - Cartucho Master System,N,5,0.5526664737574816,log_f=8.7 (p=0.06%); b=0.938 (p=2.60%); es_madrugada=1 (p=3.71%),0
+41831,2020-04-20 07:55:50,68.6,AR,cat_a330f18,Pokemon Pack Figuras X 8,N,7,0.5526193994631683,len_titulo=24 (p=2.19%); log_l=4.79 (p=5.22%); n_palabras=5 (p=6.83%),0
+70401,2020-04-20 00:36:03,59.85,AR,cat_f270c33,Magnetoterapia Libro Mas Imanes Aprender Curarse Con Imanes,,0,0.552573891428897,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+31703,2020-04-18 16:58:31,531.7,BR,cat_43b9c10,"Ulefone Armor 7 6,3'' 8gb/128gb Helio P90 Cam 48mp P/entrega",Y,16,0.5525224661216974,log_monto=6.28 (p=0.64%); cant_simbolos=5 (p=1.58%); b=0.934 (p=2.74%),0
+108983,2020-04-18 01:22:15,5.3,BR,cat_45398dd,Lustre Pendente Aramado Diamante Pequeno Várias Cores,,1,0.5525062900077489,hora=1 (p=1.91%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+95275,2020-04-18 18:36:15,2.36,BR,cat_554ef7b,Fonte Palmeiras  Puma  2020,N,18,0.5524778883750583,log_monto=1.21 (p=1.55%); log_l=2.83 (p=2.34%); len_titulo=27 (p=3.08%),0
+27929,2020-04-15 18:34:46,175.0,UY,cat_16335fe,Estufa Super Gas Delne + Garrafa 13kg S/carga Yanett,Y,18,0.5524551907927471,g=UY (p=1.86%); log_monto=5.17 (p=4.66%); b=0.847 (p=10.40%),0
+23798,2020-04-18 16:30:33,7.46,US,cat_515fad8,"Placa De Yeso Knauf 12,5mm 1,20 X 2,40 Mts Similar A Durlock",Y,16,0.5524462198839003,g=US (p=1.37%); log_f=5.78 (p=2.02%); h=49 (p=3.07%),0
+148184,2020-04-18 18:34:18,6.74,AR,cat_294e885,Organizador De Cubiertos Para Mesada Con Escurridor Oferta ! *** Full-time Mania *** Mercadolider Platinum Importadores!,N,18,0.5523882006555125,cant_simbolos=9 (p=0.06%); len_titulo=120 (p=0.10%); n_palabras=16 (p=0.86%),0
+99838,2020-04-15 06:28:44,75.06,UY,cat_ead5501,Aparato De Presion Tensiometro Automatico Omron En Oferta,Y,6,0.5523653105364021,g=UY (p=1.86%); hora=6 (p=5.41%); log_c=13.5 (p=6.05%),0
+107529,2020-04-21 23:51:51,30.41,UY,cat_bb217c1,"Cera Depilatoria Española 500gr,olla,bandas,aceite 500ml",,23,0.5523555862270504,pct_mayusculas=0.0536 (p=0.18%); g=UY (p=1.86%); hora=23 (p=2.21%),0
+132199,2020-04-19 05:15:59,5.71,BR,cat_be0af8e,Hair Spray Amend Valorize 400ml,N,5,0.5523463354429679,es_madrugada=1 (p=3.71%); hora=5 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+73629,2020-04-19 02:08:40,7.73,BR,cat_2021889,Pantufa Cachorro Rosa Meninas Infantil Adulto Novo Oferta,Y,2,0.5523284743407503,b=0.126 (p=0.61%); hora=2 (p=2.30%); es_madrugada=1 (p=3.71%),0
+19610,2020-04-17 22:02:29,39.29,US,cat_ca19ee1,Muebles Muñecas Barbie 35 Piezas Super Reales - Ambf-106bis,,22,0.5521080148607408,g=US (p=1.37%); log_l=4.71 (p=4.95%); hora_bin=noche (p=5.87%),0
+134605,2020-04-15 15:11:59,622.21,BR,cat_17840fe,Amassadeira De Pão Basculante Profissional 15kg G.paniz Am15,Y,15,0.5520892763322903,log_monto=6.43 (p=0.43%); log_l=4.87 (p=5.52%); h=42 (p=7.48%),0
+140234,2020-04-19 12:44:59,2.56,US,cat_6c4cfdc,The Sims 4 2020 + Todas Expansões Completo Atualizado 2020,N,12,0.5520720980207846,g=US (p=1.37%); log_c=4.52 (p=1.73%); log_monto=1.27 (p=1.89%),0
+89801,2020-04-17 07:22:27,157.53,ES,cat_228843f,Smartwatch Xiaomi Amazfit Gtr 47mm Stainless Steel A1902 12x,N,7,0.5520236950183985,g=ES (p=0.03%); log_monto=5.07 (p=5.27%); hora=7 (p=8.64%),1
+106783,2020-04-18 02:38:03,34.99,AR,cat_f80380f,Caño Pluvial Pvc Virgen Ø100 X 1.8 X 4mts Zona Sur,,2,0.551986976920749,hora=2 (p=2.30%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+29169,2020-04-21 09:49:11,198.82,AR,cat_43b9c10,Samsung Galaxy A10 32gb 2gbram Liberado Ahora 18,Y,9,0.551911923218485,b=0.927 (p=2.96%); log_c=14.4 (p=3.49%); log_monto=5.3 (p=3.97%),0
+52906,2020-04-20 19:12:36,469.41,AR,cat_02711c1,Pc Gamer Armada Amd Ryzen 3 3200g 8gb Ram Ssd 240gb Envio,N,19,0.5518785957307522,log_monto=6.15 (p=0.84%); b=0.862 (p=7.88%); n_palabras=12 (p=8.26%),0
+65856,2020-04-14 22:55:44,153.85,AR,cat_2dd6517,Camara Web Webcam Logitech C922 Pro Stream Gamer Youtuber,N,22,0.5518675305118715,log_m=6.87 (p=5.10%); log_monto=5.04 (p=5.43%); hora_bin=noche (p=5.87%),0
+115577,2020-04-19 17:18:43,200.0,UY,cat_cf03adb,Caminador Eléctrico Expert S100,,17,0.5518330965101771,log_c=2.52 (p=0.29%); b=1 (p=1.42%); g=UY (p=1.86%),0
+88881,2020-04-16 00:59:58,5.49,BR,cat_be0af8e,Máscara Matizadora Black 250g Mairibel Ativador Tons Pretos,N,0,0.5518157062458162,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+140805,2020-04-15 01:58:53,13.02,BR,cat_20d3530,Agulha Para Bordar Crochê Pedraria Kit Com 3 Agulhas,,1,0.5517987089712497,log_l=0 (p=1.35%); hora=1 (p=1.91%); es_madrugada=1 (p=3.71%),0
+31904,2020-04-18 23:57:16,10.59,AR,cat_58076b9,Rosario Cuentas Caladas,N,23,0.5516987541933481,n_palabras=3 (p=1.65%); len_titulo=23 (p=1.96%); hora=23 (p=2.21%),0
+58522,2020-04-15 22:39:53,14.87,UY,cat_329dad2,Album De Figuritas Rock Cards Internacional Completo.///////,,22,0.5516585837298246,cant_simbolos=8 (p=0.13%); g=UY (p=1.86%); log_m=7 (p=2.75%),0
+136537,2020-04-15 10:12:10,323.65,BR,cat_a4f6c71,Scanner Automotivo Foxwell Nt650 Elite Em Português Brasil,N,10,0.5516136897046204,f_neg=1 (p=0.81%); log_monto=5.78 (p=1.73%); n=0 (p=9.55%),0
+102855,2020-04-18 23:58:36,68.25,UY,cat_d3135d1,Rack Mesa De Tv 65 Hasta 180 Cm Largo Aparador Canoas,,23,0.5515897982845354,g=UY (p=1.86%); hora=23 (p=2.21%); hora_bin=noche (p=5.87%),0
+115851,2020-04-19 00:21:35,7.67,AR,cat_e600e6d,Barbijo Cubre Boca De Poliuretano Impermeable Reutilizable,,0,0.5515278210750206,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+47951,2020-04-16 23:47:00,5.35,BR,cat_8ef7164,Livro It A Coisa,N,23,0.5515209736160952,pct_mayusculas=0.25 (p=0.07%); log_c=2.46 (p=0.27%); len_titulo=16 (p=0.76%),1
+104708,2020-04-17 07:37:07,53.18,UY,cat_71f63b5,Equilibrio Adulto Raza Grande 18 Kg + 4 Paté + Envío Gratis!,Y,7,0.55150879595437,g=UY (p=1.86%); n_palabras=12 (p=8.26%); hora=7 (p=8.64%),0
+5075,2020-04-20 16:25:07,197.8,AR,cat_dd47b78,Colchon Y Sommier Cannon 1 Plaza Y 1/2 100x190cm Soñar,N,16,0.5514997677628342,log_l=1.61 (p=1.79%); log_monto=5.29 (p=4.00%); log_c=13.6 (p=5.94%),0
+33122,2020-04-14 22:34:03,6.54,AR,cat_c8cd2fa,Pava De Teflon,,22,0.5514720608559369,pct_mayusculas=0.214 (p=0.41%); len_titulo=14 (p=0.54%); n_palabras=3 (p=1.65%),0
+63179,2020-04-16 01:31:17,6.14,AR,cat_d5975ae,Alíens Vs Predator 2 Pc Original,,1,0.5513023054388403,hora=1 (p=1.91%); log_c=5.71 (p=3.64%); es_madrugada=1 (p=3.71%),0
+129144,2020-04-20 21:55:34,21.49,US,cat_a29a02c,Reel Rotativo Baitcast - Version Diestro - Cargado Con Tanza,N,21,0.5512966055535875,g=US (p=1.37%); log_l=4.62 (p=4.65%); b=0.488 (p=5.23%),1
+122211,2020-04-19 16:48:10,548.23,AR,cat_64a0a1a,Guitarra Electroacústica Fender Cd-60sce - Colores,,16,0.5512218103397448,log_monto=6.31 (p=0.60%); pct_mayusculas=0.1 (p=7.12%); log_m=0 (p=10.55%),0
+60919,2020-04-20 21:45:31,233.27,AR,cat_6115338,Dos Sillones 1 Cuerpo + Mesa,Y,21,0.5512042736447754,b=1 (p=1.42%); log_monto=5.46 (p=3.15%); len_titulo=28 (p=3.42%),0
+8258,2020-04-16 11:41:54,284.53,AR,cat_34201e9,Caja De Herramientas 142 Piezas Industrial Total Thkthp21426,,11,0.5510578605926938,q_neg=1 (p=0.29%); q=-0.02 (p=0.29%); log_l=1.1 (p=1.66%),0
+59788,2020-04-17 23:04:22,61.69,AR,cat_4d863c8,Máscara Protector Facial Barrera Sanitaria Reutilizable,Y,23,0.5510558650803725,hora=23 (p=2.21%); log_m=6.9 (p=4.40%); hora_bin=noche (p=5.87%),0
+93983,2020-04-18 00:11:43,4.9,AR,cat_7975567,Pin De Carga Placa Joytistick Ps4 V2 12 Pines Jds-050 -055,,0,0.5510342368469396,hora=0 (p=1.27%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),0
+48403,2020-04-21 21:36:22,134.88,US,cat_d7114ee,Lavadora De Alta Pressao A Gasolina Lifan-152f-3,,21,0.5510336020135115,log_l=0 (p=1.35%); g=US (p=1.37%); log_monto=4.91 (p=6.32%),0
+83943,2020-04-20 22:30:25,306.92,AR,cat_43b9c10,Samsung Galaxy A30 32 Gb Blanco 3 Gb Ram,,22,0.5509865239484664,log_c=15.6 (p=0.29%); log_monto=5.73 (p=1.97%); hora_bin=noche (p=5.87%),0
+94188,2020-04-15 01:02:13,40.21,BR,cat_9d78e2e,Kit Gamer Teclado Mouse Fone Headset 7.1 Led Haiz Hz20,,1,0.5509847081422772,log_l=0.693 (p=1.56%); hora=1 (p=1.91%); es_madrugada=1 (p=3.71%),0
+56788,2020-04-18 02:16:43,78.77,BR,cat_e2e3c67,Pedivela Shimano Ultegra 6700,,2,0.550972747532909,log_l=8.87 (p=0.43%); b=1 (p=1.42%); hora=2 (p=2.30%),0
+91105,2020-04-20 12:34:40,134.44,UY,cat_f933e18,Juego Dormitorio Ropero + Cama + Cajonera + Mesa De Luz,,12,0.5509378381767426,g=UY (p=1.86%); log_l=2.77 (p=2.30%); log_monto=4.91 (p=6.34%),0
+8080,2020-04-19 03:52:16,20.68,BR,cat_9a8fa4c,Funko Pop! Exclusivo Animation Naruto Uzumaki Sexy Jutsu 726,N,3,0.5509210617583749,hora=3 (p=2.56%); es_madrugada=1 (p=3.71%); hora_bin=madrugada (p=3.71%),1
+35692,2020-04-15 00:53:26,22.59,AR,cat_9256c37,Fuyi 45 Noches,,0,0.550831280775218,len_titulo=14 (p=0.54%); hora=0 (p=1.27%); n_palabras=3 (p=1.65%),0
+79654,2020-04-17 00:02:18,69.98,AR,cat_df1f6b6,Modelismo Solo Para Paternoster,,0,0.5508198921830103,hora=0 (p=1.27%); n_palabras=4 (p=3.50%); es_madrugada=1 (p=3.71%),0
+145618,2020-04-17 07:52:59,521.87,BR,cat_e776612,"Conjunto Cama Box Queen Aspen Fa Maringá 1,58x1,98x0,68",N,7,0.550798807602446,log_monto=6.26 (p=0.67%); hora=7 (p=8.64%); cant_simbolos=3 (p=9.61%),0
+76010,2020-04-20 18:08:14,339.32,UY,cat_bc29c81,Carpa Armario Cultivo Indoor Completo 80 X 80 X 180 250w,,18,0.5507970515102848,log_monto=5.83 (p=1.61%); g=UY (p=1.86%); cant_digitos=10 (p=7.61%),0
+13942,2020-04-20 08:28:48,6.79,BR,cat_237e2d0,Tela Vidro S/ Touch Asus Zenfone Max Shot Zb634kl A001d + 3m,N,8,0.5507595762772498,f_neg=1 (p=0.81%); n_palabras=12 (p=8.26%); n=0 (p=9.55%),0
+121396,2020-04-19 22:58:48,3.35,BR,cat_8226450,Máscara Lavável Nike - Oakley - Lascoste - Tommy,Y,22,0.5506848401473604,log_c=3.2 (p=0.58%); log_monto=1.47 (p=3.49%); hora_bin=noche (p=5.87%),1
+68594,2020-04-18 17:04:12,244.72,BR,cat_43b9c10,Motorola Moto G G8 Play 32 Gb Royal Magenta 2 Gb Ram,N,17,0.5506569845509512,log_c=15.5 (p=0.74%); pct_mayusculas=0.192 (p=1.90%); a=1 (p=2.71%),1
+5336,2020-04-17 09:44:20,216.43,BR,cat_43b9c10,Smartphone Galaxy A30s Tv 64gb Tela 6.4 Dual Chip Samsung,,9,0.5506083517673633,log_l=0 (p=1.35%); a=1 (p=2.71%); b=0.92 (p=3.19%),1
+110251,2020-04-19 19:35:30,106.66,AR,cat_a11e9c3,#mesa Tocador Y Maquillaje,Y,19,0.5505802097552025,len_titulo=26 (p=2.75%); b=0.926 (p=2.97%); n_palabras=4 (p=3.50%),1
+39695,2020-04-20 16:27:18,126.95,AR,cat_43b9c10,Celular Samsung Galaxy J7 Prime 32gb Negro,,16,0.5505562124969938,log_c=1.97 (p=0.15%); b=0 (p=0.38%); log_l=4.48 (p=4.34%),1
+80132,2020-04-16 10:26:52,81.18,AR,cat_f82149f,Alta Frecuencia Portátil,Y,10,0.5505423134919187,f_neg=1 (p=0.81%); n_palabras=3 (p=1.65%); len_titulo=24 (p=2.19%),0
+112936,2020-04-21 17:32:15,91.6,AR,cat_6e78bd3,Montura De Cuero Repujado,N,17,0.5505049586668224,b=0.0614 (p=0.46%); len_titulo=25 (p=2.43%); log_c=5.53 (p=3.26%),0
+24457,2020-04-18 15:14:45,3.47,UY,cat_6569fdd,Maceta  Colgar Plastico,N,15,0.5504771105100923,n_palabras=3 (p=1.65%); g=UY (p=1.86%); len_titulo=23 (p=1.96%),0
+127018,2020-04-20 09:48:24,449.0,UY,cat_cf03adb,Caminador Bravo 170 S Megastore Virtual,,9,0.5504518844467142,log_monto=6.11 (p=0.90%); g=UY (p=1.86%); b=0.879 (p=5.72%),0
+82528,2020-04-21 00:52:47,10.94,AR,cat_8b56209,Funda  Asiento Tc4 Honda Cg Titan 150 Viejo O New Gripp Fas!,,0,0.5504398333728524,hora=0 (p=1.27%); log_c=14.4 (p=3.43%); es_madrugada=1 (p=3.71%),0
+146082,2020-04-20 22:48:53,0.92,AR,cat_3203c7c,Nacarid Portal Arraez - Mientras Te Olvido,,22,0.5503865996491966,log_monto=0.652 (p=0.34%); b=0.384 (p=2.40%); log_m=6.9 (p=4.52%),0
+9745,2020-04-18 18:45:12,10.61,BR,cat_b5f87fb,Teclado Para Notebook Hp Q43 1000 G4-1004 Cq43-112 Aer15600010 Br - Marca Bringit,N,18,0.5503796502027046,cant_digitos=24 (p=0.48%); f_neg=1 (p=0.81%); len_titulo=81 (p=1.35%),0
+1353,2020-04-19 09:41:21,3.05,AR,cat_2dd6517,Webcam Con Microfono Pie Flexible Camara Web Para Pc Oferta,N,9,0.5502726844100005,log_monto=1.4 (p=2.71%); h=48 (p=4.00%); pct_mayusculas=0.169 (p=10.06%),0
+133438,2020-04-18 23:51:01,12.58,AR,cat_be647de,Tripode Universal C/soporte Nm-trip1 Netmak,N,23,0.5502699143798193,hora=23 (p=2.21%); log_f=5.05 (p=5.68%); hora_bin=noche (p=5.87%),0
+49525,2020-04-20 00:17:14,26.98,BR,cat_3a7b4d7,Carregador De Pilhas Recarregáveis Sony Aa/aaa Com 4 Pilhas,N,0,0.550229927159215,hora=0 (p=1.27%); log_l=2.48 (p=2.17%); es_madrugada=1 (p=3.71%),0
+40364,2020-04-15 21:33:18,537.88,AR,cat_43b9c10,Celular Libre Motorola One Hyper Azul,,21,0.5501720501199117,log_monto=6.29 (p=0.62%); log_c=14.5 (p=2.91%); log_m=6.98 (p=3.06%),0
+103837,2020-04-16 22:28:49,48.89,AR,cat_e189df3,Despensero Organizador 2 Puertas Cocina - Todohogar,,22,0.5501043273187126,log_l=4.74 (p=5.07%); pct_mayusculas=0.098 (p=5.13%); h=46 (p=5.52%),0
+53487,2020-04-19 17:06:51,905.69,BR,cat_4ccec9f,Playstation 4 Vr Mod Novo Zvr2 + Câmera + 2 Move + 2 Jogos,,17,0.5500798942718881,log_monto=6.81 (p=0.15%); n_palabras=14 (p=1.91%); b=0.948 (p=2.36%),0
+82099,2020-04-20 13:41:48,161.14,AR,cat_1d589be,Bomba Volumetrica Centrifuga Procon 100gph Sin Motor,N,13,0.5500767982047181,b=0 (p=0.38%); log_c=4.07 (p=1.22%); log_monto=5.09 (p=5.09%),0
+19770,2020-04-14 21:15:02,32.31,US,cat_76066bc,Escape Silenciador Deportivo Trasero Fox Vw,N,21,0.5500657946803371,g=US (p=1.37%); log_l=1.79 (p=1.86%); b=0.449 (p=3.74%),0

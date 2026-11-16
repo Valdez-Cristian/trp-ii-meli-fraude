@@ -1,0 +1,101 @@
+{
+  "TP": {
+    "predicted_probability": 0.6933362208691708,
+    "base_value_logit": -4.17129398722995,
+    "top_drivers": [
+      {
+        "feature": "o",
+        "shap_contribution": 1.8441774800234951,
+        "direction": "Incrementa Riesgo"
+      },
+      {
+        "feature": "score",
+        "shap_contribution": 0.8146729680545174,
+        "direction": "Incrementa Riesgo"
+      },
+      {
+        "feature": "score_bin",
+        "shap_contribution": 0.5099003015186512,
+        "direction": "Incrementa Riesgo"
+      },
+      {
+        "feature": "b",
+        "shap_contribution": 0.3128663725324798,
+        "direction": "Incrementa Riesgo"
+      },
+      {
+        "feature": "j",
+        "shap_contribution": 0.2928908545874267,
+        "direction": "Incrementa Riesgo"
+      }
+    ],
+    "tipo": "True Positive (Fraude Detectado Correctamente)",
+    "id": 81
+  },
+  "FP": {
+    "predicted_probability": 0.5675928857790061,
+    "base_value_logit": -4.17129398722995,
+    "top_drivers": [
+      {
+        "feature": "o",
+        "shap_contribution": 1.572674582773877,
+        "direction": "Incrementa Riesgo"
+      },
+      {
+        "feature": "score",
+        "shap_contribution": 1.5092480000129553,
+        "direction": "Incrementa Riesgo"
+      },
+      {
+        "feature": "score_bin",
+        "shap_contribution": 0.5303764660158483,
+        "direction": "Incrementa Riesgo"
+      },
+      {
+        "feature": "log_l",
+        "shap_contribution": 0.25938530941363025,
+        "direction": "Incrementa Riesgo"
+      },
+      {
+        "feature": "n",
+        "shap_contribution": 0.159600604643117,
+        "direction": "Incrementa Riesgo"
+      }
+    ],
+    "tipo": "False Positive (Falsa Alarma / Fricci\u00f3n)",
+    "id": 129
+  },
+  "FN": {
+    "predicted_probability": 0.04355000582497294,
+    "base_value_logit": -4.17129398722995,
+    "top_drivers": [
+      {
+        "feature": "o",
+        "shap_contribution": -0.44270300156445624,
+        "direction": "Disminuye Riesgo"
+      },
+      {
+        "feature": "score",
+        "shap_contribution": 0.436531027886967,
+        "direction": "Incrementa Riesgo"
+      },
+      {
+        "feature": "log_l",
+        "shap_contribution": 0.23593958967610282,
+        "direction": "Incrementa Riesgo"
+      },
+      {
+        "feature": "log_m",
+        "shap_contribution": 0.2211271729779087,
+        "direction": "Incrementa Riesgo"
+      },
+      {
+        "feature": "log_f",
+        "shap_contribution": 0.21211613925609782,
+        "direction": "Incrementa Riesgo"
+      }
+    ],
+    "tipo": "False Negative (Fraude Escapado / P\u00e9rdida $200)",
+    "id": 4
+  }
+}

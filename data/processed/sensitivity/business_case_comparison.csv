@@ -1,0 +1,4 @@
+Escenario,Umbral,Costo Total ($),FP,FN,Precision,Recall,Ahorro vs No Acción ($),Ahorro vs No Acción (%),Ahorro vs Legado ($)
+1. No hacer nada (sin filtros),N/A,1125400.0,0,5627,0.0,0.0,0.0,0.0,-132240.0
+2. Motor actual (Score Legado >= 98),Score >= 98,993160.0,1672,4924,0.296,0.12493335702861205,132240.0,11.750488715123511,0.0
+3. Modelo Propuesto (LightGBM Tuned >= 0.26),Proba >= 0.26,674365.0,2073,3320,0.5267123287671233,0.40998755997867425,451035.0,40.077750133285946,318795.0
